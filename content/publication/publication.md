@@ -3,7 +3,6 @@
 ## 原著論文
 <details>
 <summary>こちら</summary>
-<div>
 
 3. "Write-error rate of nanoscale magnetic tunnel junctions in the precessional regime",<br>
     Takaharu Saino, Shun Kanai, **Motoya Shinozaki**, Butsurin Jinnai, Hideo Sato, Shunsuke Fukami, and Hideo Ohno,<br>
@@ -17,7 +16,6 @@
     **Motoya Shinozaki**, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
     Applied Physics Express 10, 013001 (2017).<br><br>
 
-</div>
 </details>
 <br><br>
 
@@ -91,6 +89,13 @@
 	Motoya Shinozaki, Shun Kanai, Eli Cristopher I. Enobio, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
 	York-Tohoku Summer School in Spintronics, York, British, 26-28 July 2017.<br><br>
 
+</div>
+</details>
+
+<details>
+<summary>FY2016</summary>
+<div>
+
 7. "Homodyne-detected ferromagnetic resonance in nanoscale magnetic tunnel junction under perpendicular magnetic fields"<br>
 	Motoya Shinozaki, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
 	Regensburg-Tohoku Workshop on Solid-State Physics and Spintronics, Zao, Japan, 28-30 March 2017.<br><br>
@@ -118,13 +123,19 @@
 1. "Evaluation of damping constant in a nanoscale magnetic tunnel junction by homodyne-detected ferromagnetic resonance"<br>
 	Motoya Shinozaki, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
 	3rd Workshop of the Core-to-Core Project Tohoku-York-Kaiserslautern New concepts for future spintronic devices, Kaiserslautern, Germany, 22-24 June 2016.<br><br>
-    
+
 </div>
 </detail>
 
 <br><br>
 
+
 ## 国内会議・研究会等
+
+<details>
+<summary>FY2017</summary>
+<div>
+
 
 
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
