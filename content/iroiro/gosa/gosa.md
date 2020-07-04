@@ -12,8 +12,7 @@
 
 デジタル計器ではどうでしょうか。小数点以下まで詳細に値を示してくれるので、アナログとは異なり誰が見ても同じ値を読み取ることができるので一見誤差はなさそうです。<br>
 しかし、連続なアナログ値である電圧をデジタル値に変換して読み出すため、ここで誤差が生じます。例えば測定レンジが-2V~+2V, 4bitの場合、<br>
-<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Orange}&space;\frac{2-(-2)}{2^{4}}=0.25}&space;{\color{DarkGreen}&space;\frac{2-(-2)}{2^{4}}=0.25}&space;{\color{Purple}&space;\frac{2-(-2)}{2^{4}}=0.25}&space;{\color{Orchid}&space;\frac{2-(-2)}{2^{4}}=0.25}"/>
-
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;\frac{2-(-2)}{2^{4}}=0.25}"/><br>
 と、0.25V刻みで値を読み取ることができます。これでは0.1Vといった単位の値を読むことができず、中々誤差が大きいです。<br>
 例えば私たちが量子ドットの高速測定で使っている電圧計では、測定レンジが-100mV~+100mV, 14bitなので凡そ12μVの分解能があります。<br>
 
@@ -22,20 +21,19 @@
 ## 誤差を含む計算
 
 誤差との格闘を経て、ある精度での電流・電圧値を得たら次はおたのしみの解析の時間です。今回は、得られた電圧値を流した電流値で割って、抵抗値を算出することを考えます。電流と電圧にそれぞれ誤差ΔI, ΔVを仮定すると、誤差を含む抵抗値は<br>
-$$ R+\Delta R=\frac{V+\Delta V}{I+\Delta I} $$<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;R+\Delta R=\frac{V+\Delta V}{I+\Delta I}}"/><br>
 それでは、この式を少し弄ってあげましょう。分母に多項式があると少々厄介なので、単位が変わらないよう注意して次のように近似します。<br>
 $$ \frac{1}{I+\Delta I}=\frac{1}{I}\left(1+\frac{\Delta I}{I}\right)^{-1}≈\frac{1}{I}\left(1-\frac{\Delta I}{I}\right) $$<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;\frac{1}{I&plus;\Delta&space;I}=\frac{1}{I}\left(1&plus;\frac{\Delta&space;I}{I}\right)^{-1}\approx\frac{1}{I}\left(1-\frac{\Delta&space;I}{I}\right)}"/><br>
 ここで次の近似を使いました。(Δxはとても小さいと考えます)<br>
-$$ 1+\Delta x)^{n}\approx 1+n\Delta x $$<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;(1+\Delta x)^{n}\approx 1+n\Delta x}"/><br>
 よって、誤差を含む抵抗値は<br>
-$$ \begin{align}
-R+\Delta R&=\frac{1}{I}(1-\frac{\Delta I}{I})(V+\Delta V)\\
-&=\frac{V}{I}+\frac{\Delta V}{I}-\frac{V}{I^{2}}\Delta I-\frac{\Delta V \Delta I}{I^{2}}\end{align} $$<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;\begin{align*}&space;R&plus;\Delta&space;R&=\frac{1}{I}(1-\frac{\Delta&space;I}{I})(V&plus;\Delta&space;V)\\&space;&=\frac{V}{I}&plus;\frac{\Delta&space;V}{I}-\frac{V}{I^{2}}\Delta&space;I-\frac{\Delta&space;V&space;\Delta&space;I}{I^{2}}\end{align}}"/><br>
 誤差同士の積はとても小さいので無視すると、結局抵抗の誤差ΔRは<br>
-$$ \Delta R = \frac{\Delta V}{I}-\frac{V}{I^{2}}\Delta I $$<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;\Delta R = \frac{\Delta V}{I}-\frac{V}{I^{2}}\Delta I}"/><br>
 となります。計器や回路によって生じる誤差が抵抗値に及ぼす影響がわかりました。各項が近い値になると抵抗の誤差が小さくなることがわかります。
 また、相対誤差は<br>
-$$|\frac{\Delta R}{R}| = |\frac{\Delta V}{V}|+|\frac{\Delta I}{I}|$$<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;|\frac{\Delta R}{R}| = |\frac{\Delta V}{V}|+|\frac{\Delta I}{I}|}"/><br>
 と表され、結局それぞれの相対誤差の和となります。系に一定の誤差があるときは、微小信号の測定ほど大変であることがわかります。<br>
 
 ## [Iroiroに戻る](../iroiro.md)
