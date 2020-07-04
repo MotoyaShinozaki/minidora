@@ -1,11 +1,11 @@
 <img src="./Top.png" width="600px">
 
 # Contents:
-## [Introduction](./content/introduction/introduction.md)
+## [AboutMe](./content/introduction/introduction.md)
 ## [Study](./content/study/study.md)
 ## [Publications](./content/publication/publication.md)
-## Iroiro
-## 近況
+## [Iroiro](./iroiro/iroiro.md)
+## News
 ## Others
 <br>
 
