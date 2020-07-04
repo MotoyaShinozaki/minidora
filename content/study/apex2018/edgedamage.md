@@ -34,4 +34,5 @@ Junta Igarashi, Justin Llandro, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<
 **Motoya Shinozaki**, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
 [ Applied Physics Express 11, 043001 (2018).](https://iopscience.iop.org/article/10.7567/APEX.11.043001){:target="_blank"}<br><br>
 
+## [Studyに戻る](../study.md)
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
