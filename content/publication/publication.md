@@ -1,7 +1,5 @@
 # Publications
 
-**test**
-
 ## 原著論文
 <details>
 <summary>こちら</summary>
@@ -78,6 +76,7 @@
 10. "Effect of Free-layer size on magnetic properties in nanoscale magnetic tunnel junctions"<br>
 	Motoya Shinozaki, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
 	Intermag 2018, Singapore, 23-27 April 2018.<br><br>
+
 </div>
 </details>
 
@@ -135,7 +134,6 @@
 
 
 ## 国内会議・研究会等
-
 <details>
 <summary>FY2020</summary>
 <div>
