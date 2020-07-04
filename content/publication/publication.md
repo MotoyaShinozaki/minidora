@@ -1,9 +1,7 @@
+# Publications
+
+## 原著論文
 <details>
-<summary><div>
-
-# 原著論文
-
-</div></summary>
 <div>
 
 1. "Write-error rate of nanoscale magnetic tunnel junctions in the precessional regime",<br>
@@ -21,8 +19,10 @@ Applied Physics Express 10, 013001 (2017).<br><br>
 </div>
 </details>
 
-# 国際会議
+## 国際会議
 
 
+## 国内会議・研究会等
 
-# 国内会議・研究会等
+
+## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
