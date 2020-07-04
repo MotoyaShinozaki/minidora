@@ -1,5 +1,5 @@
 # Contents
-## [Introduction](.introduction/introduction.md)
+## [Introduction](./introduction/introduction.md)
 ## Study
 ## Publications
 ## Iroiro
