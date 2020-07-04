@@ -1,3 +1,5 @@
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
+
 # 誤差について
 ## はじめに
 電気測定の一番の基本は、電流を流して電圧を測ることです(逆でもいいですが)。
@@ -12,9 +14,7 @@
 
 デジタル計器ではどうでしょうか。小数点以下まで詳細に値を示してくれるので、アナログとは異なり誰が見ても同じ値を読み取ることができるので一見誤差はなさそうです。<br>
 しかし、連続なアナログ値である電圧をデジタル値に変換して読み出すため、ここで誤差が生じます。例えば測定レンジが-2V~+2V, 4bitの場合、<br>
-
-<html><head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_CHTML"></script><title></title></head><body>
-\(\frac{2-(-2)}{2^{4}}=0.25\)</body></html>
+<img src="https://latex.codecogs.com/gif.latex?\ \frac{2-(-2)}{2^{4}}=0.25"/>
 
 と、0.25V刻みで値を読み取ることができます。これでは0.1Vといった単位の値を読むことができず、中々誤差が大きいです。<br>
 例えば私たちが量子ドットの高速測定で使っている電圧計では、測定レンジが-100mV~+100mV, 14bitなので凡そ12μVの分解能があります。<br>
