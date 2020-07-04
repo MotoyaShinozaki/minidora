@@ -7,16 +7,16 @@
 
 3. "Write-error rate of nanoscale magnetic tunnel junctions in the precessional regime",<br>
     Takaharu Saino, Shun Kanai, <b>Motoya Shinozaki</b>, Butsurin Jinnai, Hideo Sato, Shunsuke Fukami, and Hideo Ohno,<br>
-    [Applied Physics Letters 115, 142406 (2019).](https://aip.scitation.org/doi/10.1063/1.5121157){:target="_blank"}<br><br>
+    <a href="https://aip.scitation.org/doi/10.1063/1.5121157"target="_blank">Applied Physics Letters <b>115</b>, 142406 (2019).</a><br><br>
 
 2. "Free-layer Size Dependence of Anisotropy Field in Nanoscale CoFeB/MgO Magnetic Tunnel Junctions"<br>
-    Motoya Shinozaki, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
-    [Applied Physics Express 11, 043001 (2018).](https://iopscience.iop.org/article/10.7567/APEX.11.043001){:target="_blank"}<br><br>
+    <b>Motoya Shinozaki</b>, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
+    <a href="https://iopscience.iop.org/article/10.7567/APEX.11.043001"target="_blank">Applied Physics Express <b>11</>, 043001 (2018).</a><br><br>
+    
 
 1. "Damping constant in a free layer in nanoscale CoFeB/MgO magnetic tunnel junctions investigated by homodyne-detected ferromagnetic resonance"<br>
-    Motoya Shinozaki, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
-    [Applied Physics Express 10, 013001 (2017).](https://iopscience.iop.org/article/10.7567/APEX.10.013001){:target="_blank"}<br><br>
-
+    <b>Motoya Shinozaki</b>, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
+    <a href="https://iopscience.iop.org/article/10.7567/APEX.10.013001"target="_blank">Applied Physics Express <b>10,</b> 013001 (2017).</a><br><br>
 </div>
 </details>
 <br><br>

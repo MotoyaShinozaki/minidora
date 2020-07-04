@@ -1,5 +1,3 @@
-<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
-
 # 誤差について
 ## はじめに
 電気測定の一番の基本は、電流を流して電圧を測ることです(逆でもいいですが)。
