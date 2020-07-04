@@ -1,7 +1,7 @@
 # Contents
 ## [Introduction](./content/introduction/introduction.md)
 ## Study
-## Publications
+## [Publications](./content/publication/publication.md)
 ## Iroiro
 ## 近況
 ## Others
