@@ -5,11 +5,11 @@
 <summary>こちら</summary>
 <div>
 
-1. "Write-error rate of nanoscale magnetic tunnel junctions in the precessional regime",<br>
+3. "Write-error rate of nanoscale magnetic tunnel junctions in the precessional regime",<br>
     Takaharu Saino, Shun Kanai, Motoya Shinozaki, Butsurin Jinnai, Hideo Sato, Shunsuke Fukami, and Hideo Ohno,<br>
     Applied Physics Letters 115, 142406 (2019).<br><br>
 
-1. "Free-layer Size Dependence of Anisotropy Field in Nanoscale CoFeB/MgO Magnetic Tunnel Junctions"<br>
+2. "Free-layer Size Dependence of Anisotropy Field in Nanoscale CoFeB/MgO Magnetic Tunnel Junctions"<br>
     Motoya Shinozaki, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
     Applied Physics Express 11, 043001 (2018).<br><br>
 
@@ -234,7 +234,7 @@
 </details>
 
 <details>
-<summary>FY2013</summary>
+<summary>FY2012</summary>
 <div>
 
 1. "YBa<sub>2</sub>Cu<sub>2</sub>O<sub>7-δ</sub>薄膜のノーマル電気伝導モデルと超伝導揺らぎ伝導率"<br>
