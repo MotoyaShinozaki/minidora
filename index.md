@@ -4,7 +4,7 @@
 ## [AboutMe](./content/introduction/introduction.md)
 ## [Study](./content/study/study.md)
 ## [Publications](./content/publication/publication.md)
-## [Iroiro](./iroiro/iroiro.md)
+## [Iroiro](./content/iroiro/iroiro.md)
 ## News
 ## Others
 <br>
