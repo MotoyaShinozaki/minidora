@@ -28,11 +28,11 @@ MTJ素子の応用のためには、素子の微細加工が必要不可欠で�
 ## 参考文献
 1. "Magnetic-field-angle dependence of coercivity in CoFeB/MgO magnetic tunnel junctions with perpendicular easy axis"<br>
 Junta Igarashi, Justin Llandro, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
-[Applied Physics Letters 111, 132407 (2017).](https://aip.scitation.org/doi/10.1063/1.5004968){:target="_blank"}<br><br>
+[Applied Physics Letters **111**, 132407 (2017).](https://aip.scitation.org/doi/10.1063/1.5004968){:target="_blank"}<br><br>
 
 1. "Free-layer Size Dependence of Anisotropy Field in Nanoscale CoFeB/MgO Magnetic Tunnel Junctions"
 **Motoya Shinozaki**, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
-[ Applied Physics Express 11, 043001 (2018).](https://iopscience.iop.org/article/10.7567/APEX.11.043001){:target="_blank"}<br><br>
+[ Applied Physics Express **11**, 043001 (2018).](https://iopscience.iop.org/article/10.7567/APEX.11.043001){:target="_blank"}<br><br>
 
 ## [Studyに戻る](../study.md)
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
