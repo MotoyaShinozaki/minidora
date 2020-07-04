@@ -2,4 +2,4 @@
 quanum dot
 ## Doraemon
 minidora
-test link [here](./content/test.md)
+$1+1=2$
