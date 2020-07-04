@@ -14,12 +14,15 @@ MTJは、MRAM以外にも高感度磁場センサやナノスケール発振器�
 
 最近は機械学習やFPGAといったソフト・ハードウェアの面からスピントロニクスや量子デバイスの研究へのアプローチに興味があり、手を出そうとしています。<br><br>
 
-## これまでの成果
+## 主な成果
 [微細MTJ素子における磁気特性評価](./apex2017/damping.md)<br>
 [微細加工プロセスの磁気特性への影響](./apex2018/edgedamage.md)<br>
 <br>
 
 ## おまけ
 [ギャラリー](./galley/sem.md)
+
+<img src="./hako.jpg" width="600px">
+<img src="./makoton.png" width="600px">
 
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
