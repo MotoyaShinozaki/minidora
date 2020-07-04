@@ -1,14 +1,15 @@
 <img src="./Top.png" width="600px">
 
-# Contents
+# Contents:
 ## [Introduction](./content/introduction/introduction.md)
 ## [Study](./content/study/study.md)
 ## [Publications](./content/publication/publication.md)
 ## Iroiro
 ## 近況
 ## Others
+<br><br>
 
-# 更新履歴
+# 更新履歴:
 2020/6/28 : "その他 (競技プログラミング)"を更新<br>
 2020/6/6   : "その他 (量子力学と白色ノイズの観測)"を更新<br>
 2020/6/3   : "論文・発表 (国内学会・研究会等)"を更新<br>
