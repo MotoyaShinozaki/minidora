@@ -1,12 +1,15 @@
 # 篠﨑 基矢(しのざき もとや / Motoya Shinozaki)
+
 ## 所属
 東北大学 電気通信研究所 [量子デバイス研究室 (大塚研究室)](https://ja.qd.riec.tohoku.ac.jp/)
+
 ## 連絡先
 <img src="./mail.png" width="200px">
-<!-- ![mail](./mail.png) -->
+
 ## その他
 [GitHub](https://github.com/MotoyaShinozaki)<br>
 [ORCiD](https://orcid.org/0000-0001-9460-9156)<br>
+
 ## 略歴
 略歴<br>
 2009/4 国立小山工業高等専門学校 電気情報工学科 入学<br>
