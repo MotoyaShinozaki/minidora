@@ -22,7 +22,7 @@ MTJは、MRAM以外にも高感度磁場センサやナノスケール発振器�
 ## おまけ
 [ギャラリー](./galley/sem.md)
 
-<img src="./hako.jpg" width="600px">
-<img src="./makoton.png" width="600px">
+<img src="./hako.jpg" width="300px">
+<img src="./makoton.png" width="300px">
 
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
