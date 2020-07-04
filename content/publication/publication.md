@@ -128,7 +128,7 @@
 	3rd Workshop of the Core-to-Core Project Tohoku-York-Kaiserslautern New concepts for future spintronic devices, Kaiserslautern, Germany, 22-24 June 2016.<br><br>
 
 </div>
-</detail>
+</details>
 
 <br><br>
 
@@ -242,7 +242,7 @@
 	第 3 回電気学会東京支部栃木・群馬支所合同研究発表会,  宇都宮大学, 宇都宮, 2013 年2 月28日.<br><br>
 
 </div>
-</detail>
+</details>
 
 <br><br>
 
