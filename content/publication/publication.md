@@ -87,7 +87,7 @@
 <li> "Damping constant in nanoscale magnetic tunnel junctions with perpendicular easy axis determined by ferromagnetic resonance under perpendicular magnetic fields"<br>
 	Motoya Shinozaki, Shun Kanai, Eli Cristopher I. Enobio, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
 	York-Tohoku Summer School in Spintronics, York, British, 26-28 July 2017.<br><br></li>
-<ol>
+</ol>
 </details>
 
 <details>
