@@ -27,7 +27,7 @@
 <div>
 
 20. "Write-error rate of nanoscale magnetic tunnel junctions in the precessional regime"<br>
- 	Takaharu Saino, Shun Kanai, Motoya Shinozaki, Butsurin Jinnai, Hideo Sato, Shunsuke Fukami, and Hideo Ohno,<br>
+ 	Takaharu Saino, Shun Kanai, <b>Motoya Shinozaki</b>, Butsurin Jinnai, Hideo Sato, Shunsuke Fukami, and Hideo Ohno,<br>
  	The 3rd Symposium for The Core Research Clusters for Materials Science and Spintronics, Sendai, Japan,  10-11 Feb. 2020.<br><br>
 
 19. "Ferromagnetic resonance and current induced magnetization switching in nanoscale CoFeB/MgO magnetic tunnel junctions"<br>
