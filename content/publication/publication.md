@@ -74,7 +74,7 @@
 <li> "Effect of Free-layer size on magnetic properties in nanoscale magnetic tunnel junctions"<br>
 	Motoya Shinozaki, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
 	Intermag 2018, Singapore, 23-27 April 2018.<br><br></li>
-<\ol>
+</ol>
 </details>
 
 <details>
