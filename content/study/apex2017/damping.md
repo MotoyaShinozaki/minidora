@@ -19,7 +19,6 @@ MTJ素子に外部磁界と数GHzという高周波信号を印可し、MTJ素�
 <img src="./FMR.png" width="300px" title="FMR"><br>
 <em>図1. 垂直磁界下における強磁性共鳴の検出</em>
 </p><br>
-
 また、共鳴スペクトルの半値幅と共鳴周波数の間にも図2のように線形関係が得られ、この傾きからはダンピング定数(磁気緩和定数)を評価することができます。<br>
 <p>
 <img src="./df_fr.jpg" width="300px" title="linewidth"><br>
