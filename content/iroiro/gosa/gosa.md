@@ -1,11 +1,13 @@
-<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 <script type="text/x-mathjax-config">
- MathJax.Hub.Config({
- tex2jax: {
- inlineMath: [["\\(","\\)"] ],
- displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
- }
- });
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+    }
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
 # 誤差について
@@ -24,7 +26,7 @@
 デジタル計器ではどうでしょうか。小数点以下まで詳細に値を示してくれるので、アナログとは異なり誰が見ても同じ値を読み取ることができるので一見誤差はなさそうです。<br>
 しかし、連続なアナログ値である電圧をデジタル値に変換して読み出すため、ここで誤差が生じます。例えば測定レンジが-2V~+2V, 4bitの場合、<br>
 
-$$ \frac{2-(-2)}{2^{4}}=0.25 $$
+\\[ \frac{2-(-2)}{2^{4}}=0.25 \\]
 
 と、0.25V刻みで値を読み取ることができます。これでは0.1Vといった単位の値を読むことができず、中々誤差が大きいです。<br>
 例えば私たちが量子ドットの高速測定で使っている電圧計では、測定レンジが-100mV~+100mV, 14bitなので凡そ12μVの分解能があります。<br>
