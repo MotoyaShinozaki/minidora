@@ -6,7 +6,7 @@
 ## [Publications](./content/publication/publication.md)
 ## [Iroiro](./content/iroiro/iroiro.md)
 ## [News](./content/news/tweet.md)
-## Others
+## [Others](./content/others/others.md)
 <br>
 
 <details>
