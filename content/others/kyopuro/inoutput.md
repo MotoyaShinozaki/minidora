@@ -79,3 +79,7 @@ M=1の場合、`a=[[A_1], [A_2], [A_3], ... , [A_N]]`となってしまうので
 print(' '.join(map(str, list))) #リストをスペース区切りにして出力
 ```
 `' '`の中身を区切りたい文字やスペース、カンマにする。
+
+# Return
+## [競技プログラミングに戻る](./kyopuro.md)
+## [Topに戻る](https://motoyashinozaki.github.io/minidora/)

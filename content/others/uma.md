@@ -61,3 +61,6 @@
 
 </table>
 
+# Return
+## [その他に戻る](../others.md)
+## [Topに戻る](https://motoyashinozaki.github.io/minidora/)

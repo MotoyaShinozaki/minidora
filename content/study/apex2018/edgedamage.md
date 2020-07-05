@@ -1,6 +1,4 @@
 ## 微細加工プロセスの磁気特性への影響
-<br>
-
 ## はじめに
 MRAM等への応用が期待されているMTJですが、その素子サイズは直径数十nm程度でとても微細なものです。そこで私たちは微細加工がMTJ素子の磁気特性に与える影響について調べました。<br>
 
@@ -13,7 +11,6 @@ MTJ素子の磁気特性には素子形状の寄与が大きいです。その�
 </p>
 
 これら2種類の素子間では、**全く同じ材料構成・素子サイズにも関わらず磁化反転モードが異なる**ことが、私の友達の五十嵐君らの研究によりわかっていました。そこで私たちは、これら2種類の様々なサイズの素子における磁気異方性を評価しました。すると、サイズが40~50nm付近以下になると大きな差が現れてきました(図2)。<br>
-
 <p>
 <img src="./size_dep.jpg" width="300px" title="size_dep"><br>
 <em>図2. 磁気異方性の素子サイズ依存性</em>
@@ -34,5 +31,6 @@ Junta Igarashi, Justin Llandro, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<
 **Motoya Shinozaki**, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
 [ Applied Physics Express **11**, 043001 (2018).](https://iopscience.iop.org/article/10.7567/APEX.11.043001){:target="_blank"}<br><br>
 
+# Return
 ## [Studyに戻る](../study.md)
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)

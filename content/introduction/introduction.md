@@ -1,6 +1,4 @@
 # 自己紹介
-<br>
-
 ## 名前
 篠﨑 基矢(しのざき もとや / Motoya Shinozaki)
 
@@ -25,4 +23,5 @@
 2018/10 東北大学 工学研究科 電子工学専攻 博士後期課程 編入学 ← 今ここ<br>
 2020/4 - 日本学術振興会特別研究員(DC2)<br>
 
+# Return
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)

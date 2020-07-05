@@ -25,10 +25,9 @@
 北田孝仁、阿部峰也、瀬尾瑞樹、金子俊郎、加藤俊顕、大塚朋廣、<br>
 日本物理学会、名古屋、2020年4月<br>
 
-## 関連項目
-[量子ドットの高速測定に戻る](./rf_meas.md)<br>
+# 関連項目
+## [量子ドットの高速測定](./rf_meas.md)<br>
 
+# Return
 ## [Iroiroに戻る](../iroiro.md)
-<br>
-
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)

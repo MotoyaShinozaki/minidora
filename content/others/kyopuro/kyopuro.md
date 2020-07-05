@@ -9,4 +9,11 @@
 
 このページでは、今後のコンテスト等のために何か使えそうな自分用ライブラリを纏めたいと思います。<br>
 
+# Contents
 ## [標準入出力](./inoutput.md)
+
+
+
+# Return
+## [その他に戻る](../others.md)
+## [Topに戻る](https://motoyashinozaki.github.io/minidora/)

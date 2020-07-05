@@ -34,7 +34,7 @@ $$ \frac{1}{I+\Delta I}=\frac{1}{I}\left(1+\frac{\Delta I}{I}\right)^{-1}≈\fra
 となります。計器や回路によって生じる誤差が抵抗値に及ぼす影響がわかりました。各項が近い値になると抵抗の誤差が小さくなることがわかります。
 また、相対誤差は<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;|\frac{\Delta R}{R}| = |\frac{\Delta V}{V}|+|\frac{\Delta I}{I}|}"/><br>
-と表され、結局それぞれの相対誤差の和となります。系に一定の誤差があるときは、微小信号の測定ほど大変であることがわかります。<br>
-
+と表され、結局それぞれの相対誤差の和となります。系に一定の誤差があるときは、微小信号の測定ほど大変であることがわかります。
+# Return
 ## [Iroiroに戻る](../iroiro.md)
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)

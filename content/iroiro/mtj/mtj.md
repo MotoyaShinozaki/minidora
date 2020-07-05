@@ -1,6 +1,4 @@
 # MTJ(磁気トンネル接合)
-<br>
-
 ## 原理
 MTJの原理をとても簡単に説明します。
 
@@ -13,6 +11,6 @@ MTJはnmオーダーの絶縁体を２枚の強磁性体(磁石)で挟んだ積�
 <em>図1. MTJの特性</em>
 </p>
 
-
+# Return
 ## [Iroiroに戻る](../iroiro.md)
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
