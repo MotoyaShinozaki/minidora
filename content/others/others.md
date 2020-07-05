@@ -3,4 +3,5 @@
 
 ## Contents
 [お馬さん](./uma.md)<br>
-[量子力学と白色ノイズの観測](./qnoise/qnoise.md)
+[量子力学と白色ノイズの観測](./qnoise/qnoise.md)<br>
+[競技プログラミング](./kyopuro/kyopuro.md)<br>
