@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 title: <a href="https://motoyashinozaki.github.io/minidora/">Top</a>
+plugins:
+ - jekyll-sitemap
