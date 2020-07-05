@@ -31,4 +31,4 @@
 ## [Iroiroに戻る](../iroiro.md)
 <br>
 
-## [Topに戻る](../iroiro../content../index.md)
+## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
