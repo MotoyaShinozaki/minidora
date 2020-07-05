@@ -5,7 +5,7 @@
 ## [Study](./content/study/study.md)
 ## [Publications](./content/publication/publication.md)
 ## [Iroiro](./content/iroiro/iroiro.md)
-## News
+## [News](./content/news/tweet.md)
 ## Others
 <br>
 

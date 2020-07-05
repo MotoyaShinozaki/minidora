@@ -129,7 +129,7 @@
 
 <details>
 <summary>FY2020</summary>
-<ol reversed start="17">
+<ol reversed start="16">
 <li> "機械学習による量子ドットの電荷状態推定"<br>
 	中曽拓, <b>篠﨑基矢</b>, 相澤拓海, 北田孝仁, 武藤由依, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, 伊藤匠, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 大塚朋廣<br>
 	日本物理学会2020年秋季大会, オンライン開催, 2020年9月8-12日 (予定)<br><br></li>
@@ -150,7 +150,7 @@
 
 <details>
 <summary>FY2019</summary>
-<ol reversed start="13">
+<ol reversed start="12">
 <li> "Edge condition of nanoscale magnetic tunnel junctions proved by spin-wave resonance"<br> 
 	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo. Ohno,<br>
 	The 24th Symposium on the Physics and Applications of Spin-related Phenomena in Semiconductors, Sendai (PASPS24), Japan, 17-18 Dec. 2019.<br><br></li>
@@ -159,7 +159,7 @@
 
 <details>
 <summary>FY2018</summary>
-<ol reversed start="12">
+<ol reversed start="11">
 <li> "Edge state of nanoscale magnetic tunnel junctions investigated by spin-wave resonance"<br>
 	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo. Ohno,<br>
 	第66回応用物理学会春季学術講演会, 東京工業大学, 東京, 2019年3月9-12日<br><br></li>
@@ -180,7 +180,7 @@
 
 <details>
 <summary>FY2017</summary>
-<ol reversed start="8">
+<ol reversed start="7">
 <li> "Free-layer size dependence of magnetic anisotropy in nanoscale CoFeB/MgO magnetic tunnel junctions"<br>
 	<b>Motoya Shinozaki</b>, Junta Igarashi, Hideo Sato, and Hideo Ohno,<br>
 	第65回応用物理学会春季学術講演会, 早稲田大学, 東京, 2018年3月17-20日<br><br></li>
@@ -197,7 +197,7 @@
 
 <details>
 <summary>FY2016</summary>
-<ol reversed start="5">
+<ol reversed start="4">
 <li> "Junction size dependence of damping constants in nanoscale CoFeB/MgO magnetic tunnel junctions"<br>
 	<b>Motoya Shinozaki</b>, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
 	第64回応用物理学会春季学術講演会, パシフィコ横浜, 2017年3月14-17日<br><br></li>
@@ -210,10 +210,6 @@
 	<b>Motoya Shinozaki</b>, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
 	The 35th Electronic Materials Symposium, Moriyama, Japan, 6-8 Jul. 2016.<br><br></li>
 
-<li> "Damping constant in a nanoscale magnetic tunnel junction evaluated by homodyne-detected ferromagnetic resonance"<br>
-	<b>Motoya Shinozaki</b>, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
-	The 35th Electronic Materials Symposium, Moriyama, Japan, 6-8 Jul. 2016.<br><br></li>
-</ol>
 </details>
 
 <details>
