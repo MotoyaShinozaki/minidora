@@ -209,7 +209,7 @@
 <li> "Damping constant in a nanoscale magnetic tunnel junction evaluated by homodyne-detected ferromagnetic resonance"<br>
 	<b>Motoya Shinozaki</b>, Eriko Hirayama, Shun Kanai, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<br>
 	The 35th Electronic Materials Symposium, Moriyama, Japan, 6-8 Jul. 2016.<br><br></li>
-
+</ol>
 </details>
 
 <details>
