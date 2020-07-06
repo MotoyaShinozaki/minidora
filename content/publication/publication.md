@@ -220,6 +220,7 @@
 	第 3 回電気学会東京支部栃木・群馬支所合同研究発表会,  宇都宮大学, 宇都宮, 2013 年2 月28日.<br><br></li>
 </ol>
 </details>
-<br><br>
 
+
+# Return
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
