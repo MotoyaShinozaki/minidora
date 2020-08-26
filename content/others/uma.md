@@ -19,12 +19,12 @@
 
 <tr>
 <td>桜花賞</td>
-<td>-2000</td>
+<td><span style="color: red; ">-2000</span></td>
 </tr>
 
 <tr>
 <td>皐月賞</td>
-<td>-2000</td>
+<td><span style="color: red; ">-2000</span></td>
 </tr>
 
 <tr>
@@ -49,17 +49,17 @@
 
 <tr>
 <td>安田記念</td>
-<td>-3000</td>
+<td><span style="color: red; ">-3000</span></td>
 </tr>
 
 <tr>
 <td>宝塚記念</td>
-<td>-3300</td>
+<td><span style="color: red; ">-3300</span></td>
 </tr>
 
 <tr>
 <td>札幌記念</td>
-<td>-2000</td>
+<td><span style="color: red; ">-2000</span></td>
 </tr>
 
 </tbody>
