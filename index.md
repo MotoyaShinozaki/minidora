@@ -10,7 +10,7 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2020/7/23) :</summary>
+<summary>更新履歴(Last update : 2020/8/26) :</summary>
 <pre>
 2020/8/26 : "その他(お馬さん)"を更新
 2020/7/23 : "いろいろ(量子コンピューティングの基礎)"を更新
