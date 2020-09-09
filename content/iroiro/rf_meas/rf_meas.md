@@ -54,8 +54,8 @@ C. Barthel, D. J. Reilly, C. M. Marcus, M. P. Hanson, and A. C. Gossard,<br>
 [固体物理 **55**, 69 (2020).](https://www.agne.co.jp/kotaibutsuri/kota1055.htm){:target="_blank"}<br>
 
 # 関連項目
-# [高速測定のための量子ドット設計指針](./design.md)
+[高速測定のための量子ドット設計指針](./design.md)
 
 # Return
-## [Iroiroに戻る](../iroiro.md)
-## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
+[Iroiroに戻る](../iroiro.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)

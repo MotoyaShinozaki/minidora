@@ -34,6 +34,7 @@
 また、相対誤差は<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;|\frac{\Delta R}{R}| = |\frac{\Delta V}{V}|+|\frac{\Delta I}{I}|}"/><br>
 と表され、結局それぞれの相対誤差の和となります。系に一定の誤差があるときは、微小信号の測定ほど大変であることがわかります。
+
 # Return
-## [Iroiroに戻る](../iroiro.md)
-## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
+[Iroiroに戻る](../iroiro.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)

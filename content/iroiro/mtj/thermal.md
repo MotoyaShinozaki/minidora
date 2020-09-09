@@ -1,8 +1,7 @@
 ## MTJ素子の熱安定性
 
-"[MTJの基礎](./mtj.md)"では、スピン注入磁化反転に必要な電流は材料依存のパラメータ(ダンピング定数α, 飽和磁化Ms, 異方性磁界HKeff)に依存することを述べました。<br>
+"[MTJ](./mtj.md)"では、スピン注入磁化反転に必要な電流は材料依存のパラメータ(ダンピング定数α, 飽和磁化Ms, 異方性磁界HKeff)に依存することを述べました。<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;I_{\rm&space;C0}=\alpha\frac{\gamma&space;e}{\mu&space;_{\rm&space;B}g(\theta)}M_{\rm&space;S}(H^{\rm&space;eff}_K&space;\pm&space;H_{\rm&space;str})tS}"><br> 
-
 これだけみると、この3つのパラメータが小さければ小さいほど良いように見えますが(省エネのために反転に必要な電流量は小さくしたいので)、果たしてこれでいいのでしょうか。
 実はMTJ素子を応用する上で大事な指標には、この反転閾値電流Icに加えて熱安定性Δという指標が存在します。<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;\Delta&space;=&space;\frac{M_{\rm&space;S}H^{\rm&space;eff}_{K}V}{2k_{\rm&space;B}T}}" title="{\color{Green} \Delta = \frac{M_{\rm S}H^{\rm eff}_{K}V}{2k_{\rm B}T}}" /><br>
@@ -24,8 +23,8 @@
 ただ近年では意図的にΔを小さく設計し、"1", "0"状態を行き来するようなMTJを使った情報処理も提案されており、その応用の幅はまだまだ広がっています(これはまたいつかの機会に)。
 
 # 関連項目
-## [MTJの基礎](./mtj.md)<br>
+[MTJの基礎](./mtj.md)<br>
 
 # Return
-## [Iroiroに戻る](../iroiro.md)
-## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
+[Iroiroに戻る](../iroiro.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)
