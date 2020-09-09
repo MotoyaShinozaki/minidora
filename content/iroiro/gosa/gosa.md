@@ -23,7 +23,6 @@
 誤差との格闘を経て、ある精度での電流・電圧値を得たら次はおたのしみの解析の時間です。今回は、得られた電圧値を流した電流値で割って、抵抗値を算出することを考えます。電流と電圧にそれぞれ誤差ΔI, ΔVを仮定すると、誤差を含む抵抗値は<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;R+\Delta R=\frac{V+\Delta V}{I+\Delta I}}"/><br>
 それでは、この式を少し弄ってあげましょう。分母に多項式があると少々厄介なので、単位が変わらないよう注意して次のように近似します。<br>
-$$ \frac{1}{I+\Delta I}=\frac{1}{I}\left(1+\frac{\Delta I}{I}\right)^{-1}≈\frac{1}{I}\left(1-\frac{\Delta I}{I}\right) $$<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;\frac{1}{I&plus;\Delta&space;I}=\frac{1}{I}\left(1&plus;\frac{\Delta&space;I}{I}\right)^{-1}\approx\frac{1}{I}\left(1-\frac{\Delta&space;I}{I}\right)}"/><br>
 ここで次の近似を使いました。(Δxはとても小さいと考えます)<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{DarkGreen}&space;(1+\Delta x)^{n}\approx 1+n\Delta x}"/><br>
