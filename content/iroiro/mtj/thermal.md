@@ -1,5 +1,4 @@
-# MTJ(磁気トンネル接合)
-## 原理
+## MTJ素子の熱安定性
 
 "[MTJの基礎](./mtj.md)"では、スピン注入磁化反転に必要な電流は材料依存のパラメータ(ダンピング定数α, 飽和磁化Ms, 異方性磁界HKeff)に依存することを述べました。<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;I_{\rm&space;C0}=\alpha\frac{\gamma&space;e}{\mu&space;_{\rm&space;B}g(\theta)}M_{\rm&space;S}(H^{\rm&space;eff}_K&space;\pm&space;H_{\rm&space;str})tS}"><br> 
