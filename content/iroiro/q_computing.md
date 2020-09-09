@@ -8,5 +8,5 @@
 
 
 # Return
-## [Iroiroに戻る](./iroiro.md)
-## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
+[Iroiroに戻る](./iroiro.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)

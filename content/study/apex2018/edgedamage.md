@@ -32,5 +32,5 @@ Junta Igarashi, Justin Llandro, Hideo Sato, Fumihiro Matsukura, and Hideo Ohno,<
 [ Applied Physics Express **11**, 043001 (2018).](https://iopscience.iop.org/article/10.7567/APEX.11.043001){:target="_blank"}<br><br>
 
 # Return
-## [Studyに戻る](../study.md)
-## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
+[Studyに戻る](../study.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)

@@ -26,8 +26,8 @@ MTJ素子をメモリとして応用していく上では大容量化のため�
 異方性磁界：やはり磁石の強さのようなもの。磁石をある方向から別の方向に向けるのに必要なエネルギーのようなもの
 
 # 関連項目
-# [MTJ素子の熱安定性](./thermal.md)
+[MTJ素子の熱安定性](./thermal.md)
 
 # Return
-## [Iroiroに戻る](../iroiro.md)
-## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
+[Iroiroに戻る](../iroiro.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)

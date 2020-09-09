@@ -40,5 +40,5 @@ A. A. Tulapurkar, Y. Suzuki, A. Fukushima, H. Kubota, H. Maehara, K. Tsunekawa, 
 [Applied Physics Express 10, 013001 (2017).](https://iopscience.iop.org/article/10.7567/APEX.10.013001){:target="_blank"}<br><br>
 
 # Return
-## [Studyに戻る](../study.md)
-## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
+[Studyに戻る](../study.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)
