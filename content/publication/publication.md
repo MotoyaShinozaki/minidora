@@ -129,7 +129,11 @@
 
 <details>
 <summary>FY2020</summary>
-<ol reversed start="16">
+<ol reversed start="17">
+<li> "量子ドット信号のベイズ手法解析"<br>
+	<b>篠﨑基矢</b>,<br>
+	第6回量子技術・機械学習融合ミーティング, オンライン開催, 2020年9月18日<br><br></li>
+
 <li> "機械学習による量子ドットの電荷状態推定"<br>
 	中曽拓, <b>篠﨑基矢</b>, 相澤拓海, 北田孝仁, 武藤由依, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, 伊藤匠, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 大塚朋廣<br>
 	日本物理学会2020年秋季大会, オンライン開催, 2020年9月8-12日<br><br></li>
