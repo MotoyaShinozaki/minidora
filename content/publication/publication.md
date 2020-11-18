@@ -5,6 +5,10 @@
 <details>
 <summary>こちら</summary>
 <ol reversed start="">
+<li> "Probing edge condition of nanoscale CoFeB/MgO magnetic tunnel junctions by spin-wave resonance",<br>
+    <b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shunsuke Fukami, Hideo Sato, and Hideo Ohno,<br>
+    <a href="https://aip.scitation.org/doi/10.1063/5.0020591" target="_blank">Applied Physics Letters <b>117</b>, 202404 (2020).</a><br><br></li>
+
 <li> "Write-error rate of nanoscale magnetic tunnel junctions in the precessional regime",<br>
     Takaharu Saino, Shun Kanai, <b>Motoya Shinozaki</b>, Butsurin Jinnai, Hideo Sato, Shunsuke Fukami, and Hideo Ohno,<br>
     <a href="https://aip.scitation.org/doi/10.1063/1.5121157" target="_blank">Applied Physics Letters <b>115</b>, 142406 (2019).</a><br><br></li>
