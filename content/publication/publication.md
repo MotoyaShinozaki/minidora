@@ -133,7 +133,11 @@
 
 <details>
 <summary>FY2020</summary>
-<ol reversed start="17">
+<ol reversed start="18">
+<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
+	<b>Motoya Shinozaki</b>,<br>
+	第10回半導体／超伝導体量子効果と量子情報の研修会, オンライン開催, 2020年12月17-18日<br><br></li>
+
 <li> "量子ドット信号のベイズ手法解析"<br>
 	<b>篠﨑基矢</b>,<br>
 	第6回量子技術・機械学習融合ミーティング, オンライン開催, 2020年9月18日<br><br></li>
