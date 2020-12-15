@@ -5,6 +5,10 @@
 <details>
 <summary>こちら</summary>
 <ol reversed start="">
+<li> "Noise mechanisms of radio-frequency reflectometry in gallium arsenide quantum dots",<br>
+    <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2012.04177" target="_blank">arXiv:2012.04177.</a><br><br></li>
+
 <li> "Probing edge condition of nanoscale CoFeB/MgO magnetic tunnel junctions by spin-wave resonance",<br>
     <b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shunsuke Fukami, Hideo Sato, and Hideo Ohno,<br>
     <a href="https://aip.scitation.org/doi/10.1063/5.0020591" target="_blank">Applied Physics Letters <b>117</b>, 202404 (2020).</a><br><br></li>
