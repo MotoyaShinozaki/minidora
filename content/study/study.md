@@ -15,6 +15,7 @@ MTJは、MRAM以外にも高感度磁場センサやナノスケール発振器�
 # 主な成果
 [微細MTJ素子における磁気特性評価](./apex2017/damping.md)<br>
 [微細加工プロセスの磁気特性への影響](./apex2018/edgedamage.md)<br>
+[微細MTJ素子におけるスピン波の端状態](./APL2020/spinwave.md)<br>
 [ギャラリー(工事中)](./galley/sem.md)<br>
 
 <img src="./hako.jpg" width="300px">
