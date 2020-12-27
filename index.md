@@ -10,7 +10,7 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2020/12/26) :</summary>
+<summary>更新履歴(Last update : 2020/12/27) :</summary>
 <pre>
 2020/12/27  : "研究内容 (微細MTJ素子におけるスピン波の端状態)"を更新
 2020/11/18  : "論文・発表 (原著論文)"を更新

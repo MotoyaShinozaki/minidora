@@ -1,3 +1,13 @@
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({
+ tex2jax: {
+ inlineMath: [["\\(","\\)"] ],
+ displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+ }
+ });
+</script>
+
 ## 微細MTJ素子におけるスピン波の端状態
 ## はじめに
 微細MTJ素子におけるスピン波は素子エッジ部の境界条件により量子化されます。これまでの研究で、微細加工プロセスがMTJ素子エッジ部の磁気異方性の劣化を齎すことが示唆されましたが、スピン波の境界条件にも何か影響を与えているのかを調べました。<br>
@@ -22,7 +32,7 @@ MTJ素子におけるスピン波は、素子端部において固定端と自�
 従来研究されてきた単純な磁気特性の測定では、直径20nm程度まで微細化された素子において初めて2つの構造間での違いが顕在化してきました。
 素子エッジ部での境界条件が課せられているスピン波は、比較的大きな素子サイズでもその影響を確認することができ、スピン波共鳴の測定が高感度なエッジ部状態のプローブになることを示唆しています。<br>
 <p>
-<img src="./D_dep.png" width="300px" title="size_dep"><br>
+<img src="./D_dep.jpg" width="300px" title="size_dep"><br>
 <em>図2. スピン波エネルギーの素子サイズ依存性</em>
 </p>
 
