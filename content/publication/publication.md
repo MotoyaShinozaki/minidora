@@ -5,7 +5,7 @@
 <details>
 <summary>こちら</summary>
 <ol reversed start="">
-<li> "Noise mechanisms of radio-frequency reflectometry in gallium arsenide quantum dots",<br>
+<li> "Gate voltage dependence of noise distribution in radio-frequency reflectometry in gallium arsenide quantum dots",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2012.04177" target="_blank">arXiv:2012.04177.</a><br><br></li>
 
