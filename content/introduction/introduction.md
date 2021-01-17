@@ -3,7 +3,7 @@
 篠﨑 基矢(しのざき もとや / Motoya Shinozaki)
 
 ## 所属
-東北大学 電気通信研究所 [量子デバイス研究室 (大塚研究室)](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"}
+東北大学 電気通信研究所 [量子デバイス研究室 (大塚研究室)](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"}, [スピントロニクス研究室 (深見研究室)](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"}
 
 <img src="./mail.png" width="400px">
 
