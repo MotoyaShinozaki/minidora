@@ -138,7 +138,7 @@
 <summary>FY2020</summary>
 <ol reversed start="19">
 <li> "CVDグラフェンナノリボンにおける単一量子ドット形成"<br>
-	北田孝仁, 阿部峰也, 瀬尾瑞樹, 佐藤尚郁, <b>篠﨑基矢</br>, 相澤拓海, 武藤由依, 金子俊郎, 加藤俊顕, 大塚朋廣,<br>
+	北田孝仁, 阿部峰也, 瀬尾瑞樹, 佐藤尚郁, <b>篠﨑基矢</b>, 相澤拓海, 武藤由依, 金子俊郎, 加藤俊顕, 大塚朋廣,<br>
 	日本物理学会2021年春季大会, オンライン開催, 2021年3月12-15日<br><br></li>
 
 <li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
