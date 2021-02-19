@@ -7,7 +7,7 @@
 <ol reversed start="">
 <li> "Gate voltage dependence of noise distribution in radio-frequency reflectometry in gallium arsenide quantum dots",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka,<br>
-	<a href="https://iopscience.iop.org/article/10.35848/1882-0786/abe41f" target="_blank">Applied Physics Express <b>14</b>, 035002 (2021).</a><br><br></li><br>
+	<a href="https://iopscience.iop.org/article/10.35848/1882-0786/abe41f" target="_blank">Applied Physics Express <b>14</b>, 035002 (2021).</a><br>
     <a href="https://arxiv.org/abs/2012.04177" target="_blank">arXiv:2012.04177.</a><br><br></li>
 
 <li> "Probing edge condition of nanoscale CoFeB/MgO magnetic tunnel junctions by spin-wave resonance",<br>
