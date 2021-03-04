@@ -38,7 +38,7 @@
  	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
 
 <li> "Charge state estimation in quantum dots by Bayesian approach"<br>
-	Yui Muto, <b>?Motoya Shinozaki</b>, Takahito Kitada, Shuya Nagayasu, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Sen Li, Takumi Ito, Seigo Tarucha and Tomohiro Otsuka,<br>
+	Yui Muto, <b>Motoya Shinozaki</b>, Takahito Kitada, Shuya Nagayasu, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Sen Li, Takumi Ito, Seigo Tarucha and Tomohiro Otsuka,<br>
  	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
 
 <li> "Quantum Dots in plasma CVD Graphene Nanoribbons"<br>
