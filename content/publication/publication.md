@@ -30,6 +30,24 @@
 <br>
 
 ## 国際会議
+<details>
+<summary>FY2019</summary>
+<ol reversed start="23">
+<li> "Readout noise in radio-frequency reflectometry in gallium arsenide quantum dots"<br>
+	<b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha and Tomohiro Otsuka,<br>
+ 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
+
+<li> "Charge state estimation in quantum dots by Bayesian approach"<br>
+	Yui Muto, <b>?Motoya Shinozaki</b>, Takahito Kitada, Shuya Nagayasu, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Sen Li, Takumi Ito, Seigo Tarucha and Tomohiro Otsuka,<br>
+ 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
+
+<li> "Quantum Dots in plasma CVD Graphene Nanoribbons"<br>
+	Takahito Kitada, Mizuki Seo, Takaya Abe, <b>Motoya Shinozaki</b>, Naohumi Sato, Takumi Aizawa,  Yui Muto, Toshiro Kaneko, Toshiaki Kato and Tomohiro Otsuka,<br>
+ 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
+
+
+</ol>
+</details>
 
 <details>
 <summary>FY2019</summary>

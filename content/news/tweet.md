@@ -1,4 +1,8 @@
 # 私的な近況
+
+## 2021/2/19 : 国際会議発表
+International Symposium for The Core Research Clusters for Materials Science and Spintronicsでポスター発表をしました<br>
+
 ## 2021/2/19 : 論文
 論文がApplied Physics Express誌に掲載されました。<br>
 ご協力・議論いただいた皆様ありがとうございました<br>
