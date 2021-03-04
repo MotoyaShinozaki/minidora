@@ -31,7 +31,7 @@
 
 ## 国際会議
 <details>
-<summary>FY2019</summary>
+<summary>FY2020</summary>
 <ol reversed start="23">
 <li> "Readout noise in radio-frequency reflectometry in gallium arsenide quantum dots"<br>
 	<b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha and Tomohiro Otsuka,<br>
