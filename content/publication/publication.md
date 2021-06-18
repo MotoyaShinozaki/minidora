@@ -258,6 +258,7 @@
 	第 3 回電気学会東京支部栃木・群馬支所合同研究発表会,  宇都宮大学, 宇都宮, 2013 年2 月28日.<br><br></li>
 </ol>
 </details>
+<br>
 
 ## その他出版物等
 
@@ -268,7 +269,7 @@
     <b>篠﨑基矢</b>, 佐藤英夫, 大野英男<br>
 	<a href="https://tohoku.repo.nii.ac.jp/index.php?active_action=repository_view_main_item_detail&page_id=33&block_id=38&item_id=126103&item_no=1" target="_blank">東北大学電通談話会記録 <b>87</b>, 218 (2018).</a><br>
 </li>
-
+</oi>
 </details>
 <br>
 
