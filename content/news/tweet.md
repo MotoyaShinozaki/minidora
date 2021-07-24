@@ -1,5 +1,8 @@
 # 私的な近況
 
+## 2021/7/21 : 東北大学クロスオーバー
+東北大学学際高等研究教育院の広報誌である東北大学クロスオーバー49号に研究紹介が載りました。<br>
+
 ## 2021/2/19 : 国際会議発表
 International Symposium for The Core Research Clusters for Materials Science and Spintronicsでポスター発表をしました<br>
 
