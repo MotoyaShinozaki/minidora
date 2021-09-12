@@ -154,7 +154,7 @@
 ## 国内会議・研究会等
 
 <details>
-<summary>FY2020</summary>
+<summary>FY2021</summary>
 <ol reversed start="20">
 <li> "GaN FETにおけるマイクロ波依存伝導の観測"<br>
 	阿部峰也, <b>篠崎基矢</b>, 相澤拓海, 熊坂武志, 伊藤範和, 田中岳利, 中原健, 大塚朋廣,<br>
