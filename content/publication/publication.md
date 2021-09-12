@@ -155,6 +155,15 @@
 
 <details>
 <summary>FY2020</summary>
+<ol reversed start="20">
+<li> "GaN FETにおけるマイクロ波依存伝導の観測"<br>
+	阿部峰也, <b>篠崎基矢</b>, 相澤拓海, 熊坂武志, 伊藤範和, 田中岳利, 中原健, 大塚朋廣,<br>
+	日本物理学会2021年秋季大会, オンライン開催, 2021年9月20-23日<br><br></li>
+</ol>
+</details>
+
+<details>
+<summary>FY2020</summary>
 <ol reversed start="19">
 <li> "CVDグラフェンナノリボンにおける単一量子ドット形成"<br>
 	北田孝仁, 阿部峰也, 瀬尾瑞樹, 佐藤尚郁, <b>篠﨑基矢</b>, 相澤拓海, 武藤由依, 金子俊郎, 加藤俊顕, 大塚朋廣,<br>
