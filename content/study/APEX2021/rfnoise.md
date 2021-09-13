@@ -42,7 +42,7 @@
 **Motoya Shinozaki**, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka,<br>
 [Applied Physics Express **14**, 035002 (2021).](https://iopscience.iop.org/article/10.35848/1882-0786/abe41f){:target="_blank"}<br><br>
 
-2. "Formation of quantum dots in GaN/AlGaN FETs"
+2. "Formation of quantum dots in GaN/AlGaN FETs"<br>
 Tomohiro Otsuka, Takaya Abe, Takahito Kitada, Norikazu Ito, Taketoshi Tanaka, and Ken Nakahara,<br>
 [Scientific Reports **10**, 15421 (2020).](https://www.nature.com/articles/s41598-020-72269-z){:target="_blank"}<br><br>
 
