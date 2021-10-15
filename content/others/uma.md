@@ -87,5 +87,5 @@
 </table>
 
 # Return
-## [その他に戻る](../others.md)
+## [その他に戻る](../others.html)
 ## [Topに戻る](https://motoyashinozaki.github.io/minidora/)
