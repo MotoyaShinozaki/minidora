@@ -10,8 +10,9 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2021/9/13) :</summary>
+<summary>更新履歴(Last update : 2021/10/26) :</summary>
 <pre>
+2021/10/26  : "Publications (国際会議)"を更新
 2021/9/13  : "Publications (国内学会・研究会等),<br>              Study (半導体量子ドットの高周波反射測定法における読み出しノイズ評価) "を更新
 2021/7/24  : "Publications (その他出版物等)"を更新
 2021/6/18  : "Publications (その他出版物等)"を更新
