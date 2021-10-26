@@ -31,6 +31,20 @@
 
 ## 国際会議
 <details>
+<summary>FY2021</summary>
+<ol reversed start="24">
+
+
+<li> "Error rate analysis of charge sensing in quantum dots by Bayesian approach"<br>
+	<b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Shuya Nagayasu, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Sen Li, Takumi Ito, Seigo Tarucha and Tomohiro Otsuka,<br>
+ 	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 27, 2021<br><br></li>
+
+
+
+</ol>
+</details>
+
+<details>
 <summary>FY2020</summary>
 <ol reversed start="23">
 <li> "Readout noise in radio-frequency reflectometry in gallium arsenide quantum dots"<br>
