@@ -34,10 +34,13 @@
 <summary>FY2021</summary>
 <ol reversed start="24">
 
+<li> "Noise analysis of radio-frequency reflectometry for single spin and charge detection in quantum dots"<br>
+	Tomohiro Otsuka, <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, and Seigo Tarucha,<br>
+ 	1st Online RIEC International Workshop on Spintronics, Online, 18 Nov. 2021.<br><br></li>
 
 <li> "Error rate analysis of charge sensing in quantum dots by Bayesian approach"<br>
 	<b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Shuya Nagayasu, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Sen Li, Takumi Ito, Seigo Tarucha and Tomohiro Otsuka,<br>
- 	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 27, 2021<br><br></li>
+ 	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, 27 Oct. 2021.<br><br></li>
 
 
 
@@ -49,15 +52,15 @@
 <ol reversed start="23">
 <li> "Readout noise in radio-frequency reflectometry in gallium arsenide quantum dots"<br>
 	<b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha and Tomohiro Otsuka,<br>
- 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
+ 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, 24 Feb. 2021.<br><br></li>
 
 <li> "Charge state estimation in quantum dots by Bayesian approach"<br>
 	Yui Muto, <b>Motoya Shinozaki</b>, Takahito Kitada, Shuya Nagayasu, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Sen Li, Takumi Ito, Seigo Tarucha and Tomohiro Otsuka,<br>
- 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
+ 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, 24 Feb. 2021.<br><br></li>
 
 <li> "Quantum Dots in plasma CVD Graphene Nanoribbons"<br>
 	Takahito Kitada, Mizuki Seo, Takaya Abe, <b>Motoya Shinozaki</b>, Naohumi Sato, Takumi Aizawa,  Yui Muto, Toshiro Kaneko, Toshiaki Kato and Tomohiro Otsuka,<br>
- 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, Feb. 24, 2021.<br><br></li>
+ 	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, 24 Feb. 2021.<br><br></li>
 
 
 </ol>
