@@ -36,7 +36,7 @@
 
 <li> "Noise analysis of radio-frequency reflectometry for single spin and charge detection in quantum dots"<br>
 	Tomohiro Otsuka, <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, and Seigo Tarucha,<br>
- 	1st Online RIEC International Workshop on Spintronics, Online, 18 Nov. 2021.<br><br></li>
+ 	1st Online RIEC International Workshop on Spintronics, Online, 18 Nov. 2021. (Invited)<br><br></li>
 
 <li> "Error rate analysis of charge sensing in quantum dots by Bayesian approach"<br>
 	<b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Shuya Nagayasu, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Sen Li, Takumi Ito, Seigo Tarucha and Tomohiro Otsuka,<br>
