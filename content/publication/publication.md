@@ -174,13 +174,6 @@
 <summary>FY2021</summary>
 <ol reversed start="26">
 
-<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
-	Yui Muto, Taku, Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>,  Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck Seigo Tarucha and Tomohiro Otsuka,<br>
-	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
-
-<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
-	Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Takeshi Nakjima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka<br>
-	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
 
 <li> "機械学習と前処理によるノイズ耐性のある量子ドット電荷状態推定"<br>
 	武藤由依, 中曽拓, 相澤拓海, <b>篠崎基矢</b>, 北田孝仁, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 大塚朋廣,<br>
@@ -197,6 +190,14 @@
 <li> "微細CoFeB/MgO磁気トンネル接合における非線形電子輸送特性"<br>
 	<b>篠崎基矢</b>, 五十嵐純太, 岩切秀一, 北田孝仁, 早川佳祐,  陣内佛霖, 大塚朋廣, 深見俊輔, 小林研介, 大野英男,<br>
 	日本物理学会2022年春季大会, 岡山大学, 2022年3月15-19日<br><br></li>
+
+<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
+	Yui Muto, Taku Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
+	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
+
+<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
+	Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Takeshi Nakjima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka<br>
+	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
 
 <li> "GaN FETにおけるマイクロ波依存伝導の観測"<br>
 	阿部峰也, <b>篠崎基矢</b>, 相澤拓海, 熊坂武志, 伊藤範和, 田中岳利, 中原健, 大塚朋廣,<br>
