@@ -172,7 +172,15 @@
 
 <details>
 <summary>FY2021</summary>
-<ol reversed start="24">
+<ol reversed start="26">
+
+<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
+	Yui Muto, Taku, Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>,  Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck Seigo Tarucha and Tomohiro Otsuka,<br>
+	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
+
+<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
+	Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Takeshi Nakjima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka<br>
+	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
 
 <li> "機械学習と前処理によるノイズ耐性のある量子ドット電荷状態推定"<br>
 	武藤由依, 中曽拓, 相澤拓海, <b>篠崎基矢</b>, 北田孝仁, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 大塚朋廣,<br>
