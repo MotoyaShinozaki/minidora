@@ -177,19 +177,19 @@
 
 <li> "機械学習と前処理によるノイズ耐性のある量子ドット電荷状態推定"<br>
 	武藤由依, 中曽拓, 相澤拓海, <b>篠崎基矢</b>, 北田孝仁, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 大塚朋廣,<br>
-	日本物理学会2022年春季大会, 岡山大学, 2022年3月15-19日<br><br></li>
+	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "GaN FET の電流コラプス下における量子ドット形成"<br>
 	阿部峰也, <b>篠崎基矢</b>, 相澤拓海, 熊坂武志, 伊藤範和, 田中岳利, 中原健, 大塚朋廣,<br>
-	日本物理学会2022年春季大会, 岡山大学, 2022年3月15-19日<br><br></li>
+	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "高周波反射測定による量子ドットQCA状態電荷遷移の実時間観測"<br>
 	相澤拓海, <b>篠崎基矢</b>, 藤原義弘, 熊坂武志, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 大塚朋廣,<br>
-	日本物理学会2022年春季大会, 岡山大学, 2022年3月15-19日<br><br></li>
+	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "微細CoFeB/MgO磁気トンネル接合における非線形電子輸送特性"<br>
 	<b>篠崎基矢</b>, 五十嵐純太, 岩切秀一, 北田孝仁, 早川佳祐,  陣内佛霖, 大塚朋廣, 深見俊輔, 小林研介, 大野英男,<br>
-	日本物理学会2022年春季大会, 岡山大学, 2022年3月15-19日<br><br></li>
+	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "Noise-robust charge state recognition in quantum dots utilizing machine learning and preprocessing"<br>
 	Yui Muto, Taku Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
