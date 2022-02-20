@@ -191,11 +191,11 @@
 	<b>篠崎基矢</b>, 五十嵐純太, 岩切秀一, 北田孝仁, 早川佳祐,  陣内佛霖, 大塚朋廣, 深見俊輔, 小林研介, 大野英男,<br>
 	日本物理学会2022年春季大会, 岡山大学, 2022年3月15-19日<br><br></li>
 
-<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
+<li> "Noise-robust charge state recognition in quantum dots utilizing machine learning and preprocessing"<br>
 	Yui Muto, Taku Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
 	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
 
-<li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
+<li> "Real-time measurement of QCA charge transition in quantum dots by rf-reflectometry"<br>
 	Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Takeshi Nakjima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka<br>
 	第11回半導体／超伝導体量子効果と量子情報の研修会, Grand Nikko Awaji, Japan, 2022年2月21-23日<br><br></li>
 
