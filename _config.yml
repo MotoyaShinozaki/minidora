@@ -3,3 +3,7 @@ title: <a href="https://motoyashinozaki.github.io/minidora/">Top</a>
 plugins:
  - jekyll-sitemap
 google_analytics: UA-163358084-2
+sitemap:
+    path: sitemap.xml
+    template: ./sitemap_template.xml
+    rel: false
