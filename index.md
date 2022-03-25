@@ -10,7 +10,7 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2022/3/15) :</summary>
+<summary>更新履歴(Last update : 2022/3/25) :</summary>
 <pre>
 2022/3/15  : "Publications (国内学会・研究会等)"を更新
 2021/10/26  : "Publications (国内学会・研究会等)"を更新
