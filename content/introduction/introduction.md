@@ -22,10 +22,10 @@
 2018/9 Huawei Japan 退社<br>
 2018/10 東北大学 工学研究科 電子工学専攻 博士後期課程 編入学<br>
 2020/4 - 2022/3 日本学術振興会特別研究員(DC2)<br>
-2022/3 東北大学 工学研究科 電子工学専攻 博士後期課程 修了([深見研究室](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"},[大塚研究室](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"})<br>
+2022/3 東北大学 工学研究科 電子工学専攻 博士後期課程 修了([深見研究室](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"}, [大塚研究室](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"})<br>
 
 ## 受賞等
-2020/12/19 第1回セキュリティ・フォレンジック・ワークショップ セキュリティ技術コンテスト 3位入賞<br>
+2020/12/19 第1回セキュリティ・フォレンジック・ワークショップ 3位入賞<br>
 2022/3/25 東北大学大学院 工学研究科長賞<br>
 
 # Return
