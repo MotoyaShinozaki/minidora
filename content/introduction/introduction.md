@@ -3,7 +3,7 @@
 篠﨑 基矢(しのざき もとや / Motoya Shinozaki)
 
 ## 所属
-東北大学 電気通信研究所 [量子デバイス研究室 (大塚研究室)](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"}, [スピントロニクス研究室 (深見研究室)](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"}
+東京大学大学院 工学系研究科 マテリアル工学専攻 [長汐研究室](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"}
 
 <img src="./mail.png" width="400px">
 
@@ -16,13 +16,14 @@
 2014/3 国立小山工業高等専門学校 電気情報工学科 卒業 (小林(康)研究室)<br>
 2014/4 東北大学 工学部 情報知能システム総合学科 編入学<br>
 2016/3 東北大学 工学部 情報知能システム総合学科 卒業<br>
-2016/4 東北大学 工学研究科 電子工学専攻 博士前期課程 入学<br>
-2018/3 東北大学 工学研究科 電子工学専攻 博士前期課程 修了 ([大野研究室](http://www.ohno.riec.tohoku.ac.jp/japanese/index.html){:target="_blank"})<br>
+2016/4 東北大学大学院 工学研究科 電子工学専攻 博士前期課程 入学<br>
+2018/3 東北大学大学院 工学研究科 電子工学専攻 博士前期課程 修了 ([大野研究室](http://www.ohno.riec.tohoku.ac.jp/japanese/index.html){:target="_blank"})<br>
 2018/4 Huawei Japan 入社<br>
 2018/9 Huawei Japan 退社<br>
-2018/10 東北大学 工学研究科 電子工学専攻 博士後期課程 編入学<br>
+2018/10 東北大学大学院 工学研究科 電子工学専攻 博士後期課程 編入学<br>
 2020/4 - 2022/3 日本学術振興会特別研究員(DC2)<br>
-2022/3 東北大学 工学研究科 電子工学専攻 博士後期課程 修了([深見研究室](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"}, [大塚研究室](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"})<br>
+2022/3 東北大学大学院 工学研究科 電子工学専攻 博士後期課程 修了([深見研究室](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"}, [大塚研究室](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"})<br>
+2022/4- 東京大学大学院 工学系研究科 マテリアル工学専攻 助教([長汐研究室](http://webpark1753.sakura.ne.jp/nagashio_lab/){:target="_blank"}) ← 今ここ <br>
 
 ## 受賞等
 2020/12/19 第1回セキュリティ・フォレンジック・ワークショップ 3位入賞<br>
