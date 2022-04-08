@@ -1,10 +1,10 @@
 # 自己紹介
 ## 名前
 篠﨑 基矢(しのざき もとや / Motoya Shinozaki)<br>
-博士(工学)　(東北大学)
+博士(工学)
 
 ## 所属
-東京大学大学院 工学系研究科 マテリアル工学専攻 [長汐研究室](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"}
+東京大学大学院 工学系研究科 マテリアル工学専攻 [長汐研究室](http://webpark1753.sakura.ne.jp/nagashio_lab/){:target="_blank"}
 
 <img src="./mail.png" width="400px">
 
