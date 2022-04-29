@@ -12,7 +12,7 @@
 
 # Contents
 [気体分子運動論](./gas.md)<br>
-[真空の作り方]()<br>
+[真空の作り方](./makeshinku.md)<br>
 
 
 # Return
