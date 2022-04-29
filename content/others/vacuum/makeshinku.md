@@ -25,7 +25,7 @@
 ここで、室温300 K,圧力P=10<sup>-4</sup> Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみると<span style="color: red; ">C'~3×10<sup>14</sup> [molecule/cm<sup>2</sup>s]</span>程度になります。一般に固体の表面原子数密度は10<sup>15</sup> [atom/cm<sup>2</sup>]ですので、10<sup>-4</sup> Paの下では表面は3秒程度で飽和吸着状態となることがわかります。<br>
 したがって、10<sup>-4</sup> Paの気体雰囲気中に1秒間程度表面を晒すことでおおよそ表面に単分子層だけ形成することができ、気体分子の導入量=圧力(真空度)×時間として
 <br>
-<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;1[L]&space;=&space;10\times10^{-4}[Pa]\times 1[s]=10\times10^{-6}[Torr]\times 1[s]}"/><br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;1[L]&space;=&space;10^{-4}[Pa]\times 1[s]=10^{-6}[Torr]\times 1[s]}"/><br>
 と表される導入量(被曝量)の単位、Langmuirが使われることもあります。
 
 
