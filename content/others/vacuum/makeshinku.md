@@ -22,11 +22,11 @@
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;\sim&space;2.7\times10^{20}\frac{P}{MT}}"/> [molecule/cm<sup>2</sup>s]<br>
 
 が得られます。<br>
-ここで、室温300K,圧力P=10<sup>-4</sup> Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみると<span style="color: red; ">C'~3×10<sup>14</sup> [molecule/cm<sup>2</sup>s]</span>程度になります。一般に固体の表面原子数密度は10<sup>15</sup> [atom/cm<sup>2</sup>]ですので、10<sup>-4</sup> Paの下では表面は3秒程度で飽和吸着状態となることがわかります。<br>
+ここで、室温300 K,圧力P=10<sup>-4</sup> Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみると<span style="color: red; ">C'~3×10<sup>14</sup> [molecule/cm<sup>2</sup>s]</span>程度になります。一般に固体の表面原子数密度は10<sup>15</sup> [atom/cm<sup>2</sup>]ですので、10<sup>-4</sup> Paの下では表面は3秒程度で飽和吸着状態となることがわかります。<br>
 したがって、10<sup>-4</sup> Paの気体雰囲気中に1秒間程度表面を晒すことでおおよそ表面に単分子層だけ形成することができ、気体分子の導入量=圧力(真空度)×時間として
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;1[L]&space;=&space;10\times10^{-4}[Pa]\times 1[s]=10\times10^{-6}[Torr]\times 1[s]}"/><br>
-のように導入量(被曝量)の単位であるLangmuirが使われることもあります。
+と表される導入量(被曝量)の単位、Langmuirが使われることもあります。
 
 
 ## 真空の作成
@@ -42,6 +42,15 @@
 でした。したがって、単位時間・面積あたりに廃棄される分子の体積C'<sub>v</sub>は
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'_{\rm&space;v}&space;=&space;\frac{C'}{\rho}=\frac{1}{4}\frac{2}{\sqrt{\pi}}\sqrt{\frac{2k_{\rm&space;B}T}{m}}\sim3.64\sqrt{\frac{T}{M}}}"/> [l/cm<sup>2</sup>s]<br>
+となります。<br>
+またしても室温300 K, 空気の分子量M~29を用いて計算すると<span style="color: red; ">C'<sub>v,air</sub>~11.6 [l/cm<sup>2</sup>s]<span>が得られます。この計算の仮定では、衝突した分子の跳ね返りは考慮しておらず全て表面に吸着しているしているものとしています。即ち完全に排気されている状態になっています。したがって、空気が完全に廃棄されるような理想的な排気速度はポンプ排気口の面積をA [cm<sup>2</sup>]とすると
+<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;S_{\rm&space;ideal}&space;=&space;11.6A}"/> [l/s]<br>
+と表されます。実際には完全に排気されないため、
+<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;S_{\rm&space;real}&space;=&space;H_{o}S_{\rm&space;ideal}}"/> [l/s]<br>
+のように表されます。ここでH<sub>o</sub>はホー係数と呼ばれ0~1の間の値を取りますが、典型的には0.2~0.5程度になります。
+
 
 # Contents
 [気体分子運動論](./gas.md)<br>
