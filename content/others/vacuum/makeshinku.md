@@ -17,7 +17,7 @@
 となります。更に、単位時間・面積あたりに衝突する回数C'に規格化すると
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;=&space;\frac{C}{\Delta&space;tA}&space;=&space;\rho\frac{\bar{v}}{4}=\frac{P}{2\pi&space;k_{\rm&space;B}Tm}}"/><br>
-と表せます。ここで、[気体分子運動論](./gas.md)で求めた関係<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;\begin{align*}&space;\bar{v}&=\int_{\0}^{\infty}vf(v)dv&space;\\&==&space;\sqrt{\frac{8k_{\rm&space;B}T}{\pi&space;m}}&space;\end{}}"/>、<img src="https://latex.codecogs.com/gif.latex?\inline&space;\bg_black&space;\fn_cs&space;{\color{Green}&space;\rho&space;=&space;\frac{N}{V}=\frac{N_{\rm&space;A}P}{RT}=\frac{P}{k_{\rm&space;B}T}}"/>を用いると
+と表せます。ここで、[気体分子運動論](./gas.md)で求めた関係<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;\bar{v}=&space;\sqrt{\frac{8k_{\rm&space;B}T}{\pi&space;m}}"/>、<img src="https://latex.codecogs.com/gif.latex?\inline&space;\bg_black&space;\fn_cs&space;{\color{Green}&space;\rho&space;=&space;\frac{N}{V}=\frac{N_{\rm&space;A}P}{RT}=\frac{P}{k_{\rm&space;B}T}}"/>を用いると
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;\sim&space;2.7\times10^{20}\frac{P}{MT}}"/>[molecule/cm<sup>2</sup>s]<br>
 
