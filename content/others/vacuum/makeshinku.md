@@ -40,11 +40,11 @@
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;=&space;\rho\frac{\bar{v}}{4}}"/><br>
 でした。
-したがって、単位時間・面積あたりに廃棄される分子の体積C'<sub>v</sub>はρ=N/Vより、ρ<sup>-1</sup>=V/Nが1分子の占める体積となるので
+したがって、単位時間・面積あたりに排気される分子の体積C'<sub>v</sub>はρ=N/Vより、ρ<sup>-1</sup>=V/Nが1分子の占める体積となるので
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'_{\rm&space;v}&space;=&space;\frac{C'}{\rho}=\frac{1}{4}\frac{2}{\sqrt{\pi}}\sqrt{\frac{2k_{\rm&space;B}T}{m}}\sim3.64\sqrt{\frac{T}{M}}}"/> [l/cm<sup>2</sup>s]<br>
 となります。<br>
-またしても室温300 K, 空気の分子量M~29を用いて計算すると<span style="color: red; ">C'<sub>v,air</sub>~11.6 [l/cm<sup>2</sup>s]</span>が得られます。この計算の仮定では、衝突した分子の跳ね返りは考慮しておらず全て表面に吸着しているしているものとしています。即ち完全に排気されている状態になっています。したがって、空気が完全に廃棄されるような理想的な排気速度はポンプ排気口の面積をA [cm<sup>2</sup>]とすると
+またしても室温300 K, 空気の分子量M~29を用いて計算すると<span style="color: red; ">C'<sub>v,air</sub>~11.6 [l/cm<sup>2</sup>s]</span>が得られます。この計算の仮定では、衝突した分子の跳ね返りは考慮しておらず全て表面に吸着しているしているものとしています。即ち完全に排気されている状態になっています。したがって、空気が完全に排気されるような理想的な排気速度はポンプ排気口の面積をA [cm<sup>2</sup>]とすると
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;S_{\rm&space;ideal}&space;=&space;11.6A}"/> [l/s]<br>
 と表されます。実際には完全に排気されないため、
