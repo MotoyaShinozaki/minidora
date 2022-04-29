@@ -9,6 +9,7 @@
 <img src="./mail.png" width="400px">
 
 ## その他
+[reseachmap](https://researchmap.jp/nanodora){:target="_blank"}<br>
 [GitHub](https://github.com/MotoyaShinozaki){:target="_blank"}<br>
 [ORCiD](https://orcid.org/0000-0001-9460-9156){:target="_blank"}<br>
 
