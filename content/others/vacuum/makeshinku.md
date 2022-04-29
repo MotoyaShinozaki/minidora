@@ -22,7 +22,7 @@
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;\sim&space;2.7\times10^{20}\frac{P}{MT}}"/>[molecule/cm<sup>2</sup>s]<br>
 
 が得られます。<br>
-ここで、室温300K,圧力P=10<sup>-4</sup>Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみると
+ここで、室温300K,圧力P=10<sup>-4</sup>Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみるとC'~3×10<sup>14</sup>[molecule/cm<sup>2</sup>s]程度になります。一般に固体の表面原子数密度は10<sup>15</sup>[atom/cm<sup>2</sup>]ですので、10<sup>-4</sup>Paの下では表面は3秒程度で飽和吸着状態となることがわかります。
 
 # Contents
 [気体分子運動論](./gas.md)<br>
