@@ -22,11 +22,26 @@
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;\sim&space;2.7\times10^{20}\frac{P}{MT}}"/> [molecule/cm<sup>2</sup>s]<br>
 
 が得られます。<br>
-ここで、室温300K,圧力P=10<sup>-4</sup>Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみるとC'~3×10<sup>14</sup>[molecule/cm<sup>2</sup>s]程度になります。一般に固体の表面原子数密度は10<sup>15</sup>[atom/cm<sup>2</sup>]ですので、10<sup>-4</sup>Paの下では表面は3秒程度で飽和吸着状態となることがわかります。<br>
-したがって、10<sup>-4</sup>Paの気体雰囲気中に1秒間程度表面を晒すことでおおよそ表面に単分子層だけ形成することができ、気体分子の導入量=圧力(真空度)×時間として
+ここで、室温300K,圧力P=10<sup>-4</sup> Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみると<span style="color: red; ">C'~3×10<sup>14</sup> [molecule/cm<sup>2</sup>s]</span>程度になります。一般に固体の表面原子数密度は10<sup>15</sup> [atom/cm<sup>2</sup>]ですので、10<sup>-4</sup> Paの下では表面は3秒程度で飽和吸着状態となることがわかります。<br>
+したがって、10<sup>-4</sup> Paの気体雰囲気中に1秒間程度表面を晒すことでおおよそ表面に単分子層だけ形成することができ、気体分子の導入量=圧力(真空度)×時間として
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;1[L]&space;=&space;10\times10^{-4}[Pa]\times 1[s]=10\times10^{-6}[Torr]\times 1[s]}"/><br>
 のように導入量(被曝量)の単位であるLangmuirが使われることもあります。
+
+
+## 真空の作成
+前置きが長くなりましたが、以上の議論を応用して真空の作成について眺めてみましょう。
+先程考えた図中において、分子が衝突していた平面に穴が空いており、気体分子は上部(真空槽)から下部(ポンプ)へ移動している状態を考えましょう。これはまさしく気体の排気の描像ですね。<br>
+<p>
+<img src="./vacuum.png" width="400px" title="vacuum"><br>
+<em>図. 気体分子が排気される様子</em>
+</p>
+先に導出したように、単位時間・面積あたりに分子が衝突(排気)する回数C'は
+<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;=&space;\rho\frac{\bar{v}}{4}}"/><br>
+でした。したがって、単位時間・面積あたりに廃棄される分子の体積C'<sub>v</sub>は
+<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'_{\rm&space;v}&space;=&space;\frac{C'}{\rho}=\frac{1}{4}\frac{2}{\sqrt{\pi}}\sqrt{\frac{2k_{\rm&space;B}T}{m}}\sim3.64\sqrt{\frac{T}{M}}}"/> [l/cm<sup>2</sup>s]<br>
 
 # Contents
 [気体分子運動論](./gas.md)<br>
