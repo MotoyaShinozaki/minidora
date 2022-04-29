@@ -51,6 +51,29 @@
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;S_{\rm&space;real}&space;=&space;H_{o}S_{\rm&space;ideal}}"/> [l/s]<br>
 のように表されます。ここでH<sub>o</sub>はホー係数と呼ばれ0~1の間の値を取りますが、典型的には0.2~0.5程度になります。
+このようにして導出された速度で排気することで真空を作ることができます。
+
+## バランス方程式
+ここまで求めてきたように、排気速度Sで真空引きすることでとても良い真空が作れそうですが現実にはそう上手くはいきません。
+それは真空槽の内部には空気以外に内壁等に吸着している不純物ガスが存在するためです。
+いくら頑張って空気を排気しても、この真空槽からのガス放出により真空度は思うように良くなりません。
+これを数学的に記述すると、不純物ガス容量をQとして微分方程式
+<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;-\frac{dPV}{dt}+Q&space;=&space;P(t)S}"/> <br>
+が成り立ち、これをバランス方程式と呼びます。
+体積Vは時間に依存しないため、P(t)のみに対する微分方程式として解くと
+<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;P(t)&space;=&space;(P_{0}-\frac{Q}{S}exp(-\frac{S}{V}t)+\frac{Q}{S}}"/> <br>
+となります。ここで、十分に時間が経過すると(t→∞)
+<br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;P(\infty)&space;=&space;\frac{Q}{S}}"/> <br>
+となり、結局真空槽の不純物ガス放出が最終的に到達する真空度を決定することがわかります。<br>
+良い真空を作るため、つまりQを減らすためには<br>
+・内部壁面からの残留ガスを減らす
+・真空槽の漏れ(リーク)を減らす
+・真空ポンプからのガスの逆流の減らす
+などのケアを行う必要があります。
+
 
 
 # Contents
