@@ -21,7 +21,8 @@
 <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C'&space;\sim&space;2.7\times10^{20}\frac{P}{MT}}"/>[molecule/cm<sup>2</sup>s]<br>
 
-<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;PV&space;=&space;nRT&space;=&space;\frac{N}{N_{\rm&space;A}}RT}"/><br>
+が得られます。<br>
+ここで、室温300K,圧力P=10<sup>-4</sup>Paにおける窒素分子N<sub>2</sub>(分子量M=28)の表面衝突の頻度C'を求めてみると
 
 # Contents
 [気体分子運動論](./gas.md)<br>
