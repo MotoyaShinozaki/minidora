@@ -13,7 +13,7 @@
 </p>
 したがって、すべての速度の分子が平面Aに衝突する回数Cは
 <br>
-<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C&space;=&space;\rho\Delta&space;tA\int_{\0}^{\infty}v_{\rm&space;x}f(v_{\rm&space;x})dv_{\rm&space;x}}"/><br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;C&space;=&space;\rho\Delta&space;tA\int_{\0}^{\infty}v_{\rm&space;x}f(v_{\rm&space;x})dv_{\rm&space;x}&space;=&space;\rho\Delta&space;tA\frac{\bar{v_{\rm&space;x}}}{4}}"/><br>
 
 
 <img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\fn_cs&space;{\color{Green}&space;PV&space;=&space;nRT&space;=&space;\frac{N}{N_{\rm&space;A}}RT}"/><br>
