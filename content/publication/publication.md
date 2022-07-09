@@ -30,6 +30,18 @@
 <br>
 
 ## 国際会議
+
+<details>
+<summary>FY2022</summary>
+<ol reversed start="26">
+
+<li> "Noise robust recognition of charge states in quantum dots by machine learning and preprocessing"<br>
+	 Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
+ 	International Conference on the Physics of Semiconductors 2022, Online, Jun. 27-30, 2022<br><br></li>
+
+</ol>
+</details>
+
 <details>
 <summary>FY2021</summary>
 <ol reversed start="25">

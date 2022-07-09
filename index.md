@@ -10,7 +10,7 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2022/4/29) :</summary>
+<summary>更新履歴(Last update : 2022/7/9) :</summary>
 <pre>
 2022/4/29  : "Others (真空の物理)"を更新
 2022/4/4  : "About me (自己紹介)"を更新
