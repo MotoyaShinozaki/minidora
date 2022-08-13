@@ -182,6 +182,25 @@
 
 ## 国内会議・研究会等
 
+
+<details>
+<summary>FY2022</summary>
+<ol reversed start="27">
+
+
+<li> "二層グラフェン微小デバイスにおける高周波反射測定"<br>
+	上面友也, <b>篠崎基矢</b>, 藤原義弘, 田高陸, 大塚朋廣,<br>
+	日本物理学会2022年秋季大会, 東京工業大学, 東京, 2022年9月12-15日<br><br></li>
+</ol>
+</details>
+
+<li> "MoS<sub>2</sub>におけるコンタクト、ゲート電極の開発と量子ドット形成"<br>
+	田高陸, Alka Sharma, 上面友也, <b>篠崎基矢</b>, 熊坂武志, Young P. Chen, 大塚朋廣,<br>
+	日本物理学会2022年秋季大会, 東京工業大学, 東京, 2022年9月12-15日<br><br></li>
+</ol>
+</details>
+
+
 <details>
 <summary>FY2021</summary>
 <ol reversed start="26">
