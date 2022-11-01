@@ -5,6 +5,11 @@
 <details>
 <summary>こちら</summary>
 <ol reversed start="">
+
+<li> "Noise robust automatic charge state recognition in quantum dots by machine learning and pre-processing, and visual explanations of the model with Grad-CAM",<br>
+    Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070</a><br><br></li>
+
 <li> "Formation of quantum dots in MoS<sub>2</sub> with cryogenic Bi contacts and intrinsic Schottky barriers",<br>
     Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.11897" target="_blank">arXiv:2210.11897</a><br><br></li>
@@ -12,7 +17,7 @@
 <li> "Gate voltage dependence of noise distribution in radio-frequency reflectometry in gallium arsenide quantum dots",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka,<br>
 	<a href="https://iopscience.iop.org/article/10.35848/1882-0786/abe41f" target="_blank">Applied Physics Express <b>14</b>, 035002 (2021).</a><br>
-    <a href="https://arxiv.org/abs/2012.04177" target="_blank">arXiv:2012.04177.</a><br><br></li>
+    <a href="https://arxiv.org/abs/2012.04177" target="_blank">arXiv:2012.04177</a><br><br></li>
 
 <li> "Probing edge condition of nanoscale CoFeB/MgO magnetic tunnel junctions by spin-wave resonance",<br>
     <b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shunsuke Fukami, Hideo Sato, and Hideo Ohno,<br>
