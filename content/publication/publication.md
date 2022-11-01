@@ -42,10 +42,22 @@
 
 <details>
 <summary>FY2022</summary>
-<ol reversed start="26">
+<ol reversed start="29">
+
+<li> "Charge state recognition in double quantum dot devices by machine learning"<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
+ 	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
+
+<li> "Formation of quantum dots in MoS2 utilizing intrinsic Schottky barriers"<br>
+	Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, Tomohiro Otsuka,<br>
+ 	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
+
+<li> "High-frequency measurement in bilayer graphene nanodevices"<br>
+	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Riku Tataka, Takumi Aizawa, Takeshi Kumasaka and Tomohiro Otsuka,<br>
+ 	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
 
 <li> "Noise robust recognition of charge states in quantum dots by machine learning and preprocessing"<br>
-	 Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
  	International Conference on the Physics of Semiconductors 2022, Online, Jun. 27-30, 2022<br><br></li>
 
 </ol>
