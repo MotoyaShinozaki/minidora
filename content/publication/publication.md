@@ -6,6 +6,10 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "Radio-frequency reflectometry in bilayer graphene devices utilizing micro graphite back-gates",<br>
+    Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2212.00175" target="_blank">	arXiv:2212.00175</a><br><br></li>
+
 <li> "Noise robust automatic charge state recognition in quantum dots by machine learning and pre-processing, and visual explanations of the model with Grad-CAM",<br>
     Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070</a><br><br></li>
