@@ -372,6 +372,10 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "微細磁気トンネル接合における非線形輸送特性に関する研究",<br>
+    <b>篠﨑基矢</b>, 大塚朋廣, 深見俊輔<br>
+	<a href="https://tohoku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=138086&item_no=1&page_id=33&block_id=46" target="_blank">東北大学通研談話会記録 <b>91</b>, 18 (2022).</a><br><br></li>
+
 <li> "量子ビット観測回路におけるノイズメカニズム",<br>
     <b>篠﨑基矢</b>,<br>
 	<a href="http://www.iiare.tohoku.ac.jp/wordpress/wp-content/themes/lightning_child/crossover/vol49/index.html" target="_blank">東北大学クロスオーバー <b>49</b>, p6 (2021).</a><br><br></li>
