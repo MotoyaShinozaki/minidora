@@ -50,10 +50,14 @@
 
 <details>
 <summary>FY2022</summary>
-<ol reversed start="29">
+<ol reversed start="30">
+
+<li> "Noise Robust Automatic Recognition Method of Charge States in Quantum Dots by Machine Learning"<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+ 	The 4th International Symposium on AI and Electronics, Sendai, Feb. 13, 2023<br><br></li>
 
 <li> "Charge state recognition in double quantum dot devices by machine learning"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, and Tomohiro Otsuka,<br>
  	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
 
 <li> "Formation of quantum dots in MoS2 utilizing intrinsic Schottky barriers"<br>
@@ -61,11 +65,11 @@
  	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
 
 <li> "High-frequency measurement in bilayer graphene nanodevices"<br>
-	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Riku Tataka, Takumi Aizawa, Takeshi Kumasaka and Tomohiro Otsuka,<br>
+	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Riku Tataka, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
  	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
 
 <li> "Noise robust recognition of charge states in quantum dots by machine learning and preprocessing"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, and Tomohiro Otsuka,<br>
  	International Conference on the Physics of Semiconductors 2022, Online, Jun. 27-30, 2022<br><br></li>
 
 </ol>
@@ -214,8 +218,11 @@
 
 <details>
 <summary>FY2022</summary>
-<ol reversed start="28">
+<ol reversed start="29">
 
+<li> "量子ドット電荷状態推定機械学習モデルの予測判断根拠可視化"<br>
+	武藤由依, 中曽拓, 相澤拓海, <b>篠崎基矢</b>, 北田孝仁, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 志賀元紀, 大塚朋廣,<br>
+	日本物理学会2023年春季大会, オンライン開催, 2023年3月22-25日<br><br></li>
 
 <li> "二層グラフェン微小デバイスにおける高周波反射測定"<br>
 	上面友也, <b>篠崎基矢</b>, 藤原義弘, 田高陸, 大塚朋廣,<br>
