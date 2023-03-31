@@ -10,8 +10,9 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2023/2/27) :</summary>
+<summary>更新履歴(Last update : 2023/3/31) :</summary>
 <pre>
+2023/3/31  : "Publications (原著論文)"を更新
 2023/2/27  : "Publications (国際会議, 国内学会・研究会等)"、"AboutMe"を更新
 2022/12/23  : "Publications (原著論文)"を更新
 2022/4/29  : "Others (真空の物理)"を更新

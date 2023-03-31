@@ -18,9 +18,15 @@
     Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.11897" target="_blank">arXiv:2210.11897</a><br><br></li>
 
+
+<li> "Nonlinear conductance in nanoscale CoFeB/MgO magnetic tunnel junctions with perpendicular easy axis",<br>
+	<b>Motoya Shinozaki</b>, Junta Igarashi, Shuichi Iwakiri, Takahito Kitada, Keisuke Hayakawa, Butsurin Jinnai, Tomohiro Otsuka, Shunsuke Fukami, Kensuke Kobayashi, and Hideo Ohno,<br>
+	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.094436" target="_blank">Physical Review B <b>107</b>, 094436 (2023).</a><br><br></li>
+
 <li> "Scalable fabrication of graphene nanoribbon quantum dot devices with stable orbital-level spacing",<br>
     Toshiaki Kato, Takahito Kitada, Mizuki Seo, Wakana Okita, Naofumi Sato, <b>Motoya Shinozaki</b>, Takaya Abe, Takeshi Kumasaka, Takumi Aizawa, Yui Muto, Toshiro Kaneko, and Tomohiro Otsuka,<br>
     <a href="https://www.nature.com/articles/s43246-022-00326-3" target="_blank">Communications Materials <b>3</b>, 103 (2022).</a><br><br></li>
+
 
 <li> "Gate voltage dependence of noise distribution in radio-frequency reflectometry in gallium arsenide quantum dots",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka,<br>
