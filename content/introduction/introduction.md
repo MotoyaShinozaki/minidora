@@ -11,7 +11,7 @@
 ## その他
 [reseachmap](https://researchmap.jp/nanodora){:target="_blank"}<br>
 [GitHub](https://github.com/MotoyaShinozaki){:target="_blank"}<br>
-[ORCiD](https://orcid.org/0000-0001-9460-9156){:target="_blank"}<br>
+<!-- [ORCiD](https://orcid.org/0000-0001-9460-9156){:target="_blank"}<br> -->
 
 ## 略歴
 2009/4 国立小山工業高等専門学校 電気情報工学科 入学<br>
