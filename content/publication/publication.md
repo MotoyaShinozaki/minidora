@@ -61,12 +61,12 @@
 
 <li> "Automatic charge state estimation in quantum dots by machine learning and visual explanation of the model with Grad-CAM"<br>
 	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
- 	International Conference on Electronic Properties of Two-Dimensional Systems, Grenoble, France, 9-14 Jul. 2023.<br><br></li>
+ 	The 25th International Conference on Electronic Properties of Two-Dimensional Systems, Grenoble, France, 9-14 Jul. 2023.<br><br></li>
 
 
 <li> "Radio-frequency reflectometry measurement in bilayer graphene microdevices"<br>
 	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Riku Tataka, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
- 	International Conference on Electronic Properties of Two-Dimensional Systems, Grenoble, France, 9-14 Jul. 2023.<br><br></li>
+ 	The 25th International Conference on Electronic Properties of Two-Dimensional Systems, Grenoble, France, 9-14 Jul. 2023.<br><br></li>
 
 
 </ol>
