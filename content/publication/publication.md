@@ -7,7 +7,7 @@
 <ol reversed start="">
 
 <li> "Wide dynamic range charge sensor operation by high-speed feedback control of radio-frequency reflectometry",<br>
-    Yoshihiro Fujiwara, Motoya Shinozaki, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+    Yoshihiro Fujiwara, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2307.05077" target="_blank">	arXiv:2307.05077.</a><br><br></li>
 
 <li> "Radio-frequency reflectometry in bilayer graphene devices utilizing micro graphite back-gates",<br>
