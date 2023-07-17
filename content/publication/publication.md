@@ -22,7 +22,7 @@
 
 <li> "Radio-frequency reflectometry in bilayer graphene devices utilizing micro graphite back-gates",<br>
     Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, Tomohiro Otsuka,<br>
-	<a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.20.014035" target="_blank">Physical Review Applied <b>20</b>, 014035 (2023).</a><br><br></li>
+	<a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.20.014035" target="_blank">Physical Review Applied <b>20</b>, 014035 (2023).</a><br>
     <a href="https://arxiv.org/abs/2212.00175" target="_blank">	arXiv:2212.00175.</a><br><br></li>
 
 <li> "Nonlinear conductance in nanoscale CoFeB/MgO magnetic tunnel junctions with perpendicular easy axis",<br>
