@@ -1,5 +1,9 @@
 # 私的な近況
 
+## 2023/7/20 : 論文
+論文がPhysical Review Applied誌に掲載されました。<br>
+ご協力・議論いただいた皆様ありがとうございました<br>
+[プレスリリース](./Johmen_PRAppl.pdf){:target="_blank"}も行いました。<br>
 
 ## 2023/3/31 : 論文
 論文がPhysical Review B誌に掲載されました。<br>
