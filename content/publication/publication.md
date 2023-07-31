@@ -31,7 +31,8 @@
 
 <li> "Scalable fabrication of graphene nanoribbon quantum dot devices with stable orbital-level spacing",<br>
     Toshiaki Kato, Takahito Kitada, Mizuki Seo, Wakana Okita, Naofumi Sato, <b>Motoya Shinozaki</b>, Takaya Abe, Takeshi Kumasaka, Takumi Aizawa, Yui Muto, Toshiro Kaneko, and Tomohiro Otsuka,<br>
-    <a href="https://www.nature.com/articles/s43246-022-00326-3" target="_blank">Communications Materials <b>3</b>, 103 (2022).</a><br><br></li>
+    <a href="https://www.nature.com/articles/s43246-022-00326-3" target="_blank">Communications Materials <b>3</b>, 103 (2022).</a><br>
+	<a href="./Kitada_GNR.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 <li> "Gate voltage dependence of noise distribution in radio-frequency reflectometry in gallium arsenide quantum dots",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Takumi Ito, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, and Tomohiro Otsuka,<br>
