@@ -11,7 +11,6 @@
     <a href="https://arxiv.org/abs/2307.05077" target="_blank">	arXiv:2307.05077.</a><br><br></li>
 
 
-
 <li> "Noise robust automatic charge state recognition in quantum dots by machine learning and pre-processing, and visual explanations of the model with Grad-CAM",<br>
     Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070.</a><br><br></li>
@@ -23,7 +22,8 @@
 <li> "Radio-frequency reflectometry in bilayer graphene devices utilizing micro graphite back-gates",<br>
     Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, Tomohiro Otsuka,<br>
 	<a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.20.014035" target="_blank">Physical Review Applied <b>20</b>, 014035 (2023).</a><br>
-    <a href="https://arxiv.org/abs/2212.00175" target="_blank">	arXiv:2212.00175.</a><br><br></li>
+    <a href="https://arxiv.org/abs/2212.00175" target="_blank">	arXiv:2212.00175.</a><br>
+	<a href="./Johmen_PRAppl.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 <li> "Nonlinear conductance in nanoscale CoFeB/MgO magnetic tunnel junctions with perpendicular easy axis",<br>
 	<b>Motoya Shinozaki</b>, Junta Igarashi, Shuichi Iwakiri, Takahito Kitada, Keisuke Hayakawa, Butsurin Jinnai, Tomohiro Otsuka, Shunsuke Fukami, Kensuke Kobayashi, and Hideo Ohno,<br>
