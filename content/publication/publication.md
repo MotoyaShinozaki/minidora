@@ -246,7 +246,7 @@
 ## 国内会議・研究会等
 
 <details>
-<summary>FY2022</summary>
+<summary>FY2023</summary>
 <ol reversed start="31">
 
 <li> "機械学習による量子ドット電荷状態推定の汎化性能改良"<br>
