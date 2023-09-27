@@ -10,11 +10,12 @@
 <summary>最近読んだ本たち</summary>
 
 ここでの最近とは、博士課程修了後から現在に至るまでのことを指します<br>
-[坊っちゃん](./bool/3gokushi_blue.md)<br>
-[罪と罰](./bool/3gokushi_blue.md)<br>
-[Die with zero](./bool/3gokushi_blue.md)<br>
-[ロシア語の余白の余白](./bool/3gokushi_blue.md)<br>
-[ロシア語だけの青春](./bool/3gokushi_blue.md)<br>
+<a href="./book/3gokushi_blue.md" target="_blank">坊っちゃん</a><br>
+[坊っちゃん](./book/3gokushi_blue.md)<br>
+[罪と罰](./book/3gokushi_blue.md)<br>
+[Die with zero](./book/3gokushi_blue.md)<br>
+[ロシア語の余白の余白](./book/3gokushi_blue.md)<br>
+[ロシア語だけの青春](./book/3gokushi_blue.md)<br>
 </details>
 <br>
 
@@ -22,16 +23,16 @@
 <summary>思い出の本棚</summary>
 
 昔読んだ本で、記憶や印象に残っているものたち<br>
-[三国志](./bool/3gokushi_blue.md)<br>
-[三国志](./bool/3gokushi_blue.md)<br>
-[信長私記](./bool/3gokushi_blue.md)<br>
-[ライトノベルたち](./bool/3gokushi_blue.md)<br>
-[DDD](./bool/3gokushi_blue.md)<br>
-[ニュートン特別号](./bool/3gokushi_blue.md)<br>
-[キッテル固体物理学](./bool/3gokushi_blue.md)<br>
-[基礎物理学演習](./bool/3gokushi_blue.md)<br>
-[明快演習 微分積分](./bool/3gokushi_blue.md)<br>
-[電子スピン共鳴](./bool/3gokushi_blue.md)<br>
+[三国志](./book/3gokushi_blue.md)<br>
+[三国志](./book/3gokushi_blue.md)<br>
+[信長私記](./book/3gokushi_blue.md)<br>
+[ライトノベルたち](./book/3gokushi_blue.md)<br>
+[DDD](./book/3gokushi_blue.md)<br>
+[ニュートン特別号](./book/3gokushi_blue.md)<br>
+[キッテル固体物理学](./book/3gokushi_blue.md)<br>
+[基礎物理学演習](./book/3gokushi_blue.md)<br>
+[明快演習 微分積分](./book/3gokushi_blue.md)<br>
+[電子スピン共鳴](./book/3gokushi_blue.md)<br>
 </details>
 <br>
 
