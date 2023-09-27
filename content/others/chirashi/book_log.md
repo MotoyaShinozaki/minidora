@@ -6,11 +6,22 @@
 学生として大学に籠もってる間はそんな時間も尊いものでしたが、修了後に遭遇した様々なきっかけを機に自らの専門分野、もっと広く言えば理系から離れた本も読んでみようと思い立った今日この頃でした。
 
 
+<summary>最近読んだ本たち</summary>
+
+ここでの最近とは、博士課程修了後から現在に至るまでのことを指します<br>
+[坊っちゃん](./bool/3gokushi_blue.md)<br>
+[罪と罰](./bool/3gokushi_blue.md)<br>
+[Die with zero](./bool/3gokushi_blue.md)<br>
+[ロシア語の余白の余白](./bool/3gokushi_blue.md)<br>
+[ロシア語だけの青春](./bool/3gokushi_blue.md)<br>
+</details>
+<br>
+
 <details>
 <summary>思い出の本棚</summary>
 
 昔読んだ本で、記憶や印象に残っているものたち<br>
-<li>[三国志](./bool/3gokushi_blue.md)</li><br>
+[三国志](./bool/3gokushi_blue.md)<br>
 [三国志](./bool/3gokushi_blue.md)<br>
 [信長私記](./bool/3gokushi_blue.md)<br>
 [ライトノベルたち](./bool/3gokushi_blue.md)<br>
@@ -21,18 +32,8 @@
 [明快演習 微分積分](./bool/3gokushi_blue.md)<br>
 [電子スピン共鳴](./bool/3gokushi_blue.md)<br>
 </details>
-
+<br>
 <details>
-<summary>最近読んだ本たち</summary>
-
-ここでの最近とは、博士課程修了後から現在に至るまでのことを指します
-[坊っちゃん](./bool/3gokushi_blue.md)<br>
-[罪と罰](./bool/3gokushi_blue.md)<br>
-[Die with zero](./bool/3gokushi_blue.md)<br>
-[ロシア語の余白の余白](./bool/3gokushi_blue.md)<br>
-[ロシア語だけの青春](./bool/3gokushi_blue.md)<br>
-</details>
-
 
 # Return
 [チラシの裏に戻る](./zakki.md)<br>
