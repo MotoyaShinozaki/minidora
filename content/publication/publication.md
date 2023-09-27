@@ -12,15 +12,15 @@
 
 
 <li> "Noise robust automatic charge state recognition in quantum dots by machine learning and pre-processing, and visual explanations of the model with Grad-CAM",<br>
-    Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, Tomohiro Otsuka,<br>
+    Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070.</a><br><br></li>
 
 <li> "Formation of quantum dots in MoS<sub>2</sub> with cryogenic Bi contacts and intrinsic Schottky barriers",<br>
-    Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, Tomohiro Otsuka,<br>
+    Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.11897" target="_blank">arXiv:2210.11897.</a><br><br></li>
 
 <li> "Radio-frequency reflectometry in bilayer graphene devices utilizing micro graphite back-gates",<br>
-    Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, Tomohiro Otsuka,<br>
+    Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, and Tomohiro Otsuka,<br>
 	<a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.20.014035" target="_blank">Physical Review Applied <b>20</b>, 014035 (2023).</a><br>
     <a href="https://arxiv.org/abs/2212.00175" target="_blank">	arXiv:2212.00175.</a><br>
 	<a href="./Johmen_PRAppl.pdf" target="_blank">プレスリリース</a><br><br></li>
