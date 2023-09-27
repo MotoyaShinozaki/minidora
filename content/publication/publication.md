@@ -247,10 +247,14 @@
 
 <details>
 <summary>FY2023</summary>
-<ol reversed start="32">
+<ol reversed start="33">
 
 <li> "Improving the dynamic range of charge sensing utilizing fast feedback control of rf reflectometry"<br>
 	Yoshihiro Fujiwara, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+	The 12th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 27-29 Sep. 2023<br><br></li>
+
+<li> "Radio-frequency reflectometry in bilayer graphene quantum dot"<br>
+	Tomoya Johmen, <b>Motoya Shinozaki</b>, Riku. Tataka, Yoshihiro Fujiwara, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
 	The 12th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 27-29 Sep. 2023<br><br></li>
 
 <li> "機械学習による量子ドット電荷状態推定の汎化性能改良"<br>
