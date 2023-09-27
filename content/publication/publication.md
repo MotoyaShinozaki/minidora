@@ -247,7 +247,11 @@
 
 <details>
 <summary>FY2023</summary>
-<ol reversed start="31">
+<ol reversed start="32">
+
+<li> "Improving the dynamic range of charge sensing utilizing fast feedback control of rf reflectometry"<br>
+	Yoshihiro Fujiwara, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+	The 12th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 27-29 Sep. 2023<br><br></li>
 
 <li> "機械学習による量子ドット電荷状態推定の汎化性能改良"<br>
 	武藤由依, 中曽拓, 相澤拓海, <b>篠崎基矢</b>, 北田孝仁, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 志賀元紀, 大塚朋廣,<br>
