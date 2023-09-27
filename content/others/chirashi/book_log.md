@@ -9,8 +9,8 @@
 <details>
 <summary>思い出の本棚</summary>
 
-昔読んだ本で、記憶や印象に残っているものたち
-[三国志](./bool/3gokushi_blue.md)<br>
+昔読んだ本で、記憶や印象に残っているものたち<br>
+<li>[三国志](./bool/3gokushi_blue.md)</li><br>
 [三国志](./bool/3gokushi_blue.md)<br>
 [信長私記](./bool/3gokushi_blue.md)<br>
 [ライトノベルたち](./bool/3gokushi_blue.md)<br>
