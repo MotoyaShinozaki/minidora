@@ -10,7 +10,7 @@
 <summary>最近読んだ本たち</summary>
 
 (ここでの最近とは、博士課程修了後から現在に至るまでのことを指します)<br>
-<a href="./book/3gokushi_blue.html" target="_self">坊っちゃん</a><br>
+<a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">ロシア語の余白の余白</a><br>
