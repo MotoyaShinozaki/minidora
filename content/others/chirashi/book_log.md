@@ -9,12 +9,16 @@
 <details>
 <summary>最近読んだ本たち</summary>
 
-(ここでの最近とは、博士課程修了後から現在に至るまでのことを指します)<br>
+(ここでの最近とは、博士課程修了あたりから現在に至るまでのことを指します)<br>
 <a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
-<a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
+罪と罰<br>
+Die with zero<br>
+ロシア語の余白の余白<br>
+ロシア語だけの青春<br>
+<!-- <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">ロシア語の余白の余白</a><br>
-<a href="./book/3gokushi_blue.html" target="_self">ロシア語だけの青春</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">ロシア語だけの青春</a><br> -->
 </details>
 <br>
 
@@ -22,8 +26,16 @@
 <summary>思い出の本棚</summary>
 
 (昔読んだ本で、記憶や印象に残っているものたち)<br>
-<a href="./book/3gokushi_blue.html" target="_self">三国志</a><br>
-<a href="./book/3gokushi_blue.html" target="_self">三国志</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">三国志1</a><br>
+三国志2<br>
+信長私記<br>
+ライトノベルたち<br>
+DDD<br>
+Newton 2008年12月号<br>
+キッテル固体物理学<br>
+基礎物理学演習, 明解演習微分積分<br>
+電子スピン共鳴<br>
+<!-- <a href="./book/3gokushi_blue.html" target="_self">三国志2</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">信長私記</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">ライトノベルたち</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">DDD</a><br>
@@ -31,7 +43,7 @@
 <a href="./book/3gokushi_blue.html" target="_self">キッテル固体物理学</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">基礎物理学演習</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">明快演習 微分積分</a><br>
-<a href="./book/3gokushi_blue.html" target="_self">電子スピン共鳴</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">電子スピン共鳴</a><br> -->
 </details>
 <br>
 

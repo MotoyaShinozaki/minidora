@@ -4,6 +4,7 @@
 # Contents
 [きっかけ](./kikkake.md)<br>
 [研究室とは](./lab.md)<br>
+[読んだ本たち](./book_log.md)<br>
 
 # Return
 [その他に戻る](../others.md)<br>

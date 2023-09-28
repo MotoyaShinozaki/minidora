@@ -10,8 +10,9 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2023/9/16) :</summary>
+<summary>更新履歴(Last update : 2023/9/29) :</summary>
 <pre>
+2023/7/20  : "Others"を更新
 2023/7/20  : "Publications (原著論文)"を更新
 2023/3/31  : "Publications (原著論文)"を更新
 2023/2/27  : "Publications (国際会議, 国内学会・研究会等)"、"AboutMe"を更新
