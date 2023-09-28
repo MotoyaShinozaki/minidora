@@ -9,29 +9,29 @@
 <details>
 <summary>最近読んだ本たち</summary>
 
-ここでの最近とは、博士課程修了後から現在に至るまでのことを指します<br>
-<a href="./book/3gokushi_blue.html" target="_blank">坊っちゃん</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">罪と罰</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">Die with zero</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">ロシア語の余白の余白</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">ロシア語だけの青春</a><br>
+(ここでの最近とは、博士課程修了後から現在に至るまでのことを指します)<br>
+<a href="./book/3gokushi_blue.html" target="_self">坊っちゃん</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">ロシア語の余白の余白</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">ロシア語だけの青春</a><br>
 </details>
 <br>
 
 <details>
 <summary>思い出の本棚</summary>
 
-昔読んだ本で、記憶や印象に残っているものたち<br>
-<a href="./book/3gokushi_blue.html" target="_blank">三国志</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">三国志</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">信長私記</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">ライトノベルたち</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">DDD</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">ニュートン特別号</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">キッテル固体物理学</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">基礎物理学演習</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">明快演習 微分積分</a><br>
-<a href="./book/3gokushi_blue.html" target="_blank">電子スピン共鳴</a><br>
+(昔読んだ本で、記憶や印象に残っているものたち)<br>
+<a href="./book/3gokushi_blue.html" target="_self">三国志</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">三国志</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">信長私記</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">ライトノベルたち</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">DDD</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">ニュートン特別号</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">キッテル固体物理学</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">基礎物理学演習</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">明快演習 微分積分</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">電子スピン共鳴</a><br>
 </details>
 <br>
 
