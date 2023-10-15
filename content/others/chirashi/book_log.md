@@ -15,6 +15,7 @@
 Die with zero<br>
 ロシア語の余白の余白<br>
 ロシア語だけの青春<br>
+早すぎた男 南部陽一郎物語<br>
 <!-- <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">ロシア語の余白の余白</a><br>
