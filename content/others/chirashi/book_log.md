@@ -29,7 +29,7 @@ Die with zero<br>
 <summary>思い出の本棚</summary>
 
 (昔読んだ本で、記憶や印象に残っているものたち)<br>
-<a href="./book/3gokushi_blue.html" target="_self">三国志1</a><br>
+<a href="./book/3gokushi_blue.html" target="_self">三国志</a><br>
 <!-- 三国志2<br> -->
 信長私記<br>
 ライトノベルたち<br>
