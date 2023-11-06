@@ -66,7 +66,7 @@
 <ol reversed start="33">
 
 <li> "High-frequency measurement in graphene nanostructures for graphene quantum devices"<br>
-	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Riku Tataka, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
  	The Joint Workshop of 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, 
 	and Systems (QCCC 2023), 16th Superconducting SFQ VLSI Workshop (SSV 2023), 
 	and 2nd International Workshop of Spin/Quantum Materials and Devices (IWSQMD 2023), Sendai, Japan, 16-17 Nov. 2023.<br><br></li>
