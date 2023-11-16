@@ -63,13 +63,18 @@
 
 <details>
 <summary>FY2023</summary>
-<ol reversed start="33">
+<ol reversed start="34">
 
 <li> "High-frequency measurement in graphene nanostructures for graphene quantum devices"<br>
 	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
  	The Joint Workshop of 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, 
 	and Systems (QCCC 2023), 16th Superconducting SFQ VLSI Workshop (SSV 2023), 
 	and 2nd International Workshop of Spin/Quantum Materials and Devices (IWSQMD 2023), Sendai, Japan, 16-17 Nov. 2023.<br><br></li>
+
+<li> "Automatic state recognition of quantum dot hardware utilizing machine learning"<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+ 	International Conference on Machine Learning Physics, Kyoto, Japan, Nov. 15, 2023.<br><br></li>
+
 
 <li> "Automatic charge state estimation in quantum dots by machine learning and visual explanation of the model with Grad-CAM"<br>
 	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
