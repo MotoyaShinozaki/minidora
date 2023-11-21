@@ -6,9 +6,7 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
-<li> "Wide dynamic range charge sensor operation by high-speed feedback control of radio-frequency reflectometry",<br>
-    Yoshihiro Fujiwara, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
-    <a href="https://arxiv.org/abs/2307.05077" target="_blank">	arXiv:2307.05077.</a><br><br></li>
+
 
 
 <li> "Noise robust automatic charge state recognition in quantum dots by machine learning and pre-processing, and visual explanations of the model with Grad-CAM",<br>
@@ -18,6 +16,12 @@
 <li> "Formation of quantum dots in MoS<sub>2</sub> with cryogenic Bi contacts and intrinsic Schottky barriers",<br>
     Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.11897" target="_blank">arXiv:2210.11897.</a><br><br></li>
+
+
+<li> "Wide dynamic range charge sensor operation by high-speed feedback control of radio-frequency reflectometry",<br>
+	Yoshihiro Fujiwara, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+	<a href="https://doi.org/10.1063/5.0167212" target="_blank">Applied Physics Letters <b>123</b>, 213502 (2023).</a><br>
+	<a href="https://arxiv.org/abs/2307.05077" target="_blank">	arXiv:2307.05077.</a><br><br></li>
 
 <li> "Radio-frequency reflectometry in bilayer graphene devices utilizing micro graphite back-gates",<br>
     Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, and Tomohiro Otsuka,<br>

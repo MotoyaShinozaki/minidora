@@ -9,7 +9,7 @@
 <br>
 
 <details>
-<summary>最近読んだ本たち</summary>
+<summary>最近読み終えた本たち</summary>
 
 (ここでの最近とは、博士課程修了あたりから現在に至るまでのことを指します)<br>
 <a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
