@@ -67,7 +67,16 @@
 
 <details>
 <summary>FY2023</summary>
-<ol reversed start="34">
+<ol reversed start="36">
+
+<li> "Wide dynamic range charge sensing utilizing fast feedback control of radio-frequency reflectometry"<br>
+	<b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+ 	The 7th Symposium for the Core Research Clusters for Materials Science and Spintronics and the 6th Symposium on International Joint Graduate Program in Materials Science and Spintronics, Sendai, Japan, 28 Nov.-1 Dec. 2023.<br><br></li>
+
+<li> "Improving the generalization performance of the machine learning model estimating charge states in quantum dots"<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+ 	The 7th Symposium for the Core Research Clusters for Materials Science and Spintronics and the 6th Symposium on International Joint Graduate Program in Materials Science and Spintronics, Sendai, Japan, 28 Nov.-1 Dec. 2023.<br><br></li>
+
 
 <li> "High-frequency measurement in graphene nanostructures for graphene quantum devices"<br>
 	Tomoya Johmen, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
