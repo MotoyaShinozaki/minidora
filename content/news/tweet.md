@@ -1,5 +1,8 @@
 # 私的な近況
 
+## 2023/11/28 : 国際会議発表
+The 7th Symposium for the Core Research Clusters for Materials Science and Spintronicsで発表をしました。<br>
+聞きに来てくださった皆様ありがとうございました<br>
 
 ## 2023/11/21 : 論文
 論文がApplied Physics Letters誌に掲載されました。<br>
