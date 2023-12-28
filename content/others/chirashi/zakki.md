@@ -5,6 +5,7 @@
 [きっかけ](./kikkake.md)<br>
 [研究室とは](./lab.md)<br>
 [読んだ本たち](./book_log.md)<br>
+[ドイツ管の音色に耽る](./posaune.md)<br>
 
 # Return
 [その他に戻る](../others.md)<br>
