@@ -23,7 +23,6 @@ Die with zero<br>
 言語哲学がはじまる<br>
 <!-- <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
-<a href="./book/3gokushi_blue.html" target="_self">ロシア語の余白の余白</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">ロシア語だけの青春</a><br> -->
 </details>
 <br>
