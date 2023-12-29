@@ -54,6 +54,9 @@
 しかも皆トラディショナルタイプのガチドイツ管、セクションとしての音作りも凝りに凝ってとことん拘ります。全てはあのコラールのために。。
 4楽章しか出番がないのに、一番パート練習をしてたんじゃないかと思います。<br>
 こうして、東北大オケトロンボーンのドイツ管時代が始まった(と思っている)。
+<p>
+<img src="./164_posaune.jpg" width="400px" title="posaune">
+</p>
 </details>
 <br>
 
@@ -182,6 +185,13 @@
 更新中<br>
 </details>
 <br>
+
+最終的に集まったドイツ管達
+<p>
+<img src="./pos1.jpg" width="400px" title="posaune1"><br>
+<img src="./pos3.jpg" width="400px" title="posaune2"><br>
+<img src="./pos2.jpg" width="400px" title="posaune3"><br>
+</p>
 
 # Return
 [チラシの裏に戻る](./zakki.md)<br>
