@@ -189,8 +189,8 @@
 最終的に集まったドイツ管達
 <p>
 <img src="./pos1.jpg" width="400px" title="posaune1"><br>
-<img src="./pos3.jpg" width="400px" title="posaune2"><br>
-<img src="./pos2.jpg" width="400px" title="posaune3"><br>
+<img src="./pos2.jpg" width="400px" title="posaune2"><br>
+<img src="./pos3.jpg" width="400px" title="posaune3"><br>
 </p>
 
 # Return
