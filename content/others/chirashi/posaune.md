@@ -55,7 +55,7 @@
 4楽章しか出番がないのに、一番パート練習をしてたんじゃないかと思います。<br>
 こうして、東北大オケトロンボーンのドイツ管時代が始まった(と思っている)。
 <p>
-<img src="./164_posaune.jpg" width="400px" title="posaune">
+<img src="./164_posaune.JPG" width="400px" title="posaune">
 </p>
 </details>
 <br>
