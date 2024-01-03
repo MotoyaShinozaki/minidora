@@ -9,8 +9,8 @@
 
 
 
-<li> "Noise robust automatic charge state recognition in quantum dots by machine learning and pre-processing, and visual explanations of the model with Grad-CAM",<br>
-    Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+<li> "Visual explanations of machine learning model estimating charge states in quantum dots",<br>
+    Yui Muto, Takumi Nakaso, <b>Motoya Shinozaki</b>, Takumi Aizawa, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070.</a><br><br></li>
 
 <li> "Formation of quantum dots in MoS<sub>2</sub> with cryogenic Bi contacts and intrinsic Schottky barriers",<br>
@@ -270,7 +270,12 @@
 
 <details>
 <summary>FY2023</summary>
-<ol reversed start="34">
+<ol reversed start="35">
+
+<li> "通信用ロジック・アルゴリズムを活用した量子古典ハイブリッド求解技術の検討"<br>
+	越川 翔太, 保坂有杜, 西川翔太, 小西良明, <b>篠崎基矢</b>, 大塚朋廣, ハシタ ムトゥマラ ウィッデヤスーリヤ, 張山昌論, 吉田  剛,<br>
+	電子情報通信学会 コミュニケーションシステム研究会, 鹿児島, 2024年1月11-12日<br><br></li>
+
 
 <li> "Improving the dynamic range of charge sensing utilizing fast feedback control of rf reflectometry"<br>
 	Yoshihiro Fujiwara, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
