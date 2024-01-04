@@ -55,7 +55,7 @@
 4楽章しか出番がないのに、一番パート練習をしてたんじゃないかと思います。<br>
 こうして、東北大オケトロンボーンのドイツ管時代が始まった(と思っている)。
 <p>
-<img src="./164_posaune.JPG" width="400px" title="posaune">
+<img src="./164_pos.jpg" width="400px" title="posaune">
 </p>
 </details>
 <br>
@@ -97,7 +97,7 @@
 オールドイツ管での演奏会も数をこなして慣れてきた頃でもあり、パートの矜持を感じる音が炸裂します。
 逆に拘りすぎて金管の中でトロンボーンだけ浮いているようにさえ思えてしまう、それくらい劇的な演奏会でした。<br>
 <p>
-<img src="./166_posaune.jpg" width="400px" title="posaune">
+<img src="./166_pos.jpg" width="400px" title="posaune">
 </p>
 </details>
 <br>
@@ -115,7 +115,7 @@
 レッチェのバストロということで、チースリクモデルがついに登場。<br>
 3本勢揃いはなかったものの、トロンボーン乗り番曲全てにおいてドイツ管が舞台に立った演奏会でした。
 <p>
-<img src="./167_posaune.jpg" width="400px" title="posaune">
+<img src="./167_pos.jpg" width="400px" title="posaune">
 </p>
 </details>
 <br>
