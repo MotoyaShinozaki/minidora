@@ -21,6 +21,7 @@ Die with zero<br>
 ことばと思考<br>
 無限の天才―夭逝の数学者・ラマヌジャン<br>
 言語哲学がはじまる<br>
+マヤ文明の謎<br>
 <!-- <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">ロシア語だけの青春</a><br> -->
