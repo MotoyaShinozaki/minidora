@@ -13,6 +13,7 @@
 
 (博士課程修了あたりから)<br>
 <a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
+老人と海<br>
 罪と罰<br>
 Die with zero<br>
 <a href="./book/yohaku.html" target="_self">ロシア語の余白の余白</a><br>
