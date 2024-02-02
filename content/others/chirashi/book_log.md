@@ -24,7 +24,7 @@ Die with zero<br>
 言語哲学がはじまる<br>
 マヤ文明の謎<br>
 外国語の遊園地<br>
-イスラエル 人類史上最もやっかいな問題<br>
+<a href="./book/israel.html" target="_self">イスラエル 人類史上最もやっかいな問題</a><br>
 ご冗談でしょう, ファインマンさん<br>
 <!-- <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
