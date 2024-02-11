@@ -27,6 +27,7 @@ Die with zero<br>
 <a href="./book/israel.html" target="_self">イスラエル 人類史上最もやっかいな問題</a><br>
 ご冗談でしょう, ファインマンさん<br>
 チョムスキー<br>
+現象学<br>
 <!-- <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
 <a href="./book/3gokushi_blue.html" target="_self">ロシア語だけの青春</a><br> -->
