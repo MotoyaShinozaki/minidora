@@ -28,9 +28,7 @@ Die with zero<br>
 ご冗談でしょう, ファインマンさん<br>
 チョムスキー<br>
 現象学<br>
-<!-- <a href="./book/3gokushi_blue.html" target="_self">罪と罰</a><br>
-<a href="./book/3gokushi_blue.html" target="_self">Die with zero</a><br>
-<a href="./book/3gokushi_blue.html" target="_self">ロシア語だけの青春</a><br> -->
+もっとにぎやかな外国語の世界<br>
 </details>
 <br>
 
