@@ -474,7 +474,8 @@
 
 <li> "量子ビット観測回路におけるノイズメカニズム",<br>
     <b>篠﨑基矢</b>,<br>
-	<a href="http://www.iiare.tohoku.ac.jp/wordpress/wp-content/themes/lightning_child/crossover/vol49/index.html" target="_blank">東北大学クロスオーバー <b>49</b>, p6 (2021).</a><br><br></li>
+	<a href="http://www.iiare.tohoku.ac.jp/wordpress/wp-content/themes/lightning_child/crossover/vol49/index.html" target="_blank">東北大学クロスオーバー <b>49</b>, p6 (2021).</a><br>
+	<a href="./crossover.png" target="_blank">記事抜粋</a><br><br></li>
 
 <li> "強磁性共鳴を用いた微細磁気トンネル接合における磁気特性の評価",<br>
     <b>篠﨑基矢</b>, 佐藤英夫, 大野英男<br>
