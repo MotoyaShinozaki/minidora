@@ -67,7 +67,11 @@
 
 <details>
 <summary>FY2023</summary>
-<ol reversed start="36">
+<ol reversed start="37">
+
+<li> "Improvement of Charge State Estimation in Quantum Dots by Machine Learning and Visualization of the Model by Grad-CAM"<br>
+	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+ 	The 5th International Symposium on AI and Electronics, Sendai, Japan, 19-20 Feb. 2024.<br><br></li>
 
 <li> "Wide dynamic range charge sensing utilizing fast feedback control of radio-frequency reflectometry"<br>
 	<b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
