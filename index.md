@@ -10,7 +10,7 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2024/1/4) :</summary>
+<summary>更新履歴(Last update : 2024/2/23) :</summary>
 <pre>
 2023/11/22  : "Publications を更新
 2023/11/22  : "Publications (国際会議)"を更新
