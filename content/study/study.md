@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 # Study
 ## 何やってるの
 半導体技術の発展と共に長足の進歩を遂げてきた半導体集積回路は、情報通信機器はもとより医療や航空・宇宙、自動車などの多岐にわたる分野で使用されています。<br>
