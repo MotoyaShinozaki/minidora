@@ -44,6 +44,8 @@ Die with zero<br>
 言語起源論-旋律と音楽的模倣について-<br>
 魏志倭人伝<br>
 動物農場<br>
+言語の本質<br>
+<a href="./book/coffee.html" target="_self">珈琲店タレーランの事件簿</a><br>
 </details>
 <br>
 
