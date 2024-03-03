@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 # 真空の物理
 宇宙から保存容器まで、真空という名前は様々な場所で耳にします。私達の研究分野においても例外ではなく、人工量子エレクトロニクスにおいて真空とは欠かすことのできない非常に身近な技術です。<br>
 一方で、真空技術は量子デバイスやスピントロニクスデバイスを作製する上での手段として捉えられることが多く、そのような研究を遂行する中で真空技術自体について深く考えることは稀なのではないのでしょうか。<br>

@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 # 三国志
 ## 著:羅貫中, 訳:駒田信二, 出版:講談社青い鳥文庫
 

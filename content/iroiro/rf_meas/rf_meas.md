@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 # 量子ドットの高速測定
 ## はじめに
 ニュースや紙面を飾る華やかな新奇物理現象・機構の観測・理解の裏には、測定技術への弛まぬ努力の歴史があります。

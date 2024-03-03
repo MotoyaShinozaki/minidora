@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 # 真空の作り方
 ## 気体分子の表面衝突
 人工的な真空空間の作成過程が数式的にどのように記述されるのか導出するために、まずは固体表面への気体分子の吸着について考えてみます。<br>

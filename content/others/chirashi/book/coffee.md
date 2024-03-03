@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 # 珈琲店タレーランの事件簿
 ## 著:岡崎琢磨
 
@@ -14,7 +24,6 @@
 <br><br>
 前置き(言い訳)が長くなってしまった。正直に言うと、完全に表紙買いである。
 たまたま目に入った表紙の子が、可愛かったのでつい・・・以上。<br>
-
 
 
 

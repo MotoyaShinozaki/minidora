@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 ## MTJ素子の熱安定性
 
 "[MTJ](./mtj.md)"では、スピン注入磁化反転に必要な電流は材料依存のパラメータ(ダンピング定数α, 飽和磁化Ms, 異方性磁界HKeff)に依存することを述べました。<br>

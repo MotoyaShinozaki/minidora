@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P412RLRC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8P412RLRC8');
+</script>
+
 # 高速測定のための量子ドット設計指針
 
 "[量子ドットの高速測定](./rf_meas.md)"では高周波反射測定による高速測定を紹介しましたが、実はこの手法は全ての量子ドットに使える万能なものではありません。<br>
