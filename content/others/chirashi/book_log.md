@@ -46,7 +46,8 @@ Die with zero<br>
 動物農場<br>
 言語の本質<br>
 <a href="./book/coffee.html" target="_self">珈琲店タレーランの事件簿</a><br>
-さよならドビュッシー<br>
+さよならドビュッシー, おやすみラフマニノフ<br>
+船を編む<br>
 </details>
 <br>
 
