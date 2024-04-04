@@ -48,6 +48,7 @@ Die with zero<br>
 <a href="./book/coffee.html" target="_self">珈琲店タレーランの事件簿</a><br>
 さよならドビュッシー, おやすみラフマニノフ<br>
 船を編む<br>
+甲賀忍法帖<br>
 </details>
 <br>
 
