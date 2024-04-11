@@ -83,7 +83,7 @@
 <ol reversed start="37">
 
 <li> "Improvement of Charge State Estimation in Quantum Dots by Machine Learning and Visualization of the Model by Grad-CAM"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+	Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
  	The 5th International Symposium on AI and Electronics, Sendai, Japan, 19-20 Feb. 2024.<br><br></li>
 
 <li> "Wide dynamic range charge sensing utilizing fast feedback control of radio-frequency reflectometry"<br>
@@ -91,7 +91,7 @@
  	The 7th Symposium for the Core Research Clusters for Materials Science and Spintronics and the 6th Symposium on International Joint Graduate Program in Materials Science and Spintronics, Sendai, Japan, 28 Nov.-1 Dec. 2023.<br><br></li>
 
 <li> "Improving the generalization performance of the machine learning model estimating charge states in quantum dots"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+	Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
  	The 7th Symposium for the Core Research Clusters for Materials Science and Spintronics and the 6th Symposium on International Joint Graduate Program in Materials Science and Spintronics, Sendai, Japan, 28 Nov.-1 Dec. 2023.<br><br></li>
 
 
@@ -102,12 +102,12 @@
 	and 2nd International Workshop of Spin/Quantum Materials and Devices (IWSQMD 2023), Sendai, Japan, 16-17 Nov. 2023.<br><br></li>
 
 <li> "Automatic state recognition of quantum dot hardware utilizing machine learning"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+	Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
  	International Conference on Machine Learning Physics, Kyoto, Japan, Nov. 15, 2023.<br><br></li>
 
 
 <li> "Automatic charge state estimation in quantum dots by machine learning and visual explanation of the model with Grad-CAM"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+	Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
  	The 25th International Conference on Electronic Properties of Two-Dimensional Systems, Grenoble, France, 9-14 Jul. 2023.<br><br></li>
 
 <li> "Radio-frequency reflectometry measurement in bilayer graphene microdevices"<br>
@@ -123,11 +123,11 @@
 <ol reversed start="30">
 
 <li> "Noise Robust Automatic Recognition Method of Charge States in Quantum Dots by Machine Learning"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+	Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
  	The 4th International Symposium on AI and Electronics, Sendai, Feb. 13, 2023<br><br></li>
 
 <li> "Charge state recognition in double quantum dot devices by machine learning"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, and Tomohiro Otsuka,<br>
+	Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, and Tomohiro Otsuka,<br>
  	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
 
 <li> "Formation of quantum dots in MoS2 utilizing intrinsic Schottky barriers"<br>
@@ -139,7 +139,7 @@
  	Symposium for The Core Research Clusters for Materials Science and Spintronics, and International Joint Graduate Program in Materials Science, Online, Oct. 25, 2022<br><br></li>
 
 <li> "Noise robust recognition of charge states in quantum dots by machine learning and preprocessing"<br>
-	Yui Moto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, and Tomohiro Otsuka,<br>
+	Yui Muto, Takumi Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, and Tomohiro Otsuka,<br>
  	International Conference on the Physics of Semiconductors 2022, Online, Jun. 27-30, 2022<br><br></li>
 
 </ol>
@@ -174,7 +174,7 @@
  	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, 24 Feb. 2021.<br><br></li>
 
 <li> "Quantum Dots in plasma CVD Graphene Nanoribbons"<br>
-	Takahito Kitada, Mizuki Seo, Takaya Abe, <b>Motoya Shinozaki</b>, Naohumi Sato, Takumi Aizawa,  Yui Muto, Toshiro Kaneko, Toshiaki Kato and Tomohiro Otsuka,<br>
+	Takahito Kitada, Mizuki Seo, Takaya Abe, <b>Motoya Shinozaki</b>, Naohumi Sato, Takumi Aizawa, Yui Muto, Toshiro Kaneko, Toshiaki Kato and Tomohiro Otsuka,<br>
  	International Symposium for The Core Research Clusters for Materials Science and Spintronics, Online, 24 Feb. 2021.<br><br></li>
 
 
@@ -214,7 +214,7 @@
 	2019 Joint MMM-Intermag Conference, Washington, USA, Jan. 14-18. 2019.<br><br></li>
 
 <li> "Edge state of nanoscale magnetic tunnel junctions proved by spin-wave resonance"<br>
-	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo. Ohno,<br> 
+	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo Ohno,<br> 
 	2019 Joint MMM-Intermag Conference, Washington, USA, Jan. 14-18. 2019.<br><br></li>
 
 <li> "Effects of free layer size on magnetic properties and current induced magnetization switching in nanoscale CoFeB/MgO magnetic tunnel junctions"<br>
@@ -413,7 +413,7 @@
 <summary>FY2019</summary>
 <ol reversed start="12">
 <li> "Edge condition of nanoscale magnetic tunnel junctions proved by spin-wave resonance"<br> 
-	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo. Ohno,<br>
+	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo Ohno,<br>
 	The 24th Symposium on the Physics and Applications of Spin-related Phenomena in Semiconductors, Sendai (PASPS24), Japan, 17-18 Dec. 2019.<br><br></li>
 </ol>
 </details>
@@ -422,7 +422,7 @@
 <summary>FY2018</summary>
 <ol reversed start="11">
 <li> "Edge state of nanoscale magnetic tunnel junctions investigated by spin-wave resonance"<br>
-	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo. Ohno,<br>
+	<b>Motoya Shinozaki</b>, Takaaki Dohi, Junta Igarashi, Justin Llandro, Shun Kanai, Shunsuke Fukami, Hideo Sato, and Hideo Ohno,<br>
 	第66回応用物理学会春季学術講演会, 東京工業大学, 東京, 2019年3月9-12日<br><br></li>
 
 <li> "強磁性共鳴を用いたナノスケール磁気トンネル接合の特性評価"<br> 
