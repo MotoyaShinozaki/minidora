@@ -1,5 +1,10 @@
 # 私的な近況
 
+
+## 2024/4/16 : 論文
+論文がAPL Machine Learning誌に掲載されました。<br>
+ご協力・議論いただいた皆様ありがとうございました<br>
+
 ## 2023/11/28 : 国際会議発表
 The 7th Symposium for the Core Research Clusters for Materials Science and Spintronicsで発表をしました。<br>
 聞きに来てくださった皆様ありがとうございました<br>

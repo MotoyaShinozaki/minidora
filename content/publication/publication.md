@@ -21,14 +21,14 @@
     Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Wataru Izumida, Arne Ludwig, Andreas D. Wieck, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2403.06333" target="_blank">	arXiv:2403.06333.</a><br><br></li>
 
-
-<li> "Visual explanations of machine learning model estimating charge states in quantum dots",<br>
-    Yui Muto, Takumi Nakaso, <b>Motoya Shinozaki</b>, Takumi Aizawa, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
-    <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070.</a><br><br></li>
-
 <li> "Formation of quantum dots in MoS<sub>2</sub> with cryogenic Bi contacts and intrinsic Schottky barriers",<br>
     Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.11897" target="_blank">arXiv:2210.11897.</a><br><br></li>
+
+<li> "Visual explanations of machine learning model estimating charge states in quantum dots",<br>
+    Yui Muto, Takumi Nakaso, <b>Motoya Shinozaki</b>, Takumi Aizawa, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+	<a href="https://doi.org/10.1063/5.0193621" target="_blank">APL Machine Learning <b>2</b>, 026110 (2024).</a><br>
+    <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070.</a><br><br></li>
 
 
 <li> "Wide dynamic range charge sensor operation by high-speed feedback control of radio-frequency reflectometry",<br>
