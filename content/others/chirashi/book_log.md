@@ -18,14 +18,15 @@
 ここでは本の感想や出会いなどを備忘録として残しておこうかなと思っています。
 <br>
 
-<details>
-<summary>最近読み終えた本たち</summary>
+最近読み終えた本たち
 
-(博士課程修了あたりから)<br>
 <a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
 老人と海<br>
 <a href="./book/sin.html" target="_self">罪と罰</a><br>
 Die with zero<br>
+</details>
+<details>
+<summary>FY2023</summary>
 <a href="./book/yohaku.html" target="_self">ロシア語の余白の余白</a><br>
 ロシア語だけの青春<br>
 早すぎた男 南部陽一郎物語<br>
@@ -48,7 +49,11 @@ Die with zero<br>
 <a href="./book/coffee.html" target="_self">珈琲店タレーランの事件簿</a><br>
 さよならドビュッシー, おやすみラフマニノフ<br>
 船を編む<br>
+</details>
+<details>
+<summary>FY2024</summary>
 甲賀忍法帖<br>
+現代暗号入門<br>
 </details>
 <br>
 
