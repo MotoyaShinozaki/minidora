@@ -20,11 +20,13 @@
 
 最近読み終えた本たち
 <details>
+<summary>FY2022</summary>
 <a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
 老人と海<br>
 <a href="./book/sin.html" target="_self">罪と罰</a><br>
 Die with zero<br>
 </details>
+
 <details>
 <summary>FY2023</summary>
 <a href="./book/yohaku.html" target="_self">ロシア語の余白の余白</a><br>
@@ -50,6 +52,7 @@ Die with zero<br>
 さよならドビュッシー, おやすみラフマニノフ<br>
 船を編む<br>
 </details>
+
 <details>
 <summary>FY2024</summary>
 甲賀忍法帖<br>
