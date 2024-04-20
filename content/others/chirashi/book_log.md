@@ -19,7 +19,7 @@
 <br>
 
 最近読み終えた本たち
-
+<details>
 <a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
 老人と海<br>
 <a href="./book/sin.html" target="_self">罪と罰</a><br>
