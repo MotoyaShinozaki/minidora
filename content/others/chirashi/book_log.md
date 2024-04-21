@@ -57,6 +57,7 @@ Die with zero<br>
 <summary>FY2024</summary>
 甲賀忍法帖<br>
 現代暗号入門<br>
+社会契約論<br>
 </details>
 <br>
 
