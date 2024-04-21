@@ -40,7 +40,7 @@
 [reseachmap](https://researchmap.jp/nanodora){:target="_blank"}<br>
 <!-- [GitHub](https://github.com/MotoyaShinozaki){:target="_blank"}<br> -->
 [ORCiD](https://orcid.org/0000-0001-9460-9156){:target="_blank"}<br>
-[東北大学MOOC「暗号学の現在－現代暗号入門－」](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/MmdoZUg5UkxyTnA3VWpINjlxRm85UT09){:target="_blank"}<br>
+[オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/MG1JcDdIeGg4V2JCajdQTzkwd1ZrQT09){:target="_blank"}<br>
 
 # Return
 [Topに戻る](https://motoyashinozaki.github.io/minidora/)
