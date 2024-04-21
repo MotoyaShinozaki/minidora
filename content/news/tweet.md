@@ -5,6 +5,10 @@
 論文がAPL Machine Learning誌に掲載されました。<br>
 ご協力・議論いただいた皆様ありがとうございました<br>
 
+## 2024/3/26 : オープンバッジ発行
+東北大学MOOC「暗号学の現在－現代暗号入門 －」を修了して、無事合格基準を達成しオープンバッジを取得しました。他にも面白そうな科目があれば挑戦したいと思います。<br>
+オープンバッジは[こちら](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/MmdoZUg5UkxyTnA3VWpINjlxRm85UT09){:target="_blank"}<br>
+
 ## 2023/11/28 : 国際会議発表
 The 7th Symposium for the Core Research Clusters for Materials Science and Spintronicsで発表をしました。<br>
 聞きに来てくださった皆様ありがとうございました<br>

@@ -18,11 +18,6 @@
 
 <img src="./mail.png" width="400px">
 
-## その他
-[reseachmap](https://researchmap.jp/nanodora){:target="_blank"}<br>
-[GitHub](https://github.com/MotoyaShinozaki){:target="_blank"}<br>
-<!-- [ORCiD](https://orcid.org/0000-0001-9460-9156){:target="_blank"}<br> -->
-
 ## 略歴
 2009/4 国立小山工業高等専門学校 電気情報工学科 入学<br>
 2014/3 国立小山工業高等専門学校 電気情報工学科 卒業 (小林(康)研究室)<br>
@@ -40,6 +35,12 @@
 ## 受賞等
 2020/12/19 第1回セキュリティ・フォレンジック・ワークショップ 3位入賞<br>
 2022/3/25 東北大学大学院 工学研究科長賞<br>
+
+## その他
+[reseachmap](https://researchmap.jp/nanodora){:target="_blank"}<br>
+<!-- [GitHub](https://github.com/MotoyaShinozaki){:target="_blank"}<br> -->
+[ORCiD](https://orcid.org/0000-0001-9460-9156){:target="_blank"}<br>
+[東北大学MOOC「暗号学の現在－現代暗号入門－」](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/MmdoZUg5UkxyTnA3VWpINjlxRm85UT09){:target="_blank"}<br>
 
 # Return
 [Topに戻る](https://motoyashinozaki.github.io/minidora/)
