@@ -33,6 +33,7 @@
     Yui Muto, Takumi Nakaso, <b>Motoya Shinozaki</b>, Takumi Aizawa, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
 	<a href="https://doi.org/10.1063/5.0193621" target="_blank">APL Machine Learning <b>2</b>, 026110 (2024).</a><br>
     <a href="https://arxiv.org/abs/2210.15070" target="_blank">	arXiv:2210.15070.</a><br><br></li>
+	<a href="./Muto_ML.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 
 <li> "Wide dynamic range charge sensor operation by high-speed feedback control of radio-frequency reflectometry",<br>
