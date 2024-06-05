@@ -66,6 +66,8 @@ Die with zero<br>
 目の見えない人は世界をどう見ているのか<br>
 翻訳教室 ―はじめの一歩<br>
 ヒトコブラクダ層戦争<br>
+1984<br>
+Steins;Gate<br>
 </details>
 <br>
 
