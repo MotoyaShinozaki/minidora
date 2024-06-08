@@ -68,6 +68,8 @@ Die with zero<br>
 ヒトコブラクダ層戦争<br>
 1984<br>
 Steins;Gate<br>
+言語が違えば、世界が違って見えるわけ<br>
+数学者の思案
 </details>
 <br>
 
