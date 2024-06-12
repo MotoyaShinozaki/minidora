@@ -69,7 +69,8 @@ Die with zero<br>
 1984<br>
 Steins;Gate<br>
 言語が違えば、世界が違って見えるわけ<br>
-数学者の思案
+数学者の思案<br>
+アヒルと鴨のコインロッカー
 </details>
 <br>
 
