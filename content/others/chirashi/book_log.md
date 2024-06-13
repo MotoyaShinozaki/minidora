@@ -70,7 +70,8 @@ Die with zero<br>
 Steins;Gate<br>
 言語が違えば、世界が違って見えるわけ<br>
 数学者の思案<br>
-アヒルと鴨のコインロッカー
+アヒルと鴨のコインロッカー<br>
+鴨川ホルモー
 </details>
 <br>
 
