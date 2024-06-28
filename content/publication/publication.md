@@ -82,6 +82,14 @@
 
 ## 国際会議
 
+<details>
+<summary>FY2024</summary>
+<ol reversed start="38">
+<li> "Classifying the Charge State of Quantum Dots by Machine Learning and Improving Performance by Visual Explanations of the Model"<br>
+	Yui Muto, Takumi Nakaso,  <b>Motoya Shinozaki</b>, Takumi Aizawa, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
+ 	International Conference on the Physics of Semiconductors (ICPS) 2024, Ottawa, Canada, Jul. 28 – Aug. 2, 2024.<br><br></li>
+</ol>
+</details>
 
 <details>
 <summary>FY2023</summary>
