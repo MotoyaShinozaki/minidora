@@ -17,9 +17,7 @@
 <ol reversed start="">
 
 
-<li> "Microwave dependent quantum transport characteristics in GaN/AlGaN FETs",<br>
-    <b>Motoya Shinozaki</b>*, Takaya Abe*, Kazuma Matsumura, Takumi Aizawa, Takashi Kumasaka, Tomohiro Otsuka (*equal contribution),<br>
-    <a href="https://arxiv.org/abs/2404.11756" target="_blank">	arXiv:2404.11756.</a><br><br></li>
+
 
 <li> "Dynamics of quantum cellular automata electron transition in triple quantum dots",<br>
     Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Wataru Izumida, Arne Ludwig, Andreas D. Wieck, and Tomohiro Otsuka,<br>
@@ -28,6 +26,12 @@
 <li> "Formation of quantum dots in MoS<sub>2</sub> with cryogenic Bi contacts and intrinsic Schottky barriers",<br>
     Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2210.11897" target="_blank">arXiv:2210.11897.</a><br><br></li>
+
+
+<li> "Microwave dependent quantum transport characteristics in GaN/AlGaN FETs",<br>
+	<b>Motoya Shinozaki</b>*, Takaya Abe*, Kazuma Matsumura, Takumi Aizawa, Takashi Kumasaka, Tomohiro Otsuka (*equal contribution),<br>
+	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035305" target="_blank">Physical Review B <b>110</b>, 035305 (2024).</a><br><br></li>
+	<a href="https://arxiv.org/abs/2404.11756" target="_blank">	arXiv:2404.11756.</a><br><br></li>
 
 <li> "Visual explanations of machine learning model estimating charge states in quantum dots",<br>
     Yui Muto, Takumi Nakaso, <b>Motoya Shinozaki</b>, Takumi Aizawa, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
