@@ -30,7 +30,7 @@
 
 <li> "Microwave dependent quantum transport characteristics in GaN/AlGaN FETs",<br>
 	<b>Motoya Shinozaki</b>*, Takaya Abe*, Kazuma Matsumura, Takumi Aizawa, Takashi Kumasaka, Tomohiro Otsuka (*equal contribution),<br>
-	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035305" target="_blank">Physical Review B <b>110</b>, 035305 (2024).</a><br><br></li>
+	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035305" target="_blank">Physical Review B <b>110</b>, 035305 (2024).</a><br></li>
 	<a href="https://arxiv.org/abs/2404.11756" target="_blank">	arXiv:2404.11756.</a><br><br></li>
 
 <li> "Visual explanations of machine learning model estimating charge states in quantum dots",<br>
