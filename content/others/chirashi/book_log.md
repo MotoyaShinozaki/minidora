@@ -81,6 +81,7 @@ Steins;Gate<br>
 プロジェクト・ヘイル・メアリー<br>
 とっぴんぱらりの風太郎<br>
 プリンセス・トヨトミ<br>
+数の発明<br>
 Back to the future
 </details>
 <br>
