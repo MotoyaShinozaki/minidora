@@ -302,6 +302,24 @@
 
 ## 国内会議・研究会等
 
+
+<details>
+<summary>FY2024</summary>
+<ol reversed start="38">
+
+<li> "低温可変共振回路に向けたSrTiO3可変容量コンデンサ特性の面方位・ドープ依存性"<br>
+	白地昭豊鏡, <b>篠﨑基矢</b>, 富岡泰秀, 小塚裕介, 佐藤彰一, 熊坂武志, 大塚朋廣,<br>
+	日本物理学会第79回年次大会, 北海道大学, 札幌, 2024年9月16-19日<br><br></li>
+
+
+<li> "RFSoCを用いた半導体量子デバイス高周波反射測定系の構築"<br>
+	<b>篠﨑基矢</b>, 上面友也, 保坂有杜, 瀬尾拓未, 八島俊介, 白地昭豊鏡, 野呂康介, 佐藤彰一, 熊坂武志, 吉田剛, 大塚朋廣,<br>
+	日本物理学会第79回年次大会, 北海道大学, 札幌, 2024年9月16-19日<br><br></li>
+
+
+</ol>
+</details>
+
 <details>
 <summary>FY2023</summary>
 <ol reversed start="36">
@@ -329,11 +347,11 @@
 
 <li> "機械学習による量子ドット電荷状態推定の汎化性能改良"<br>
 	武藤由依, 中曽拓, 相澤拓海, <b>篠﨑基矢</b>, 北田孝仁, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 志賀元紀, 大塚朋廣,<br>
-	日本物理学会2023年秋季大会, 東北大学, 仙台, 2023年9月16-19日<br><br></li>
+	日本物理学会第78回年次大会, 東北大学, 仙台, 2023年9月16-19日<br><br></li>
 
 <li> "高周波反射測定の高速PID制御による電荷センサのダイナミックレンジ改善"<br>
 	<b>篠﨑基矢</b>, 藤原義弘, 松村和真, 野呂康介, 田高陸, 佐藤彰一, 熊坂武志, 大塚朋廣,<br>
-	日本物理学会2023年秋季大会, 東北大学, 仙台, 2023年9月16-19日<br><br></li>
+	日本物理学会第78回年次大会, 東北大学, 仙台, 2023年9月16-19日<br><br></li>
 
 
 </ol>
@@ -365,19 +383,19 @@
 
 <li> "機械学習と前処理によるノイズ耐性のある量子ドット電荷状態推定"<br>
 	武藤由依, 中曽拓, 相澤拓海, <b>篠﨑基矢</b>, 北田孝仁, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 兼村厚範, 大塚朋廣,<br>
-	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
+	日本物理学会第77回年次大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "GaN FET の電流コラプス下における量子ドット形成"<br>
 	阿部峰也, <b>篠﨑基矢</b>, 相澤拓海, 熊坂武志, 伊藤範和, 田中岳利, 中原健, 大塚朋廣,<br>
-	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
+	日本物理学会第77回年次大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "高周波反射測定による量子ドットQCA状態電荷遷移の実時間観測"<br>
 	相澤拓海, <b>篠﨑基矢</b>, 藤原義弘, 熊坂武志, 中島峻, Matthieu R. Delbecq, 米田淳, 武田健太, 野入亮人, Arne Ludwig, Andreas D. Wieck, 樽茶清悟, 大塚朋廣,<br>
-	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
+	日本物理学会第77回年次大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "微細CoFeB/MgO磁気トンネル接合における非線形電子輸送特性"<br>
 	<b>篠﨑基矢</b>, 五十嵐純太, 岩切秀一, 北田孝仁, 早川佳祐,  陣内佛霖, 大塚朋廣, 深見俊輔, 小林研介, 大野英男,<br>
-	日本物理学会2022年春季大会, オンライン開催, 2022年3月15-19日<br><br></li>
+	日本物理学会第77回年次大会, オンライン開催, 2022年3月15-19日<br><br></li>
 
 <li> "Noise-robust charge state recognition in quantum dots utilizing machine learning and preprocessing"<br>
 	Yui Muto, Taku Nakaso, Takumi Aizawa, <b>Motoya Shinozaki</b>, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura and Tomohiro Otsuka,<br>
@@ -398,7 +416,7 @@
 <ol reversed start="19">
 <li> "CVDグラフェンナノリボンにおける単一量子ドット形成"<br>
 	北田孝仁, 阿部峰也, 瀬尾瑞樹, 佐藤尚郁, <b>篠﨑基矢</b>, 相澤拓海, 武藤由依, 金子俊郎, 加藤俊顕, 大塚朋廣,<br>
-	日本物理学会2021年春季大会, オンライン開催, 2021年3月12-15日<br><br></li>
+	日本物理学会第76回年次大会, オンライン開催, 2021年3月12-15日<br><br></li>
 
 <li> "Noise analysis of radio-frequency reflectometry in quantum dots"<br>
 	<b>Motoya Shinozaki</b>,<br>
