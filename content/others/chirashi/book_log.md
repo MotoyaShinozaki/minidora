@@ -82,7 +82,8 @@ Steins;Gate<br>
 とっぴんぱらりの風太郎<br>
 プリンセス・トヨトミ<br>
 数の発明<br>
-Back to the future
+Back to the future<br>
+ことばと文化
 </details>
 <br>
 
