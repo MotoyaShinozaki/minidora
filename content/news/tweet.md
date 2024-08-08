@@ -1,5 +1,9 @@
 # 私的な近況
 
+## 2024/8/8 : 論文
+論文がJournal of the Physical Society of Japan誌に掲載されました。<br>
+ご協力・議論いただいた皆様ありがとうございました<br>
+
 ## 2024/7/18 : 論文
 論文がPhysical Review B誌に掲載されました。<br>
 ご協力・議論いただいた皆様ありがとうございました<br>

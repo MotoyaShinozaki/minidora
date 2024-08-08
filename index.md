@@ -20,8 +20,9 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2024/7/18) :</summary>
+<summary>更新履歴(Last update : 2024/8/8) :</summary>
 <pre>
+2024/8/8  : "Publications (原著論文) を更新
 2024/7/18  : "Publications (原著論文) を更新
 2024/4/16  : "Publications を更新
 2023/11/22  : "Publications を更新
