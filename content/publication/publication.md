@@ -25,8 +25,9 @@
     Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Wataru Izumida, Arne Ludwig, Andreas D. Wieck, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2403.06333" target="_blank">	arXiv:2403.06333.</a><br><br></li>
 
-<li> "Formation of quantum dots in MoS<sub>2</sub> with cryogenic Bi contacts and intrinsic Schottky barriers",<br>
+<li> "Surface Gate-Defined Quantum Dots in MoS<sub>2</sub> with Bi Contacts",<br>
     Riku Tataka, Alka Sharma, Tomoya Johmen, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yong P. Chen, and Tomohiro Otsuka,<br>
+	<a href="https://journals.jps.jp/doi/10.7566/JPSJ.93.094601" target="_blank">Journal of the Physical Society of Japan <b>93</b>, 094601 (2024).</a><br>
     <a href="https://arxiv.org/abs/2210.11897" target="_blank">arXiv:2210.11897.</a><br><br></li>
 
 
