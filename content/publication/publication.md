@@ -16,6 +16,9 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "Probing electron trapping by current collapse in GaN/AlGaN FETs utilizing quantum transport characteristics",<br>
+    Takaya Abe, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Takumi Aizawa, Takeshi Kumasaka, Norikazu Ito, Taketoshi Tanaka, Ken Nakahara, and Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2408.04109" target="_blank">	arXiv:2408.04109.</a><br><br></li>
 
 <li> "Charge state estimation in quantum dots using a Bayesian approach",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, and Tomohiro Otsuka,<br>
