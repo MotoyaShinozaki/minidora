@@ -83,7 +83,8 @@ Steins;Gate<br>
 プリンセス・トヨトミ<br>
 数の発明<br>
 Back to the future<br>
-ことばと文化
+ことばと文化<br>
+鹿男あをによし
 </details>
 <br>
 
