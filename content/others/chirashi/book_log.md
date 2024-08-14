@@ -84,7 +84,10 @@ Steins;Gate<br>
 数の発明<br>
 Back to the future<br>
 ことばと文化<br>
-鹿男あをによし
+鹿男あをによし<br>
+四畳半神話大系<br>
+ぼくはイエローでホワイトで、ちょっとブルー<br>
+最後の秘境 東京藝大
 </details>
 <br>
 
