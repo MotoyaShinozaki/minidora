@@ -94,10 +94,15 @@
 
 <details>
 <summary>FY2024</summary>
-<ol reversed start="38">
+<ol reversed start="39">
+
+<li> "High-Speed Electronics for Quantum Devices and Systems"<br>
+	<b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Tomoya Johmen, and Tomohiro Otsuka,<br>
+ 	International Workshop on Japan-Germany Collaboration in Cryo-CMOS Technology (tentative), Online, 21 Aug. 2024.<br><br></li>
+
 <li> "Classifying the Charge State of Quantum Dots by Machine Learning and Improving Performance by Visual Explanations of the Model"<br>
 	Yui Muto, Takumi Nakaso,  <b>Motoya Shinozaki</b>, Takumi Aizawa, Takahito Kitada, Takashi Nakajima, Matthieu R. Delbecq, Jun Yoneda, Kenta Takeda, Akito Noiri, Arne Ludwig, Andreas D. Wieck, Seigo Tarucha, Atsunori Kanemura, Motoki Shiga, and Tomohiro Otsuka,<br>
- 	International Conference on the Physics of Semiconductors (ICPS) 2024, Ottawa, Canada, Jul. 28 – Aug. 2, 2024.<br><br></li>
+ 	International Conference on the Physics of Semiconductors (ICPS) 2024, Ottawa, Canada, 28 Jul. – 2 Aug. 2024.<br><br></li>
 </ol>
 </details>
 
