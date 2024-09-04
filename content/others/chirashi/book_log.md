@@ -91,7 +91,8 @@ Back to the future<br>
 音楽と音楽家<br>
 謎の独立国家ソマリランド<br>
 攻殻機動隊SAC 虚無回路<br>
-攻殻機動隊SAC 眠り男の棺
+攻殻機動隊SAC 眠り男の棺<br>
+ジョン・ロールズ
 </details>
 <br>
 
