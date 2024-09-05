@@ -59,7 +59,8 @@
 
 <li> "Nonlinear conductance in nanoscale CoFeB/MgO magnetic tunnel junctions with perpendicular easy axis",<br>
 	<b>Motoya Shinozaki</b>, Junta Igarashi, Shuichi Iwakiri, Takahito Kitada, Keisuke Hayakawa, Butsurin Jinnai, Tomohiro Otsuka, Shunsuke Fukami, Kensuke Kobayashi, and Hideo Ohno,<br>
-	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.094436" target="_blank">Physical Review B <b>107</b>, 094436 (2023).</a><br><br></li>
+	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.094436" target="_blank">Physical Review B <b>107</b>, 094436 (2023).</a><br>
+	<a href="./prb2023_top.PNG" target="_blank">PRB Top Downloadに選ばれていました</a><br><br></li>
 
 <li> "Scalable fabrication of graphene nanoribbon quantum dot devices with stable orbital-level spacing",<br>
     Toshiaki Kato*, Takahito Kitada*, Mizuki Seo, Wakana Okita, Naofumi Sato, <b>Motoya Shinozaki</b>, Takaya Abe, Takeshi Kumasaka, Takumi Aizawa, Yui Muto, Toshiro Kaneko, and Tomohiro Otsuka* (*equal contribution),<br>
