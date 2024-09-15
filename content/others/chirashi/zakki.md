@@ -17,6 +17,7 @@
 [読んだ本たち](./book_log.md)<br>
 [ドイツ管の音色に耽る](./posaune.md)<br>
 [好きな曲たち](./symphony.md)<br>
+[東北大の編入試験を思ふ](./hennyu.md)<br>
 
 # Return
 [その他に戻る](../others.md)<br>
