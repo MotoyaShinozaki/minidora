@@ -317,7 +317,11 @@
 
 <details>
 <summary>FY2024</summary>
-<ol reversed start="38">
+<ol reversed start="39">
+
+<li> "Microwave resonances in disorder-induced quantum dots within GaN/AlGaN FETs"<br>
+	<b>Motoya Shinozaki</b>, Takaya Abe, Kazuma Matsumura, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+	The 13th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 24-26 Sep. 2024<br><br></li>
 
 <li> "低温可変共振回路に向けたSrTiO3可変容量コンデンサ特性の面方位・ドープ依存性"<br>
 	白地昭豊鏡, <b>篠﨑基矢</b>, 富岡泰秀, 小塚裕介, 佐藤彰一, 熊坂武志, 大塚朋廣,<br>
@@ -343,7 +347,6 @@
 <li> "通信用ロジック・アルゴリズムを活用した量子古典ハイブリッド求解技術の検討"<br>
 	越川 翔太, 保坂有杜, 西川翔太, 小西良明, <b>篠﨑基矢</b>, 大塚朋廣, ハシタ ムトゥマラ ウィッデヤスーリヤ, 張山昌論, 吉田  剛,<br>
 	電子情報通信学会 コミュニケーションシステム研究会, 鹿児島, 2024年1月11-12日<br><br></li>
-
 
 <li> "Improving the dynamic range of charge sensing utilizing fast feedback control of rf reflectometry"<br>
 	Yoshihiro Fujiwara, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Kosuke Noro, Riku Tataka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
