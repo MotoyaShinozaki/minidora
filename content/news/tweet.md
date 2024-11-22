@@ -1,5 +1,9 @@
 # 私的な近況
 
+## 2024/11/22 : 国際会議発表
+The 8th Symposium for the Core Research Clusters for Materials Science and Spintronicsで発表をしました。<br>
+聞きに来てくださった皆様ありがとうございました<br>
+
 ## 2024/8/19 : 国際ワークショップ発表
 独ユーリッヒ大学との国際ワークショップで発表を行いました。<br>
 

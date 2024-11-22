@@ -101,7 +101,7 @@
 	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
  	The 8th Symposium for the Core Research Clusters for Materials Science and Spintronics and the 7th Symposium on International Joint Graduate Program in Materials Science and Spintronics, Sendai, Japan, 18-21 Nov. 2024.<br><br></li>
 
-<li> "Crystal orientation and doping dependence of SrTiO<sub>3</sub>-based capacitor for cryogenic variable microwave resonators "<br>
+<li> "Fabrication of SrTiO<sub>3</sub>-based capacitor for cryogenic variable microwave resonators "<br>
 	Akitomi Shirach, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Yusuke Kozuka, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
  	The 8th Symposium for the Core Research Clusters for Materials Science and Spintronics and the 7th Symposium on International Joint Graduate Program in Materials Science and Spintronics, Sendai, Japan, 18-21 Nov. 2024.<br><br></li>
 
