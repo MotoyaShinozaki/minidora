@@ -326,7 +326,11 @@
 
 <details>
 <summary>FY2024</summary>
-<ol reversed start="39">
+<ol reversed start="40">
+
+<li> "2次元材料におけるゲート誘起周期構造の開発"<br>
+	<b>篠﨑基矢</b>, 河野竜平, 五十嵐純太<br>
+	第13回東北大学若手アンサンブルワークショップ, 東北大学, 2024年12月11日<br><br></li>
 
 <li> "Microwave resonances in disorder-induced quantum dots within GaN/AlGaN FETs"<br>
 	<b>Motoya Shinozaki</b>, Takaya Abe, Kazuma Matsumura, Takumi Aizawa, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
