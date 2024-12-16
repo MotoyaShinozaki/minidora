@@ -16,9 +16,6 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
-<li> "Probing electron trapping by current collapse in GaN/AlGaN FETs utilizing quantum transport characteristics",<br>
-    Takaya Abe, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Takumi Aizawa, Takeshi Kumasaka, Norikazu Ito, Taketoshi Tanaka, Ken Nakahara, and Tomohiro Otsuka,<br>
-    <a href="https://arxiv.org/abs/2408.04109" target="_blank">	arXiv:2408.04109.</a><br><br></li>
 
 <li> "Charge state estimation in quantum dots using a Bayesian approach",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, and Tomohiro Otsuka,<br>
@@ -27,6 +24,11 @@
 <li> "Dynamics of quantum cellular automata electron transition in triple quantum dots",<br>
     Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Wataru Izumida, Arne Ludwig, Andreas D. Wieck, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2403.06333" target="_blank">	arXiv:2403.06333.</a><br><br></li>
+
+<li> "Probing electron trapping by current collapse in GaN/AlGaN FETs utilizing quantum transport characteristics",<br>
+    Takaya Abe, <b>Motoya Shinozaki</b>, Kazuma Matsumura, Takumi Aizawa, Takeshi Kumasaka, Norikazu Ito, Taketoshi Tanaka, Ken Nakahara, and Tomohiro Otsuka,<br>
+	<a href="https://doi.org/10.1063/5.0232463" target="_blank">Applied Physics Letters <b>125</b>, 253501 (2024).</a><br>
+    <a href="https://arxiv.org/abs/2408.04109" target="_blank">	arXiv:2408.04109.</a><br><br></li>
 
 <li> "Surface Gate-Defined Quantum Dots in MoS<sub>2</sub> with Bi Contacts",<br>
     Riku Tataka, Alka Sharma, <b>Motoya Shinozaki</b>, Tomoya Johmen, Takeshi Kumasaka, Yong P. Chen, and Tomohiro Otsuka,<br>
