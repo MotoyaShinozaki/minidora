@@ -23,6 +23,7 @@
 
 <li> "Dynamics of quantum cellular automata electron transition in triple quantum dots",<br>
     Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Wataru Izumida, Arne Ludwig, Andreas D. Wieck, and Tomohiro Otsuka,<br>
+	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.235421" target="_blank">Physical Review B <b>110</b>, 235421 (2024).</a><br>
     <a href="https://arxiv.org/abs/2403.06333" target="_blank">	arXiv:2403.06333.</a><br><br></li>
 
 <li> "Probing electron trapping by current collapse in GaN/AlGaN FETs utilizing quantum transport characteristics",<br>
