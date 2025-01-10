@@ -16,6 +16,9 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
+    Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
 
 <li> "Charge state estimation in quantum dots using a Bayesian approach",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, and Tomohiro Otsuka,<br>
