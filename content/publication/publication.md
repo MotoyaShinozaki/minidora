@@ -16,6 +16,10 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "Automatic detection of single-electron regime of quantum dots and definition of virtual gates using U-Net and clustering",<br>
+    Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2501.05878" target="_blank">	arXiv:2501.05878.</a><br><br></li>
+
 <li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
     Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
