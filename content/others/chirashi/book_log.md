@@ -106,7 +106,8 @@ Back to the future<br>
 百年の孤独<br>
 ホルモー六景<br>
 マンフレッド<br>
-鋼鉄都市
+鋼鉄都市<br>
+まず牛を球とします。
 </details>
 <br>
 
