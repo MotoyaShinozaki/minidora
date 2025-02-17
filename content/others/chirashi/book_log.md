@@ -110,6 +110,7 @@ Back to the future<br>
 まず牛を球とします。<br>
 ガロア 天才数学者の生涯<br>
 メメントモリ<br>
+本家 スバラ式世界
 </details>
 <br>
 
