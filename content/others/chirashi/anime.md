@@ -101,3 +101,9 @@ Nature, Scienceより厳しいこの査読に耐えた作品こそが、名作�
 ---
 [^5]:こうした作品群も語り継がれているという点で名作の基準は満たしているのかもしれない、がなんか違う気がするのである 
 
+
+
+# Return
+[チラシの裏に戻る](./zakki.md)<br>
+[その他に戻る](../others.md)<br>
+[Topに戻る](https://motoyashinozaki.github.io/minidora/)

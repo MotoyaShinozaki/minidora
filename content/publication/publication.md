@@ -16,6 +16,10 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices",<br>
+    <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takashi Kumasaka, Tsuyoshi Yoshida, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2502.15239" target="_blank">	arXiv:2502.15239.</a><br><br></li>
+
 <li> "Automatic detection of single-electron regime of quantum dots and definition of virtual gates using U-Net and clustering",<br>
     Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.05878" target="_blank">	arXiv:2501.05878.</a><br><br></li>
