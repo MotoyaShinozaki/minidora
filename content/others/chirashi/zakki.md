@@ -19,6 +19,8 @@
 [好きな曲たち](./symphony.md)<br>
 [東北大の編入試験を思ふ](./hennyu.md)<br>
 [2000年代アニメ再考](./anime.md)<br>
+[クルスペメタル](./kruspe.md)<br>
+
 
 # Return
 [その他に戻る](../others.md)<br>
