@@ -4,6 +4,10 @@
 論文がPhysical Review Applied誌に掲載されました。<br>
 ご協力・議論いただいた皆様ありがとうございました<br>
 
+## 2025/1/27 : WPI Site Visit
+私の所属するAIMRで行われた[WPI Site Visit](./WPI_Site_Visit.png){:target="_blank"}で発表をしました。<br>
+視察に来られた委員の方々、準備に付き合っていただいた先生方、ありがとうございました<br>
+
 ## 2024/12/19 : 論文
 論文がPhysical Review B誌に掲載されました。<br>
 ご協力・議論いただいた皆様ありがとうございました<br>
