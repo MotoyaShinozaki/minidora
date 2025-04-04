@@ -111,7 +111,13 @@ Back to the future<br>
 ガロア 天才数学者の生涯<br>
 メメントモリ<br>
 本家 スバラ式世界<br>
-職業としての学問
+職業としての学問<br>
+恐竜学者は止まらない<br>
+</details>
+
+<details>
+<summary>FY2025</summary>
+紫の火花
 </details>
 <br>
 
