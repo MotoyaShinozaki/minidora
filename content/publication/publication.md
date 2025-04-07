@@ -16,6 +16,10 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "Formation of multiple quantum dots in ZnO heterostructures",<br>
+	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br></li>
+
 <li> "RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices",<br>
     <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takashi Kumasaka, Tsuyoshi Yoshida, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2502.15239" target="_blank">	arXiv:2502.15239.</a><br><br></li>
