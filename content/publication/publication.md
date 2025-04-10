@@ -36,6 +36,7 @@
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, and Tomohiro Otsuka,<br>
 	<a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.034078" target="_blank">Physical Review Applied <b>23</b>, 034078 (2025).</a><br>
     <a href="https://arxiv.org/abs/2408.03110" target="_blank">	arXiv:2408.03110.</a><br><br></li>
+	<a href="./Shinozaki_Bayes.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 <li> "Dynamics of quantum cellular automata electron transition in triple quantum dots",<br>
     Takumi Aizawa, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Takeshi Kumasaka, Wataru Izumida, Arne Ludwig, Andreas D. Wieck, and Tomohiro Otsuka,<br>
