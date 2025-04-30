@@ -16,7 +16,7 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
-<li> "On-chip calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO3-based capacitor properties",<br>
+<li> "On-chip calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO<sub>3</sub>-based capacitor properties",<br>
 	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2504.20311" target="_blank">	arXiv:2504.20311.</a><br><br></li>
 

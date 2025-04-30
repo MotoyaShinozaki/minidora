@@ -118,7 +118,9 @@ Back to the future<br>
 <details>
 <summary>FY2025</summary>
 紫の火花<br>
-イラク水滸伝
+<a href="./book/iraku.html" target="_self">イラク水滸伝</a><br>
+R.U.R<br>
+阿Q正伝・狂人日記 他十二篇
 </details>
 <br>
 
