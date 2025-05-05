@@ -120,7 +120,8 @@ Back to the future<br>
 紫の火花<br>
 <a href="./book/iraku.html" target="_self">イラク水滸伝</a><br>
 R.U.R<br>
-阿Q正伝・狂人日記 他十二篇
+阿Q正伝・狂人日記 他十二篇<br>
+おいしいごはんが食べられますように<br>
 </details>
 <br>
 
