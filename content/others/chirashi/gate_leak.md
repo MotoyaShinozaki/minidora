@@ -14,8 +14,8 @@
 <img src="./gate_sunset.png" width="400px" title="sunset">
 </p>
 
-## Jan. 24th, 2024 measured by Motoya Shinozaki
-## May 2nd, 2025 rendered by Motoya Shinozaki
+### Jan. 24th, 2024 measured by Motoya Shinozaki
+### May 2nd, 2025 rendered by Motoya Shinozaki
 
 
 ## 解説
