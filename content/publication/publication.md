@@ -349,6 +349,18 @@
 
 
 <details>
+<summary>FY2025</summary>
+<ol reversed start="43">
+
+<li> "メタマテリアル構造によるグラフェン新奇物性発現・機能デバイス創出"<br>
+	<b>篠﨑基矢</b>,<br>
+	学術変革領域研究(A)「キメラ準粒子が切り拓く新物性科学」領域会議, 東北大学, 仙台, 2025年5月22-23日<br><br></li>
+
+
+</ol>
+</details>
+
+<details>
 <summary>FY2024</summary>
 <ol reversed start="42">
 
