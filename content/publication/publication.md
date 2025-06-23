@@ -123,7 +123,11 @@
 
 <details>
 <summary>FY2024</summary>
-<ol reversed start="41">
+<ol reversed start="42">
+
+<li> "Automatic detection and analysis of charge transition lines in quantum dots by machine learning"<br>
+	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,,<br>
+ 	The 6th International Symposium on AI and Electronics, Sendai, Jan. 30, 2025.<br><br></li>
 
 <li> "Radio-frequency reflectometry of bilayer graphene quantum devices using RFSoC platform"<br>
 	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
