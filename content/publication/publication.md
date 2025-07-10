@@ -36,9 +36,17 @@
     Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.05878" target="_blank">	arXiv:2501.05878.</a><br><br></li>
 
+
 <li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
     Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
+
+
+<li> "RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices",<br>
+    <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takashi Kumasaka, Tsuyoshi Yoshida, Tomohiro Otsuka,<br>
+	<a href="https://iopscience.iop.org/article/10.35848/1882-0786/ade6c2/meta" target="_blank">Applied Physics Express <b>18</b>, 075001 (2025).</a><br>
+    <a href="https://arxiv.org/abs/2502.15239" target="_blank">	arXiv:2502.15239.</a><br><br></li>
+
 
 <li> "Charge state estimation in quantum dots using a Bayesian approach",<br>
     <b>Motoya Shinozaki</b>, Yui Muto, Takahito Kitada, and Tomohiro Otsuka,<br>
@@ -120,6 +128,19 @@
 <br>
 
 ## 国際会議
+
+
+<details>
+<summary>FY2024</summary>
+<ol reversed start="43">
+
+<li> "Gate-defined bilayer graphene quantum devices probed by radio-frequency reflectometry utilizing RFSoC platform"<br>
+	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
+ 	The 26th International Conference on Electronic Properties of Two-Dimensional Systems(EP2DS) and the 22nd International Conference on Modulated Semiconductor Structures(MSS), St. Louis, America, 27 Jul. - 1 Aug. 2025.<br><br></li>
+
+
+</ol>
+</details>
 
 <details>
 <summary>FY2024</summary>
