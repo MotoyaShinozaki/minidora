@@ -17,7 +17,7 @@
 <ol reversed start="">
 
 <li> "Quantum dot transistors based on CVD-grown graphene nano islands",<br>
-	Takumi Seo, <b>Motoya Shinozaki</b>, Akiko Tada, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, Tomohiro Otsuka,,<br>
+	Takumi Seo*, <b>Motoya Shinozaki</b>*, Akiko Tada*, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, Tomohiro Otsuka (*equal contribution),<br>
     <a href="https://arxiv.org/abs/2506.07455" target="_blank"> arXiv:2506.07455.</a><br><br></li>
 
 <li> "On-chip calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO<sub>3</sub>-based capacitor properties",<br>
@@ -28,9 +28,6 @@
 	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br></li>
 
-<li> "RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices",<br>
-    <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takashi Kumasaka, Tsuyoshi Yoshida, Tomohiro Otsuka,<br>
-    <a href="https://arxiv.org/abs/2502.15239" target="_blank">	arXiv:2502.15239.</a><br><br></li>
 
 <li> "Automatic detection of single-electron regime of quantum dots and definition of virtual gates using U-Net and clustering",<br>
     Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
@@ -131,7 +128,7 @@
 
 
 <details>
-<summary>FY2024</summary>
+<summary>FY2025</summary>
 <ol reversed start="43">
 
 <li> "Gate-defined bilayer graphene quantum devices probed by radio-frequency reflectometry utilizing RFSoC platform"<br>
