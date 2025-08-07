@@ -133,7 +133,7 @@
 
 <li> "Gate-defined bilayer graphene quantum devices probed by radio-frequency reflectometry utilizing RFSoC platform"<br>
 	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
- 	The 26th International Conference on Electronic Properties of Two-Dimensional Systems(EP2DS) and the 22nd International Conference on Modulated Semiconductor Structures(MSS), St. Louis, America, 27 Jul. - 1 Aug. 2025.<br><br></li>
+ 	The 26th International Conference on Electronic Properties of Two-Dimensional Systems(EP2DS) and the 22nd International Conference on Modulated Semiconductor Structures(MSS), St. Louis, USA, 27 Jul. - 1 Aug. 2025.<br><br></li>
 
 
 </ol>
