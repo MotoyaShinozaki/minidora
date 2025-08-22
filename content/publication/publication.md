@@ -129,7 +129,11 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="43">
+<ol reversed start="44">
+
+<li> "Machine Learning-Based Detection of Single-Electron Regime and Virtual Gate Definition in Quantum Dots"<br>
+	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
+ 	2025 International Conference on Solid State Devices and Materials (SSDM2025), Yokohama, Japan, 15-18 Sep. 2025.<br><br></li>
 
 <li> "Gate-defined bilayer graphene quantum devices probed by radio-frequency reflectometry utilizing RFSoC platform"<br>
 	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
@@ -144,7 +148,7 @@
 <ol reversed start="42">
 
 <li> "Automatic detection and analysis of charge transition lines in quantum dots by machine learning"<br>
-	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,,<br>
+	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
  	The 6th International Symposium on AI and Electronics, Sendai, Jan. 30, 2025.<br><br></li>
 
 <li> "Radio-frequency reflectometry of bilayer graphene quantum devices using RFSoC platform"<br>
@@ -376,7 +380,23 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="43">
+<ol reversed start="47">
+
+<li> "オンチップ校正型高周波測定によるSrTiO3コンデンサの低温特性評価"<br>
+	白地昭豊鏡, <b>篠﨑基矢</b>, 富岡泰秀, 井上悠, 伊東謙汰, 小塚裕介, 渡邉孝信, 佐藤彰一, 熊坂武志, 大塚朋廣,<br>
+	日本物理学会2025年春季大会, 広島大学, 広島, 2025年9月16-18日<br><br></li>
+
+<li> "酸化亜鉛における三重量子ドットの形成"<br>
+	馬場光一, 野呂康介, 小塚裕介, 熊坂武志, <b>篠﨑基矢</b>, 川﨑雅司, 大塚朋廣,<br>
+	日本物理学会2025年春季大会, 広島大学, 広島, 2025年9月16-18日<br><br></li>
+
+<li> "微小グラファイトバックゲートを有するMoS<sub>2</sub>量子デバイスの開発"<br>
+	計良雄太, 白地昭豊鏡, <b>篠﨑基矢</b>, 八島俊介, 野呂康介, 熊坂武志, 内海あずさ, 谷口尚, 渡邊賢司, 大塚朋廣,<br>
+	日本物理学会2025年春季大会, 広島大学, 広島, 2025年9月16-18日<br><br></li>
+
+<li> "グラフェンナノアイランド量子ドットの輸送特性評価"<br>
+	<b>篠﨑基矢</b>, 瀬尾拓未A, 多田亜希子, 計良雄太, 八島俊介, 野呂康介, 熊坂武志, 内海あずさ, 松本貴士, 小林義之, 大塚朋廣,<br>
+	日本物理学会2025年春季大会, 広島大学, 広島, 2025年9月16-18日<br><br></li>
 
 <li> "メタマテリアル構造によるグラフェン新奇物性発現・機能デバイス創出"<br>
 	<b>篠﨑基矢</b>,<br>
