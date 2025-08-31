@@ -129,6 +129,8 @@ R.U.R<br>
 呪われたナターシャ:現代ロシアにおける呪術の民族誌<br>
 塩狩峠<br>
 モモ<br>
+羊をめぐる冒険<br>
+Twelve Angry Men<br>
 </details>
 <br>
 
