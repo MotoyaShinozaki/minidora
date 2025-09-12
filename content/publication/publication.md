@@ -17,30 +17,30 @@
 <ol reversed start="">
 
 <li> "Quantum dot transistors based on CVD-grown graphene nano islands",<br>
-	Takumi Seo*, <b>Motoya Shinozaki</b>*, Akiko Tada*, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, Tomohiro Otsuka (*equal contribution),<br>
+	Takumi Seo*, <b>Motoya Shinozaki</b>*, Akiko Tada*, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, and Tomohiro Otsuka (*equal contribution),<br>
     <a href="https://arxiv.org/abs/2506.07455" target="_blank"> arXiv:2506.07455.</a><br><br></li>
 
 <li> "On-chip calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO<sub>3</sub>-based capacitor properties",<br>
-	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, Tomohiro Otsuka,<br>
+	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2504.20311" target="_blank">	arXiv:2504.20311.</a><br><br></li>
 
 <li> "Formation of multiple quantum dots in ZnO heterostructures",<br>
-	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, Tomohiro Otsuka,<br>
+	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br></li>
 
 
 <li> "Automatic detection of single-electron regime of quantum dots and definition of virtual gates using U-Net and clustering",<br>
-    Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
+    Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.05878" target="_blank">	arXiv:2501.05878.</a><br><br></li>
 
 
 <li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
-    Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, Tomohiro Otsuka,<br>
+    Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
 
 
 <li> "RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices",<br>
-    <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takashi Kumasaka, Tsuyoshi Yoshida, Tomohiro Otsuka,<br>
+    <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takashi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
 	<a href="https://iopscience.iop.org/article/10.35848/1882-0786/ade6c2/meta" target="_blank">Applied Physics Express <b>18</b>, 075001 (2025).</a><br>
     <a href="https://arxiv.org/abs/2502.15239" target="_blank">	arXiv:2502.15239.</a><br><br></li>
 
@@ -132,7 +132,7 @@
 <ol reversed start="44">
 
 <li> "Machine Learning-Based Detection of Single-Electron Regime and Virtual Gate Definition in Quantum Dots"<br>
-	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
+	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
  	2025 International Conference on Solid State Devices and Materials (SSDM2025), Yokohama, Japan, 15-18 Sep. 2025.<br><br></li>
 
 <li> "Gate-defined bilayer graphene quantum devices probed by radio-frequency reflectometry utilizing RFSoC platform"<br>
@@ -148,7 +148,7 @@
 <ol reversed start="42">
 
 <li> "Automatic detection and analysis of charge transition lines in quantum dots by machine learning"<br>
-	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, Tomohiro Otsuka,<br>
+	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
  	The 6th International Symposium on AI and Electronics, Sendai, Jan. 30, 2025.<br><br></li>
 
 <li> "Radio-frequency reflectometry of bilayer graphene quantum devices using RFSoC platform"<br>
