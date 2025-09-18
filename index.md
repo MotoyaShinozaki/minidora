@@ -20,7 +20,7 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2025/8/13) :</summary>
+<summary>更新履歴(Last update : 2025/9/18) :</summary>
 <pre>
 2025/7/10  : "Publications (原著論文)"を更新
 2025/5/8  : "AboutMe"を更新
