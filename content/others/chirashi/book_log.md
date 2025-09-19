@@ -131,6 +131,8 @@ R.U.R<br>
 モモ<br>
 羊をめぐる冒険<br>
 Twelve Angry Men<br>
+カタルーニャ語 小さなことば 僕の人生<br>
+天体の回転について<br>
 </details>
 <br>
 
