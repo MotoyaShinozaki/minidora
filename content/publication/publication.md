@@ -129,7 +129,11 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="44">
+<ol reversed start="45">
+
+<li> "Radio-frequency measurement technique for gate-defined bilayer graphene devices by RFSoC platform"<br>
+	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
+ 	The International Conference on Emergent phenomena in chimera quasiparticle science (Chimera 2025), San Sebastian, Spain, 29 Sep.-2 Oct. 2025.<br><br></li>
 
 <li> "Machine Learning-Based Detection of Single-Electron Regime and Virtual Gate Definition in Quantum Dots"<br>
 	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
@@ -137,7 +141,7 @@
 
 <li> "Gate-defined bilayer graphene quantum devices probed by radio-frequency reflectometry utilizing RFSoC platform"<br>
 	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
- 	The 26th International Conference on Electronic Properties of Two-Dimensional Systems(EP2DS) and the 22nd International Conference on Modulated Semiconductor Structures(MSS), St. Louis, USA, 27 Jul. - 1 Aug. 2025.<br><br></li>
+ 	The 26th International Conference on Electronic Properties of Two-Dimensional Systems(EP2DS) and the 22nd International Conference on Modulated Semiconductor Structures(MSS), St. Louis, USA, 27 Jul.-1 Aug. 2025.<br><br></li>
 
 
 </ol>
@@ -380,7 +384,19 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="47">
+<ol reversed start="50">
+
+<li> "RF Reflectometry Evaluation of SrTiO<sub>3</sub> Varactors Using On-Board Calibration at Cryogenic Temperatures"<br>
+	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+	The 14th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 29 Sep.-1 Oct. 2025<br><br></li>
+
+<li> "Integrated Machine Learning Approach for Defining Virtual Gates and Identifying the Single-Electron Regime in Quantum Dots"<br>
+	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
+	The 14th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 29 Sep.-1 Oct. 2025<br><br></li>
+
+<li> "Few-Electron ZnO Double Quantum Dots Characterized via RF Reflectometry"<br>
+	Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Koichi Baba, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
+	The 14th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 29 Sep.-1 Oct. 2025<br><br></li>
 
 <li> "オンチップ校正型高周波測定によるSrTiO3コンデンサの低温特性評価"<br>
 	白地昭豊鏡, <b>篠﨑基矢</b>, 富岡泰秀, 井上悠, 伊東謙汰, 小塚裕介, 渡邉孝信, 佐藤彰一, 熊坂武志, 大塚朋廣,<br>
