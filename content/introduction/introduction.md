@@ -28,7 +28,7 @@
 <!-- 2018/4 Huawei Japan 入社<br> -->
 2018/10 東北大学大学院 工学研究科 電子工学専攻 博士後期課程 編入学<br>
 2020/4 日本学術振興会特別研究員(DC2)<br>
-2022/3 東北大学大学院 工学研究科 電子工学専攻 博士後期課程 修了([深見研究室](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"}, [大塚研究室](https://ja.qd.riec.tohoku.ac.jp/){:target="_blank"})<br>
+2022/3 東北大学大学院 工学研究科 電子工学専攻 博士後期課程 修了([深見研究室](http://www.spin.riec.tohoku.ac.jp/){:target="_blank"})<br>
 2022/4 東京大学大学院 工学系研究科 マテリアル工学専攻 助教 <br>
 2023/3 東北大学 材料科学高等研究所(AIMR) 特任助教 ← 今ここ <br>
 

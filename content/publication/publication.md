@@ -20,9 +20,7 @@
 	Takumi Seo*, <b>Motoya Shinozaki</b>*, Akiko Tada*, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, and Tomohiro Otsuka (*equal contribution),<br>
     <a href="https://arxiv.org/abs/2506.07455" target="_blank"> arXiv:2506.07455.</a><br><br></li>
 
-<li> "On-chip calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO<sub>3</sub>-based capacitor properties",<br>
-	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
-    <a href="https://arxiv.org/abs/2504.20311" target="_blank">	arXiv:2504.20311.</a><br><br></li>
+
 
 <li> "Formation of multiple quantum dots in ZnO heterostructures",<br>
 	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, and Tomohiro Otsuka,<br>
@@ -37,6 +35,12 @@
 <li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
     Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
+
+
+<li> "On-board calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO<sub>3</sub>-based capacitor properties",<br>
+	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+	<a href="https://doi.org/10.1063/5.0299758" target="_blank">Applied Physics Letters <b>127</b>, 153501 (2025).</a><br>
+    <a href="https://arxiv.org/abs/2504.20311" target="_blank">	arXiv:2504.20311.</a><br><br></li>
 
 
 <li> "RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices",<br>
@@ -129,7 +133,20 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="45">
+<ol reversed start="48">
+
+<li> "Microwave varactor using Pt/SrTiO3 Schottky junctions"<br>
+	Kenta Itoh, Akitomi Shirachi, <b>Motoya Shinozaki</b>, Shoichi Sato, Takeshi Kumasa-ka, Tomohiro Otsuka, Takanobu Watanabe, Yusuke Kozuka,<br>
+ 	31st International Workshop on Oxide Electronics, Banff, Switzerland, Sep. 25, 2025<br><br></li>
+
+<li> "Electrostatically defined quantum dots in ZnO heterostructures"<br>
+	Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, Tomohiro Otsuka,<br>
+ 	31st International Workshop on Oxide Electronics, Banff, Switzerland, Sep. 25, 2025<br><br></li>
+
+<li> "Bilayer graphene quantum dot probed by RFSoC-based radio-frequency reflectometry"<br>
+	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
+ 	University of Washington - Tohoku University Quantum Materials Workshop, Seattle, USA, Sep. 25, 2025.<br><br></li>
+
 
 <li> "Radio-frequency measurement technique for gate-defined bilayer graphene devices by RFSoC platform"<br>
 	<b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
