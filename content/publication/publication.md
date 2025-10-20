@@ -133,7 +133,13 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="48">
+<ol reversed start="49">
+
+
+<li> "Cryogenic On-Board Calibrated RF Measurement for Characterizing SrTiO<sub>3</sub>-Based Capacitors "<br>
+	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+ 	International Conference on Hybrid Quantum Systems and Nanotechnologies 2025 (HQSN2025) and International Workshop on Hybrid Quantum Materials, Sciences, and Technologies 2025 (HQMST2025), Shimane, Japan, 27-29 Nov. 2025.<br><br></li>
+
 
 <li> "Microwave varactor using Pt/SrTiO3 Schottky junctions"<br>
 	Kenta Itoh, Akitomi Shirachi, <b>Motoya Shinozaki</b>, Shoichi Sato, Takeshi Kumasa-ka, Tomohiro Otsuka, Takanobu Watanabe, Yusuke Kozuka,<br>
@@ -403,7 +409,7 @@
 <summary>FY2025</summary>
 <ol reversed start="50">
 
-<li> "RF Reflectometry Evaluation of SrTiO<sub>3</sub> Varactors Using On-Board Calibration at Cryogenic Temperatures"<br>
+<li> "Cryogenic RF Characterization of SrTiO₃ Varactors with Integrated On-Board Calibration"<br>
 	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
 	The 14th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 29 Sep.-1 Oct. 2025<br><br></li>
 
