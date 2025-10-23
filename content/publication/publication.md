@@ -22,11 +22,6 @@
 
 
 
-<li> "Formation of multiple quantum dots in ZnO heterostructures",<br>
-	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, and Tomohiro Otsuka,<br>
-    <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br></li>
-
-
 <li> "Automatic detection of single-electron regime of quantum dots and definition of virtual gates using U-Net and clustering",<br>
     Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.05878" target="_blank">	arXiv:2501.05878.</a><br><br></li>
@@ -35,6 +30,12 @@
 <li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
     Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
+
+
+<li> "Formation of few-electron triple quantum dots in ZnO heterostructures",<br>
+	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, and Tomohiro Otsuka,<br>
+	<a href="https://doi.org/10.1038/s41598-025-20567-9" target="_blank">Scientific Reports <b>15</b>, 36612 (2025).</a><br>
+    <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br></li>
 
 
 <li> "On-board calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO<sub>3</sub>-based capacitor properties",<br>
@@ -136,7 +137,7 @@
 <ol reversed start="49">
 
 
-<li> "Cryogenic On-Board Calibrated RF Measurement for Characterizing SrTiO<sub>3</sub>-Based Capacitors "<br>
+<li> "Cryogenic On-Board Calibrated RF Measurement for Characterizing SrTiO<sub>3</sub>-Based Capacitors"<br>
 	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
  	International Conference on Hybrid Quantum Systems and Nanotechnologies 2025 (HQSN2025) and International Workshop on Hybrid Quantum Materials, Sciences, and Technologies 2025 (HQMST2025), Shimane, Japan, 27-29 Nov. 2025.<br><br></li>
 
