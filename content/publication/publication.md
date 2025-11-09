@@ -134,7 +134,28 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="49">
+<ol reversed start="54">
+
+<li> "On-Board Calibrated Cryogenic RF Characterization of SrTiO<sub>3</sub> Varactors for Quantum Device Applications"<br>
+	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
+ 	Materials Science and Spintronics for Sustainable Futures from Tohoku (MSSp2025), Sendai, Japan, 4-7 Nov. 2025.<br><br></li>
+
+<li> "Observation of ZnO Double Quantum Dots in Few-Electron regime"<br>
+	Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Koichi Baba, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
+ 	Materials Science and Spintronics for Sustainable Futures from Tohoku (MSSp2025), Sendai, Japan, 4-7 Nov. 2025.<br><br></li>
+
+<li> "Development of MoS<sub>2</sub> quantum devices with a micro-graphite back gate"<br>
+	Yuta Kera, Akitomi Shirachi, <b>Motoya Shinozaki</b>, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Taniguchi, Kenji Watanabe, and Tomohiro Otsuka,<br>
+ 	Materials Science and Spintronics for Sustainable Futures from Tohoku (MSSp2025), Sendai, Japan, 4-7 Nov. 2025.<br><br></li>
+
+<li> "Formation of quantum dots in graphene nano islands"<br>
+	Takumi Seo, <b>Motoya Shinozaki</b>, Akiko Tada, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, and Tomohiro Otsuka,<br>
+ 	Materials Science and Spintronics for Sustainable Futures from Tohoku (MSSp2025), Sendai, Japan, 4-7 Nov. 2025.<br><br></li>
+
+
+<li> "Machine Learning Approaches to Virtual Gate Design and Single-Electron Detection in Quantum Dots"<br>
+	Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
+ 	Materials Science and Spintronics for Sustainable Futures from Tohoku (MSSp2025), Sendai, Japan, 4-7 Nov. 2025.<br><br></li>
 
 
 <li> "Cryogenic On-Board Calibrated RF Measurement for Characterizing SrTiO<sub>3</sub>-Based Capacitors"<br>
@@ -408,7 +429,11 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="50">
+<ol reversed start="51">
+
+<li> "ナノゲート構造を有するグラフェン量⼦デバイスの要素技術研究"<br>
+	<b>篠﨑基矢</b>,<br>
+	学術変革領域研究(A)「キメラ準粒子が切り拓く新物性科学」領域内研究会「メタマテリアルにおけるキメラ準粒⼦」, 秋保温泉, 仙台, 2025年11月5-6日<br><br></li>
 
 <li> "Cryogenic RF Characterization of SrTiO₃ Varactors with Integrated On-Board Calibration"<br>
 	Akitomi Shirachi, <b>Motoya Shinozaki</b>, Yasuhide Tomioka, Hisashi Inoue, Kenta Itoh, Yusuke Kozuka, Takanobu Watanabe, Shoichi Sato, Takeshi Kumasaka, and Tomohiro Otsuka,<br>
