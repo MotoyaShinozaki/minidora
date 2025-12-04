@@ -16,6 +16,11 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+<li> "Perfect impedance matching unlocks sensitive radio-frequency reflectometry in 2D material quantum dots",<br>
+	<b>Motoya Shinozaki</b>, Akitomi Shirachi, Yuta Kera, Tomoya Johmen, Shunsuke Yashima, Aruto Hosaka, Tsuyoshi Yoshida, Takeshi Kumasaka, Yusuke Kozuka, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2512.02225" target="_blank"> arXiv:2512.02225.</a><br><br></li>
+
+
 <li> "Quantum dot transistors based on CVD-grown graphene nano islands",<br>
 	Takumi Seo*, <b>Motoya Shinozaki</b>*, Akiko Tada*, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, and Tomohiro Otsuka (*equal contribution),<br>
     <a href="https://arxiv.org/abs/2506.07455" target="_blank"> arXiv:2506.07455.</a><br><br></li>
