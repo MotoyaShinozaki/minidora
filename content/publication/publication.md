@@ -16,6 +16,12 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
+
+<li> "Automated Spin Readout Signal Analysis Using U-Net with Variable-Length Traces and Experimental Noise",<br>
+	Yui Muto, <b>Motoya Shinozaki</b>, Hideaki Yuta, Tatsuo Tsuzuki, Kotaro Taga, Akira Oiwa, Takafumi Fujita, Tomohiro Otsuka,<br>
+    <a href="https://arxiv.org/abs/2602.02922" target="_blank"> arXiv:2602.02922.</a><br><br></li>
+
+
 <li> "Perfect impedance matching unlocks sensitive radio-frequency reflectometry in 2D material quantum dots",<br>
 	<b>Motoya Shinozaki</b>, Akitomi Shirachi, Yuta Kera, Tomoya Johmen, Shunsuke Yashima, Aruto Hosaka, Tsuyoshi Yoshida, Takeshi Kumasaka, Yusuke Kozuka, Tomohiro Otsuka,<br>
     <a href="https://arxiv.org/abs/2512.02225" target="_blank"> arXiv:2512.02225.</a><br><br></li>
@@ -40,7 +46,8 @@
 <li> "Formation of few-electron triple quantum dots in ZnO heterostructures",<br>
 	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, and Tomohiro Otsuka,<br>
 	<a href="https://doi.org/10.1038/s41598-025-20567-9" target="_blank">Scientific Reports <b>15</b>, 36612 (2025).</a><br>
-    <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br></li>
+    <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br>
+	<a href="./Baba_SciRep.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 
 <li> "On-board calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO<sub>3</sub>-based capacitor properties",<br>
