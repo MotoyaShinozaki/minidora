@@ -46,7 +46,7 @@
 <li> "Formation of few-electron triple quantum dots in ZnO heterostructures",<br>
 	Koichi Baba, Kosuke Noro, Yusuke Kozuka, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Masashi Kawasaki, and Tomohiro Otsuka,<br>
 	<a href="https://doi.org/10.1038/s41598-025-20567-9" target="_blank">Scientific Reports <b>15</b>, 36612 (2025).</a><br>
-    <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br><br>
+    <a href="https://arxiv.org/abs/2504.03049" target="_blank">	arXiv:2504.03049.</a><br>
 	<a href="./Baba_SciRep.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 
