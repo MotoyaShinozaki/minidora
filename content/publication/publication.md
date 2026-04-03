@@ -444,7 +444,11 @@
 
 <details>
 <summary>FY2025</summary>
-<ol reversed start="51">
+<ol reversed start="52">
+
+<li> "超伝導薄膜トランジスタの開発"<br>
+	<b>篠﨑基矢</b>,<br>
+	TI-FRIS/FRIS Symposium 2026, 東北大学, 仙台, 2026年2月16-17日<br><br></li>
 
 <li> "ナノゲート構造を有するグラフェン量⼦デバイスの要素技術研究"<br>
 	<b>篠﨑基矢</b>,<br>
