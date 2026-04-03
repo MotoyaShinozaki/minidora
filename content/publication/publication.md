@@ -60,7 +60,7 @@
 
 
 <li> "RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices",<br>
-    <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takashi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
+    <b>Motoya Shinozaki</b>, Tomoya Johmen, Aruto Hosaka, Takumi Seo, Shunsuke Yashima, Akitomi Shirachi, Kosuke Noro, Shoichi Sato, Takeshi Kumasaka, Tsuyoshi Yoshida, and Tomohiro Otsuka,<br>
 	<a href="https://iopscience.iop.org/article/10.35848/1882-0786/ade6c2/meta" target="_blank">Applied Physics Express <b>18</b>, 075001 (2025).</a><br>
     <a href="https://arxiv.org/abs/2502.15239" target="_blank">	arXiv:2502.15239.</a><br><br></li>
 
@@ -88,7 +88,7 @@
 
 
 <li> "Microwave dependent quantum transport characteristics in near pinched-off GaN/AlGaN field-effect transistors",<br>
-	<b>Motoya Shinozaki</b>*, Takaya Abe*, Kazuma Matsumura, Takumi Aizawa, Takashi Kumasaka, Tomohiro Otsuka (*equal contribution),<br>
+	<b>Motoya Shinozaki</b>*, Takaya Abe*, Kazuma Matsumura, Takumi Aizawa, Takeshi Kumasaka, Tomohiro Otsuka (*equal contribution),<br>
 	<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035305" target="_blank">Physical Review B <b>110</b>, 035305 (2024).</a><br>
 	<a href="https://arxiv.org/abs/2404.11756" target="_blank">	arXiv:2404.11756.</a><br><br></li>
 
