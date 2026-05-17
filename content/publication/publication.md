@@ -41,7 +41,7 @@
 
 <li> "Automatic detection of single-electron regime of quantum dots and definition of virtual gates using U-Net and clustering",<br>
     Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
-	<a href="https://doi.org/10.1038/s41598-025-20567-9" target="_blank">Scientific Reports <b>16</b>, 8161 (2026).</a><br>
+	<a href="https://doi.org/10.1038/s41598-026-38889-7" target="_blank">Scientific Reports <b>16</b>, 8161 (2026).</a><br>
     <a href="https://arxiv.org/abs/2501.05878" target="_blank">	arXiv:2501.05878.</a><br>
 	<a href="./Muto_SciRep_2026.pdf" target="_blank">プレスリリース</a><br><br></li>
 
@@ -442,6 +442,17 @@
 ## 国内会議・研究会等
 
 
+<details>
+<summary>FY2026</summary>
+<ol reversed start="53">
+
+<li> "メタマテリアル構造による多層グラフェンバンド構造の変調"<br>
+	<b>篠﨑基矢</b>,<br>
+	学術変革領域研究(A)「キメラ準粒子が切り拓く新物性科学」領域会議, 大阪大学豊中キャンパス, 大阪, 2026年5月14-16日<br><br></li>
+
+
+</ol>
+</details>
 <details>
 <summary>FY2025</summary>
 <ol reversed start="52">
