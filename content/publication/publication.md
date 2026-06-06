@@ -17,9 +17,7 @@
 <ol reversed start="">
 
 
-<li> "Automated Spin Readout Signal Analysis Using U-Net with Variable-Length Traces and Experimental Noise",<br>
-	Yui Muto, <b>Motoya Shinozaki</b>, Hideaki Yuta, Tatsuo Tsuzuki, Kotaro Taga, Akira Oiwa, Takafumi Fujita, and Tomohiro Otsuka,<br>
-    <a href="https://arxiv.org/abs/2602.02922" target="_blank"> arXiv:2602.02922.</a><br><br></li>
+
 
 
 <li> "Perfect impedance matching unlocks sensitive radio-frequency reflectometry in 2D material quantum dots",<br>
@@ -38,6 +36,11 @@
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
 
 
+
+<li> "Automated Spin Readout Signal Analysis Using U-Net with Variable-Length Traces and Experimental Noise",<br>
+	Yui Muto, <b>Motoya Shinozaki</b>, Hideaki Yuta, Tatsuo Tsuzuki, Kotaro Taga, Akira Oiwa, Takafumi Fujita, and Tomohiro Otsuka,<br>
+	<a href="https://iopscience.iop.org/article/10.35848/1347-4065/ae653b" target="_blank">Japanese Journal of Applied Physics <b>65</b>, 114001 (2026).</a><br>
+    <a href="https://arxiv.org/abs/2602.02922" target="_blank"> arXiv:2602.02922.</a><br><br></li>
 
 <li> "Automatic detection of single-electron regime of quantum dots and definition of virtual gates using U-Net and clustering",<br>
     Yui Muto, Michael R. Zielewski, <b>Motoya Shinozaki</b>, Kosuke Noro, and Tomohiro Otsuka,<br>
