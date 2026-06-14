@@ -143,7 +143,7 @@ Twelve Angry Men<br>
 忘れ去られた日本人
 
 </details>
-<br>
+
 
 <details>
 <summary>FY2026</summary>
