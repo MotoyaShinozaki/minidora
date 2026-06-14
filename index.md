@@ -20,8 +20,9 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2026/6/6) :</summary>
+<summary>更新履歴(Last update : 2026/6/14) :</summary>
 <pre>
+2026/6/14  : "Others"を更新
 2026/6/6  : "Publications (原著論文)"を更新
 2026/4/3  : "AboutMe"を更新
 2026/4/3  : "Publications (国内学会・研究会等)"を更新
