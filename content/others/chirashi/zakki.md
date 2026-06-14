@@ -20,6 +20,7 @@
 [東北大の編入試験を思ふ](./hennyu.md)<br>
 [2000年代アニメ再考](./anime.md)<br>
 [クルスペメタル](./kruspe.md)<br>
+[楽器道楽](./gakki.md)<br>
 [デバイス最後の日](./gate_leak.md)<br>
 
 

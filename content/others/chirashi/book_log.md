@@ -146,6 +146,15 @@ Twelve Angry Men<br>
 <br>
 
 <details>
+<summary>FY2026</summary>
+星を継ぐもの<br>
+オーケストラの音楽史<br>
+三体<br>
+
+</details>
+<br>
+
+<details>
 <summary>思い出の本棚</summary>
 
 (昔読んだ本で、記憶や印象に残っているものたち)<br>
