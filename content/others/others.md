@@ -7,7 +7,7 @@
 [真空の物理](./vacuum/vacuum.md)<br>
 [チラシの裏](./chirashi/zakki.md)<br>
 [出張の覚書](./travel.md)<br>
-[e-learningシミュレータ](./travel.md)<br>
+[e-learningシミュレータ](./e-L_sim.md.md)<br>
 
 # Return
 [Topに戻る](https://motoyashinozaki.github.io/minidora/)
