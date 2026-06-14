@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>e-learningシミュレータ</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <header>
+      <p class="eyebrow">Motoya games</p>
+      <h1>e-learningシミュレータ</h1>
+      <p class="lead">回答(A-Dで構成される8文字の数列)を送信すると、正答数だけが表示されます。<br>最小手数で全問正解を目指せ!</p>
+    </header>
+
+    <section class="panel play-panel" aria-label="回答画面">
+      <div class="actions top-actions">
+        <button id="resetBtn" type="button" class="secondary">問題リセット</button>
+      </div>
+
+      <label class="answer-label" for="guessInput">回答記入欄</label>
+      <div class="submit-row main-submit">
+        <input id="guessInput" class="guess" value="AAAAAAAA" spellcheck="false" aria-label="回答" />
+        <button id="submitBtn" type="button">回答送信</button>
+      </div>
+
+      <div class="score-display" aria-live="polite">
+        <span>正答数</span>
+        <strong id="publicScore">-</strong>
+        <span id="scoreMax">/ 8</span>
+      </div>
+      <p id="validation" class="warning"></p>
+
+      <div class="score-display" aria-live="polite">
+        <span>回答回数</span>
+        <strong id="turnCount">0</strong>
+        <span id="turnCount"></span>
+      </div>
+      <p id="validation" class="warning"></p>
+    </section>
+    <section>
+        <h2>履歴</h2>
+        <table>
+          <thead><tr><th>#</th><th>回答</th><th>正答数</th><th>残候補</th></tr></thead>
+          <tbody id="historyBody"></tbody>
+        </table>
+      </section>
+    <details id="secretDetails" class="spoiler">
+            <summary>正解を表示</summary>
+            <p id="secretText" class="muted">まだ正解はありません。</p>
+          </details>
+
+
+    <details class="panel admin-panel">
+      <summary>問題カスタム、攻略補助メニューを開く</summary>
+
+      <section class="admin-grid">
+        <div>
+          <h2>条件</h2>
+          <label>問題数<input id="nQuestions" type="number" min="1" max="12" value="8" /></label>
+          <label>選択肢数<input id="nChoices" type="number" min="2" max="8" value="4" /></label>
+          <label>選択肢ラベル<input id="labels" value="ABCD" /></label>
+          <div class="actions">
+            <button id="randomSecretBtn" class="secondary" type="button">問題初期化</button>
+          </div>
+          <details id="secretDetails" class="spoiler">
+            <summary>正解を表示</summary>
+            <p id="secretText" class="muted">まだ正解はありません。</p>
+          </details>
+        </div>
+
+        <div>
+          <h2>候補状態</h2>
+          <div class="stats">
+            <div><strong id="candidateCount">65,536</strong><span>候補数</span></div>
+            <div><strong id="turnCount">0</strong><span>送信回数</span></div>
+            <div><strong id="entropyBound">6</strong><span>情報量下限</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="admin-grid lower">
+        <div>
+          <h2>攻略補助</h2>
+          <div class="recommendation">
+            <button id="recommendBtn" type="button">おすすめを計算</button>
+          </div>
+          <details id="recommendDetails" class="spoiler">
+            <summary>推薦手を表示</summary>
+            <div class="recommendation reveal-row">
+              <code id="bestGuess">計算前</code>
+              <button id="copyBestBtn" class="secondary" type="button">回答欄にコピー</button>
+            </div>
+          </details>
+          <p id="recommendNote" class="muted small">最善手かどうかはわからない</p>
+          <details id="partitionDetails" class="spoiler">
+            <summary>得点別の分岐を表示</summary>
+            <div id="partition" class="bars"></div>
+          </details>
+        </div>
+
+        <div>
+          <h2>候補サンプル</h2>
+          <pre id="candidateSample"></pre>
+        </div>
+      </section>
+
+      <section>
+        <h2>履歴</h2>
+        <table>
+          <thead><tr><th>#</th><th>回答</th><th>正答数</th><th>残候補</th></tr></thead>
+          <tbody id="historyBody"></tbody>
+        </table>
+      </section>
+    </details>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
