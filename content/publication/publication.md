@@ -750,7 +750,7 @@
 
 <li> "メタマテリアル構造によるグラフェン新奇物性発現・機能デバイス創出",<br>
     <b>篠﨑基矢</b>,<br>
-	<a href="https://chimera-qp.ee.es.osaka-u.ac.jp/_wp/wp-content/uploads/2026/06/Newsletter_vol.2_1.pdf" target="_blank"> キメラ準粒子が切り開く新物性科学ニュースレター<b>2</b>, 26 (2026).</a><br>
+	<a href="https://chimera-qp.ee.es.osaka-u.ac.jp/_wp/wp-content/uploads/2026/06/Newsletter_vol.2_1.pdf" target="_blank"> キメラ準粒子が切り開く新物性科学ニュースレター <b>2</b>, 26 (2026).</a><br>
 	<a href="./Chimera_lett.png" target="_blank">記事抜粋</a><br><br></li>
 
 <li> "通信用ロジック・アルゴリズムを活用した量子古典ハイブリッド求解技術の検討",<br>
