@@ -453,7 +453,7 @@
 	<b>篠﨑基矢</b>,<br>
 	第一回量子コンピュータ未来活用ワークショップ, 東北大学片平キャンパス, 仙台, 2026年7月16日<br><br></li>
 
-	
+
 <li> "メタマテリアル構造による多層グラフェンバンド構造の変調"<br>
 	<b>篠﨑基矢</b>,<br>
 	学術変革領域研究(A)「キメラ準粒子が切り拓く新物性科学」領域会議, 大阪大学豊中キャンパス, 大阪, 2026年5月14-16日<br><br></li>
@@ -747,6 +747,12 @@
 <details>
 <summary>こちら</summary>
 <ol reversed start="">
+
+<li> "メタマテリアル構造によるグラフェン新奇物性発現・機能デバイス創出",<br>
+    <b>篠﨑基矢</b>,<br>
+	<a href="https://chimera-qp.ee.es.osaka-u.ac.jp/_wp/wp-content/uploads/2026/06/Newsletter_vol.2_1.pdf" target="_blank"> キメラ準粒子が切り開く新物性科学ニュースレター<b>2</b>, 26 (2026).</a><br>
+	<a href="./Chimera_lett.png" target="_blank">記事抜粋</a><br><br></li>
+
 <li> "通信用ロジック・アルゴリズムを活用した量子古典ハイブリッド求解技術の検討",<br>
     越川 翔太, 保坂有杜, 西川翔太, 小西良明, <b>篠﨑基矢</b>, 大塚朋廣, ハシタ ムトゥマラ ウィッデヤスーリヤ, 張山昌論, 吉田  剛,<br>
 	<a href="https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202402217600750675" target="_blank"> 電子情報通信学会技術研究報告 <b>123</b>, 6 (2024).</a><br><br></li>
