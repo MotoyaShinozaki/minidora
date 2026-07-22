@@ -150,6 +150,8 @@ Twelve Angry Men<br>
 星を継ぐもの<br>
 オーケストラの音楽史<br>
 三体<br>
+虐殺機関<br>
+三国志(吉川英治)<br>
 
 </details>
 <br>
