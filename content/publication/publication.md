@@ -35,6 +35,7 @@
     Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
 	<a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.034078" target="_blank">Physical Review Applied <b>26</b>, 014065 (2026).</a><br>
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br><br></li>
+	<a href="./Noro_PRAppl.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 
 
