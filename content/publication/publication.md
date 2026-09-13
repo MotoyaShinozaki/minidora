@@ -30,7 +30,8 @@
 <li> "Perfect impedance matching unlocks sensitive radio-frequency reflectometry in 2D material quantum dots",<br>
 	<b>Motoya Shinozaki</b>, Akitomi Shirachi, Yuta Kera, Tomoya Johmen, Shunsuke Yashima, Aruto Hosaka, Tsuyoshi Yoshida, Takeshi Kumasaka, Yusuke Kozuka, and Tomohiro Otsuka,<br>
 	<a href="https://doi.org/10.1038/s41699-026-00730-0" target="_blank">npj 2D Materials and Applications <b>XX</b>, XXXXX (2026). *Early access</a><br>
-    <a href="https://arxiv.org/abs/2512.02225" target="_blank"> arXiv:2512.02225.</a><br><br></li>
+    <a href="https://arxiv.org/abs/2512.02225" target="_blank"> arXiv:2512.02225.</a><br>
+	<a href="./Shinozaki_npj2D_2026.pdf" target="_blank">プレスリリース</a><br><br></li>
 
 
 <li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
