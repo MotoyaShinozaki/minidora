@@ -156,7 +156,11 @@
 
 <details>
 <summary>FY2026</summary>
-<ol reversed start="55">
+<ol reversed start="56">
+
+<li> "Microwave varactor using quantum paraelectric Schottky junction"<br>
+	Kenta Itoh, Akitomi Shirachi, <b>Motoya Shinozaki</b>, Shoichi Sato, Takeshi Kumasaka, Tomohiro Otsuka, Takanobu Watanabe, Yusuke Kozuka,<br>
+ 	2025 International Conference on Solid State Devices and Materials (SSDM2026), Nagasaki, Japan, 14-17 Sep. 2026.<br><br></li>
 
 <li> "Few-Electron Double Quantum Dots in ZnO Probed by Radio-Frequency Detected Charge Sensing"<br>
 	Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
@@ -197,7 +201,7 @@
 
 
 <li> "Microwave varactor using Pt/SrTiO3 Schottky junctions"<br>
-	Kenta Itoh, Akitomi Shirachi, <b>Motoya Shinozaki</b>, Shoichi Sato, Takeshi Kumasa-ka, Tomohiro Otsuka, Takanobu Watanabe, Yusuke Kozuka,<br>
+	Kenta Itoh, Akitomi Shirachi, <b>Motoya Shinozaki</b>, Shoichi Sato, Takeshi Kumasaka, Tomohiro Otsuka, Takanobu Watanabe, Yusuke Kozuka,<br>
  	31st International Workshop on Oxide Electronics, Banff, Switzerland, Sep. 25, 2025<br><br></li>
 
 <li> "Electrostatically defined quantum dots in ZnO heterostructures"<br>
