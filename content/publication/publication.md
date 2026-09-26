@@ -19,12 +19,9 @@
 
 
 
-
-
-
-<li> "Quantum dot transistors based on CVD-grown graphene nano islands",<br>
+<li> "Coulomb Blockade in Graphene Nano-islands Formed by Direct CVD Growth on Si/SiO<sub>2</sub> Substrate",<br>
 	Takumi Seo*, <b>Motoya Shinozaki</b>*, Akiko Tada*, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, and Tomohiro Otsuka (*equal contribution),<br>
-	<a href="https://journals.jps.jp/doi/10.7566/JPSJ.95.104602" target="_blank">Journal of the Physical Society of Japan <b>95</b>, 104602 (2026).</a><br>
+	<a href="https://doi.org/10.7566/JPSJ.95.104602" target="_blank">Journal of the Physical Society of Japan <b>95</b>, 104602 (2026).</a><br>
     <a href="https://arxiv.org/abs/2506.07455" target="_blank"> arXiv:2506.07455.</a><br><br></li>
 
 
