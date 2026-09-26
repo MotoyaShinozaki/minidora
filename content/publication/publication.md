@@ -24,6 +24,7 @@
 
 <li> "Quantum dot transistors based on CVD-grown graphene nano islands",<br>
 	Takumi Seo*, <b>Motoya Shinozaki</b>*, Akiko Tada*, Yuta Kera, Shunsuke Yashima, Kosuke Noro, Takeshi Kumasaka, Azusa Utsumi, Takashi Matsumoto, Yoshiyuki Kobayashi, and Tomohiro Otsuka (*equal contribution),<br>
+	<a href="https://journals.jps.jp/doi/10.7566/JPSJ.95.104602" target="_blank">Journal of the Physical Society of Japan <b>95</b>, 104602 (2026).</a><br>
     <a href="https://arxiv.org/abs/2506.07455" target="_blank"> arXiv:2506.07455.</a><br><br></li>
 
 
@@ -36,7 +37,7 @@
 
 <li> "Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry",<br>
     Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
-	<a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.034078" target="_blank">Physical Review Applied <b>26</b>, 014065 (2026).</a><br>
+	<a href="https://doi.org/10.1103/mnt5-s859" target="_blank">Physical Review Applied <b>26</b>, 014065 (2026).</a><br>
     <a href="https://arxiv.org/abs/2501.04949" target="_blank">	arXiv:2501.04949.</a><br>
 	<a href="./Noro_PRAppl.pdf" target="_blank">プレスリリース</a><br><br></li>
 
@@ -161,7 +162,7 @@
 
 <li> "Microwave varactor using quantum paraelectric Schottky junction"<br>
 	Kenta Itoh, Akitomi Shirachi, <b>Motoya Shinozaki</b>, Shoichi Sato, Takeshi Kumasaka, Tomohiro Otsuka, Takanobu Watanabe, Yusuke Kozuka,<br>
- 	2025 International Conference on Solid State Devices and Materials (SSDM2026), Nagasaki, Japan, 14-17 Sep. 2026.<br><br></li>
+ 	2026 International Conference on Solid State Devices and Materials (SSDM2026), Nagasaki, Japan, 14-17 Sep. 2026.<br><br></li>
 
 <li> "Few-Electron Double Quantum Dots in ZnO Probed by Radio-Frequency Detected Charge Sensing"<br>
 	Kosuke Noro, <b>Motoya Shinozaki</b>, Yusuke Kozuka, Kazuma Matsumura, Yoshihiro Fujiwara, Takeshi Kumasaka, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
