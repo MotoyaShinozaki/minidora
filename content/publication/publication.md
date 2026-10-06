@@ -465,7 +465,12 @@
 
 <details>
 <summary>FY2026</summary>
-<ol reversed start="54">
+<ol reversed start="55">
+
+<li> "Radio-Frequency Reflectometry of ZnO Multiple Quantum Dots"<br>
+	Kosuke Noro, Koichi Baba, Yusuke Kozuka, Kazuma Matsumura, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
+	The 15th Workshop on Semiconductor/Superconductor Quantum Coherence Effect and Quantum Information, Nasu, Japan, 30 Sep.-1 Oct. 2026<br><br></li>
+
 
 <li> "半導体量⼦ドット配線構造における熱挙動のCFD解析"<br>
 	<b>篠﨑基矢</b>,<br>
