@@ -19,39 +19,60 @@
 <br>
 
 最近読み終えた本たち
-<details>
-<summary>FY2022</summary>
-<a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
-老人と海<br>
-<a href="./book/sin.html" target="_self">罪と罰</a><br>
-Die with zero<br>
-</details>
 
 <details>
-<summary>FY2023</summary>
-<a href="./book/yohaku.html" target="_self">ロシア語の余白の余白</a><br>
-ロシア語だけの青春<br>
-早すぎた男 南部陽一郎物語<br>
-ことばと思考<br>
-無限の天才―夭逝の数学者・ラマヌジャン<br>
-言語哲学がはじまる<br>
-マヤ文明の謎<br>
-外国語の遊園地<br>
-<a href="./book/israel.html" target="_self">イスラエル 人類史上最もやっかいな問題</a><br>
-ご冗談でしょう, ファインマンさん<br>
-チョムスキー<br>
-現象学<br>
-もっとにぎやかな外国語の世界<br>
-量子力学と私<br>
-ロウソクの科学<br>
-言語起源論-旋律と音楽的模倣について-<br>
-魏志倭人伝<br>
-動物農場<br>
-言語の本質<br>
-<a href="./book/coffee.html" target="_self">珈琲店タレーランの事件簿</a><br>
-さよならドビュッシー<br>
-おやすみラフマニノフ<br>
-船を編む<br>
+<summary>FY2026</summary>
+言葉から社会を考える<br>
+三体Ⅱ 黒暗森林 上<br>
+ティンカー、テイラー、ソルジャー、スパイ<br>
+地面師<br>
+「地図感覚」から都市を読み解く<br>
+
+三国志(吉川英治) 図南の巻<br>
+三国志(吉川英治) 出師の巻<br>
+三国志(吉川英治) 図南の巻<br>
+三国志(吉川英治) 望蜀の巻<br>
+三国志(吉川英治) 赤壁の巻<br>
+三国志(吉川英治) 孔明の巻<br>
+三国志(吉川英治) 臣道の巻<br>
+三国志(吉川英治) 草莽の巻<br>
+三国志(吉川英治) 群星の巻<br>
+三国志(吉川英治) 桃園の巻<br>
+虐殺機関<br>
+三体<br>
+オーケストラの音楽史<br>
+星を継ぐもの<br>
+</details>
+
+
+
+<details>
+<summary>FY2025</summary>
+紫の火花<br>
+<a href="./book/iraku.html" target="_self">イラク水滸伝</a><br>
+R.U.R<br>
+阿Q正伝・狂人日記 他十二篇<br>
+おいしいごはんが食べられますように<br>
+旅をする木<br>
+若き数学者のアメリカ<br>
+風の歌を聴け<br>
+1973年のピンボール<br>
+呪われたナターシャ:現代ロシアにおける呪術の民族誌<br>
+塩狩峠<br>
+モモ<br>
+羊をめぐる冒険<br>
+Twelve Angry Men<br>
+科挙<br>
+カタルーニャ語 小さなことば 僕の人生<br>
+天体の回転について<br>
+国宝<br>
+翻訳教室(柴田元幸)<br>
+喜嶋先生の静かな世界<br>
+わたし、定時で帰ります。<br>
+イン・ザ・メガチャーチ<br>
+ルポ 秀和幡ヶ谷レジデンス<br>
+忘れ去られた日本人
+
 </details>
 
 <details>
@@ -115,58 +136,45 @@ Back to the future<br>
 恐竜学者は止まらない<br>
 </details>
 
-<details>
-<summary>FY2025</summary>
-紫の火花<br>
-<a href="./book/iraku.html" target="_self">イラク水滸伝</a><br>
-R.U.R<br>
-阿Q正伝・狂人日記 他十二篇<br>
-おいしいごはんが食べられますように<br>
-旅をする木<br>
-若き数学者のアメリカ<br>
-風の歌を聴け<br>
-1973年のピンボール<br>
-呪われたナターシャ:現代ロシアにおける呪術の民族誌<br>
-塩狩峠<br>
-モモ<br>
-羊をめぐる冒険<br>
-Twelve Angry Men<br>
-科挙<br>
-カタルーニャ語 小さなことば 僕の人生<br>
-天体の回転について<br>
-国宝<br>
-翻訳教室(柴田元幸)<br>
-喜嶋先生の静かな世界<br>
-わたし、定時で帰ります。<br>
-イン・ザ・メガチャーチ<br>
-ルポ 秀和幡ヶ谷レジデンス<br>
-忘れ去られた日本人
 
+<details>
+<summary>FY2023</summary>
+<a href="./book/yohaku.html" target="_self">ロシア語の余白の余白</a><br>
+ロシア語だけの青春<br>
+早すぎた男 南部陽一郎物語<br>
+ことばと思考<br>
+無限の天才―夭逝の数学者・ラマヌジャン<br>
+言語哲学がはじまる<br>
+マヤ文明の謎<br>
+外国語の遊園地<br>
+<a href="./book/israel.html" target="_self">イスラエル 人類史上最もやっかいな問題</a><br>
+ご冗談でしょう, ファインマンさん<br>
+チョムスキー<br>
+現象学<br>
+もっとにぎやかな外国語の世界<br>
+量子力学と私<br>
+ロウソクの科学<br>
+言語起源論-旋律と音楽的模倣について-<br>
+魏志倭人伝<br>
+動物農場<br>
+言語の本質<br>
+<a href="./book/coffee.html" target="_self">珈琲店タレーランの事件簿</a><br>
+さよならドビュッシー<br>
+おやすみラフマニノフ<br>
+船を編む<br>
 </details>
 
 
 <details>
-<summary>FY2026</summary>
-星を継ぐもの<br>
-オーケストラの音楽史<br>
-三体<br>
-虐殺機関<br>
-三国志(吉川英治) 桃園の巻<br>
-三国志(吉川英治) 群星の巻<br>
-三国志(吉川英治) 草莽の巻<br>
-三国志(吉川英治) 臣道の巻<br>
-三国志(吉川英治) 孔明の巻<br>
-三国志(吉川英治) 赤壁の巻<br>
-三国志(吉川英治) 望蜀の巻<br>
-三国志(吉川英治) 図南の巻<br>
-三国志(吉川英治) 出師の巻<br>
-三国志(吉川英治) 図南の巻<br>
-「地図感覚」から都市を読み解く<br>
-地面師<br>
-ティンカー、テイラー、ソルジャー、スパイ<br>
-三体Ⅱ 黒暗森林 上
-
+<summary>FY2022</summary>
+<a href="./book/bochan.html" target="_self">坊っちゃん</a><br>
+老人と海<br>
+<a href="./book/sin.html" target="_self">罪と罰</a><br>
+Die with zero<br>
 </details>
+
+
+
 <br>
 
 <details>
