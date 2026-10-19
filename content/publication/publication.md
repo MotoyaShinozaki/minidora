@@ -465,7 +465,11 @@
 
 <details>
 <summary>FY2026</summary>
-<ol reversed start="55">
+<ol reversed start="56">
+
+<li> "大規模量子コンピュータ実現に向けた量子デバイス・測定システムに関する研究"<br>
+	<b>篠﨑基矢</b>, 五十嵐純太, 則元将太, 荒川智紀, 中村秀司<br>
+	第4回ナノエラストロニクス・ワークショップ, カフー リゾート フチャク コンド・ホテル, 沖縄, 2026年10月25-27日<br><br></li>
 
 <li> "Radio-Frequency Reflectometry of ZnO Multiple Quantum Dots"<br>
 	Kosuke Noro, Koichi Baba, Yusuke Kozuka, Kazuma Matsumura, Takeshi Kumasaka, <b>Motoya Shinozaki</b>, Yoshihiro Fujiwara, Atsushi Tsukazaki, Masashi Kawasaki, and Tomohiro Otsuka,<br>
@@ -474,7 +478,7 @@
 
 <li> "半導体量⼦ドット配線構造における熱挙動のCFD解析"<br>
 	<b>篠﨑基矢</b>,<br>
-	第一回量子コンピュータ未来活用ワークショップ, 東北大学片平キャンパス, 仙台, 2026年7月16日<br><br></li>
+	第1回量子コンピュータ未来活用ワークショップ, 東北大学片平キャンパス, 仙台, 2026年7月16日<br><br></li>
 
 
 <li> "メタマテリアル構造による多層グラフェンバンド構造の変調"<br>
