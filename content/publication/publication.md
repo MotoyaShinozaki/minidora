@@ -16,11 +16,9 @@
 <summary>こちら</summary>
 <ol reversed start="">
 
-
-
 <li> "Inhomogeneity of magnetic anisotropy and damping in nanoscale magnetic tunnel junctions",<br>
     <b>Motoya Shinozaki</b>, Junta Igarashi, Butsurin Jinnai, Shunsuke Fukami, Hideo Sato and Hideo Ohno,<br>
-	<a href="https://doi.org/10.1103/l7gr-lj4k" target="_blank">Physical Review Applied <b>26</b>, 044089 (2026).</a><br>
+	<a href="https://doi.org/10.1103/l7gr-lj4k" target="_blank">Physical Review Applied <b>26</b>, 044089 (2026).</a><br><br></li>
 
 
 <li> "Coulomb Blockade in Graphene Nano-islands Formed by Direct CVD Growth on Si/SiO<sub>2</sub> Substrate",<br>
