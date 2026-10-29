@@ -1,5 +1,10 @@
 # 私的な近況
 
+## 2026/10/29 : 論文
+論文がPhysical Review Applied誌に掲載されました。<br>
+ご協力・議論いただいた皆様ありがとうございました<br>
+
+
 ## 2026/9/26 : 論文
 論文がJournal of the Physical Society of Japan誌に掲載されました。<br>
 ご協力・議論いただいた皆様ありがとうございました<br>

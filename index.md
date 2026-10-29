@@ -20,8 +20,9 @@
 <br>
 
 <details>
-<summary>更新履歴(Last update : 2026/9/26) :</summary>
+<summary>更新履歴(Last update : 2026/10/29) :</summary>
 <pre>
+2026/10/29  : "Publications (原著論文)"を更新
 2026/9/26  : "Publications (原著論文)"を更新
 2026/8/26  : "Publications (原著論文)"を更新
 2026/7/22  : "Publications (原著論文)"を更新
